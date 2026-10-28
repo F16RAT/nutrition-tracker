@@ -1,0 +1,29 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="Nutrition">
+<meta name="color-scheme" content="light dark"><meta name="theme-color" content="#141820">
+<link rel="apple-touch-icon" href="icon-180.png"><link rel="manifest" href="manifest.json">
+<title>Nutrition</title>
+<style>
+:root{--bg:#f4f5f7;--card:#fff;--tx:#1b1f27;--mu:#6b7280;--tr:#e5e7eb;--red:#e74c3c;--amb:#f39c12;--grn:#27ae60;--blu:#3b82f6;--acc:#2ecc71}
+@media (prefers-color-scheme:dark){:root{--bg:#0f1218;--card:#1a1f29;--tx:#e8eaf0;--mu:#9aa3b2;--tr:#2a3140}}
+*{box-sizing:border-box}body{margin:0;font:15px/1.4 -apple-system,system-ui,sans-serif;background:var(--bg);color:var(--tx);padding:env(safe-area-inset-top) 12px calc(20px + env(safe-area-inset-bottom))}
+.card{background:var(--card);border-radius:14px;padding:14px;margin:12px 0}h2{font-size:15px;margin:0 0 10px;color:var(--mu);text-transform:uppercase;letter-spacing:.04em}
+.dt{display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;background:var(--bg);padding:10px 0;z-index:2}
+.dt button{font-size:20px;border:0;background:var(--card);color:var(--tx);border-radius:10px;width:44px;height:44px}
+.dt div{text-align:center}.dt b{display:block;font-size:17px}.dt small{color:var(--mu)}
+.ring{display:flex;align-items:center;gap:16px}.ring svg{flex:none}.big{font-size:28px;font-weight:700}
+.bar{margin:8px 0}.bl{display:flex;justify-content:space-between;font-size:13px}.bt{height:9px;background:var(--tr);border-radius:5px;overflow:hidden;margin-top:3px}.bf{height:100%;border-radius:5px}
+.mu{color:var(--mu);font-size:12px}.flag{margin:4px 0;font-size:14px}
+details{border-top:1px solid var(--tr);padding:8px 0}summary{display:flex;justify-content:space-between;cursor:pointer;list-style:none}
+.it{display:flex;justify-content:space-between;font-size:13px;padding:4px 0 4px 10px;color:var(--mu)}
+.chart{display:flex;align-items:flex-end;gap:6px;height:110px}.col{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;height:100%;font-size:10px;color:var(--mu)}
+.col i{display:block;width:100%;border-radius:4px 4px 0 0}.badge{background:var(--amb);color:#000;border-radius:6px;padding:1px 6px;font-size:11px}
+</style></head><body>
+<div class="dt"><button id="prev" aria-label="Previous day">‹</button><div><b id="dlabel"></b><small id="dsub"></small></div><button id="next" aria-label="Next day">›</button></div>
+<div id="app"><p class="mu">Loading…</p></div>
+<p class="mu" style="text-align:center">Values are approximate estimates, not lab measurements.<br><span id="upd"></span></p>
+<script src="app.js"></script>
+<script>if('serviceWorker'in navigator)navigator.serviceWorker.register('sw.js').catch(()=>{})</script>
+</body></html>

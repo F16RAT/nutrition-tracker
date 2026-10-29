@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-29T12:52:36-07:00",
+ "last_updated": "2026-10-29T14:00:23-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -699,6 +699,27 @@
       }
      ],
      "note": "Breakfast taco minus cheese, Fage with blueberries and honey, AG1"
+    },
+    {
+     "time": "14:00",
+     "name": "Chocolate",
+     "items": [
+      {
+       "food": "Cadbury dark chocolate, 2 blocks (11 g; label 5 blocks = 140 kcal)",
+       "kcal": 56,
+       "protein": 0.4,
+       "carbs": 6.8,
+       "fat": 3.6,
+       "fiber": 0.8,
+       "nutrients": {
+        "iron_mg": 1.1,
+        "satfat_g": 2.4,
+        "sugar_g": 5.6,
+        "potassium_mg": 40
+       }
+      }
+     ],
+     "note": ""
     }
    ],
    "notes": "",

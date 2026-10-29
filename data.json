@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-28T18:33:56-07:00",
+ "last_updated": "2026-10-28T19:01:32-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -492,6 +492,30 @@
       }
      ],
      "note": "chili and cornbread at parents'"
+    },
+    {
+     "time": "19:00",
+     "name": "Dessert",
+     "items": [
+      {
+       "food": "Spice cake with cream cheese frosting, 1 slice (~100 g, partly eaten)",
+       "kcal": 330,
+       "protein": 3.5,
+       "carbs": 48,
+       "fat": 14,
+       "fiber": 1,
+       "nutrients": {
+        "calcium_mg": 60,
+        "sodium_mg": 280,
+        "iron_mg": 1.2,
+        "sugar_g": 32,
+        "satfat_g": 4.5,
+        "potassium_mg": 110,
+        "magnesium_mg": 14
+       }
+      }
+     ],
+     "note": ""
     }
    ],
    "active_kcal": 419,

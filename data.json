@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-28T18:22:12-07:00",
+ "last_updated": "2026-10-28T18:33:56-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -474,6 +474,20 @@
         "satfat_g": 1.5,
         "potassium_mg": 70,
         "magnesium_mg": 15
+       }
+      },
+      {
+       "food": "1 glass red wine (5 oz)",
+       "kcal": 125,
+       "protein": 0.1,
+       "carbs": 4,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "potassium_mg": 187,
+        "magnesium_mg": 12,
+        "iron_mg": 0.7,
+        "sugar_g": 1
        }
       }
      ],

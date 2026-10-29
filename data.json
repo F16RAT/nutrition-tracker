@@ -1,525 +1,549 @@
 {
-  "last_updated": "2026-10-28T19:01:32-07:00",
-  "targets": {
-    "kcal": 2200,
-    "kcal_by_day_type": {
-      "rest": 2100,
-      "lifting": 2300,
-      "hard": 2450
-    },
-    "protein": 160,
-    "protein_range": [
-      150,
-      170
-    ],
-    "fiber": 35,
-    "fat": 75,
-    "carbs": 220,
-    "nutrients": {
-      "iron_mg": {
-        "label": "Iron",
-        "unit": "mg",
-        "target": 8
-      },
-      "calcium_mg": {
-        "label": "Calcium",
-        "unit": "mg",
-        "target": 1200
-      },
-      "magnesium_mg": {
-        "label": "Magnesium",
-        "unit": "mg",
-        "target": 420
-      },
-      "potassium_mg": {
-        "label": "Potassium",
-        "unit": "mg",
-        "target": 3400
-      },
-      "sodium_mg": {
-        "label": "Sodium",
-        "unit": "mg",
-        "target": 2300,
-        "limit": true
-      },
-      "vitD_mcg": {
-        "label": "Vitamin D",
-        "unit": "mcg",
-        "target": 20
-      },
-      "b12_mcg": {
-        "label": "Vitamin B12",
-        "unit": "mcg",
-        "target": 2.4
-      },
-      "vitC_mg": {
-        "label": "Vitamin C",
-        "unit": "mg",
-        "target": 90
-      },
-      "zinc_mg": {
-        "label": "Zinc",
-        "unit": "mg",
-        "target": 11
-      },
-      "omega3_g": {
-        "label": "Omega-3",
-        "unit": "g",
-        "target": 1.6
-      },
-      "sugar_g": {
-        "label": "Sugar (total; keep added <36 g)",
-        "unit": "g",
-        "target": 50,
-        "limit": true
-      },
-      "satfat_g": {
-        "label": "Saturated fat",
-        "unit": "g",
-        "target": 22,
-        "limit": true
-      }
-    }
+ "last_updated": "2026-10-29T08:48:33-07:00",
+ "targets": {
+  "kcal": 2200,
+  "kcal_by_day_type": {
+   "rest": 2100,
+   "lifting": 2300,
+   "hard": 2450
   },
-  "days": {
-    "2026-10-28": {
-      "estimate": true,
-      "notes": "DEMO/ESTIMATES \u2014 values approximate (USDA-style). Dinner (chili + cornbread + 1 glass wine at parents') not yet logged.",
-      "meals": [
-        {
-          "time": "08:00",
-          "name": "Morning coffee",
-          "note": "2 cups black coffee (0 kcal)",
-          "items": [
-            {
-              "food": "2 cups black coffee",
-              "kcal": 5,
-              "protein": 0.6,
-              "carbs": 0,
-              "fat": 0.1,
-              "fiber": 0,
-              "nutrients": {
-                "iron_mg": 0,
-                "calcium_mg": 0,
-                "magnesium_mg": 14,
-                "potassium_mg": 230,
-                "sodium_mg": 10,
-                "vitD_mcg": 0,
-                "b12_mcg": 0,
-                "vitC_mg": 0,
-                "zinc_mg": 0,
-                "omega3_g": 0,
-                "sugar_g": 0,
-                "satfat_g": 0
-              }
-            }
-          ]
-        },
-        {
-          "time": "08:00",
-          "name": "Pre-workout",
-          "items": [
-            {
-              "food": "Greek Gods honey vanilla Greek yogurt (5 oz)",
-              "kcal": 180,
-              "protein": 9,
-              "carbs": 22,
-              "fat": 7,
-              "fiber": 0,
-              "nutrients": {
-                "calcium_mg": 230,
-                "potassium_mg": 280,
-                "sodium_mg": 65,
-                "vitD_mcg": 0,
-                "b12_mcg": 0.6,
-                "zinc_mg": 0.9,
-                "sugar_g": 20,
-                "satfat_g": 4.5,
-                "iron_mg": 0,
-                "magnesium_mg": 25
-              }
-            },
-            {
-              "food": "Optimum Nutrition Gold Standard whey, vanilla ice cream (1 scoop)",
-              "kcal": 120,
-              "protein": 24,
-              "carbs": 3,
-              "fat": 1,
-              "fiber": 0,
-              "nutrients": {
-                "calcium_mg": 130,
-                "potassium_mg": 160,
-                "sodium_mg": 130,
-                "iron_mg": 0.4,
-                "magnesium_mg": 25,
-                "sugar_g": 2,
-                "satfat_g": 0.5,
-                "b12_mcg": 0.3,
-                "zinc_mg": 0.3
-              }
-            }
-          ],
-          "note": "before Strength B at EOS"
-        },
-        {
-          "time": "11:50",
-          "name": "Breakfast",
-          "note": "Estimate ~715 kcal / ~35 g protein",
-          "items": [
-            {
-              "food": "3 large eggs",
-              "kcal": 216,
-              "protein": 18,
-              "carbs": 1.1,
-              "fat": 14.3,
-              "fiber": 0,
-              "nutrients": {
-                "iron_mg": 2.6,
-                "calcium_mg": 84,
-                "magnesium_mg": 18,
-                "potassium_mg": 207,
-                "sodium_mg": 213,
-                "vitD_mcg": 3.0,
-                "b12_mcg": 1.3,
-                "vitC_mg": 0,
-                "zinc_mg": 1.9,
-                "omega3_g": 0.1,
-                "sugar_g": 0.6,
-                "satfat_g": 4.7
-              }
-            },
-            {
-              "food": "3 slices bacon",
-              "kcal": 120,
-              "protein": 8,
-              "carbs": 0.3,
-              "fat": 9.5,
-              "fiber": 0,
-              "nutrients": {
-                "iron_mg": 0.3,
-                "calcium_mg": 3,
-                "magnesium_mg": 9,
-                "potassium_mg": 150,
-                "sodium_mg": 550,
-                "vitD_mcg": 0.3,
-                "b12_mcg": 0.3,
-                "vitC_mg": 0,
-                "zinc_mg": 0.9,
-                "omega3_g": 0.05,
-                "sugar_g": 0,
-                "satfat_g": 3.2
-              }
-            },
-            {
-              "food": "2 slices Proof Khorasan sourdough",
-              "kcal": 190,
-              "protein": 7,
-              "carbs": 38,
-              "fat": 1.4,
-              "fiber": 4,
-              "nutrients": {
-                "iron_mg": 2.2,
-                "calcium_mg": 20,
-                "magnesium_mg": 40,
-                "potassium_mg": 120,
-                "sodium_mg": 400,
-                "vitD_mcg": 0,
-                "b12_mcg": 0,
-                "vitC_mg": 0,
-                "zinc_mg": 1.2,
-                "omega3_g": 0,
-                "sugar_g": 1,
-                "satfat_g": 0.3
-              }
-            },
-            {
-              "food": "1 tsp Kerrygold butter",
-              "kcal": 34,
-              "protein": 0,
-              "carbs": 0,
-              "fat": 3.8,
-              "fiber": 0,
-              "nutrients": {
-                "iron_mg": 0,
-                "calcium_mg": 1,
-                "magnesium_mg": 0,
-                "potassium_mg": 0,
-                "sodium_mg": 27,
-                "vitD_mcg": 0.1,
-                "b12_mcg": 0,
-                "vitC_mg": 0,
-                "zinc_mg": 0,
-                "omega3_g": 0,
-                "sugar_g": 0,
-                "satfat_g": 2.4
-              }
-            },
-            {
-              "food": "1 tsp honey",
-              "kcal": 21,
-              "protein": 0,
-              "carbs": 5.8,
-              "fat": 0,
-              "fiber": 0,
-              "nutrients": {
-                "iron_mg": 0,
-                "calcium_mg": 0,
-                "magnesium_mg": 0,
-                "potassium_mg": 4,
-                "sodium_mg": 0,
-                "vitD_mcg": 0,
-                "b12_mcg": 0,
-                "vitC_mg": 0,
-                "zinc_mg": 0,
-                "omega3_g": 0,
-                "sugar_g": 5.8,
-                "satfat_g": 0
-              }
-            },
-            {
-              "food": "Organic avocado & sea salt, ~2 oz",
-              "kcal": 91,
-              "protein": 1.1,
-              "carbs": 4.9,
-              "fat": 8.4,
-              "fiber": 3.8,
-              "nutrients": {
-                "iron_mg": 0.3,
-                "calcium_mg": 7,
-                "magnesium_mg": 16,
-                "potassium_mg": 277,
-                "sodium_mg": 150,
-                "vitD_mcg": 0,
-                "b12_mcg": 0,
-                "vitC_mg": 5,
-                "zinc_mg": 0.4,
-                "omega3_g": 0.06,
-                "sugar_g": 0.4,
-                "satfat_g": 1.2
-              }
-            },
-            {
-              "food": "AG1, 1 scoop",
-              "kcal": 50,
-              "protein": 2,
-              "carbs": 6,
-              "fat": 0,
-              "fiber": 2,
-              "nutrients": {
-                "iron_mg": 0,
-                "calcium_mg": 116,
-                "magnesium_mg": 26,
-                "potassium_mg": 300,
-                "sodium_mg": 45,
-                "vitD_mcg": 0,
-                "b12_mcg": 22,
-                "vitC_mg": 420,
-                "zinc_mg": 15,
-                "omega3_g": 0,
-                "sugar_g": 1,
-                "satfat_g": 0
-              }
-            }
-          ]
-        },
-        {
-          "time": "15:05",
-          "name": "Afternoon snack",
-          "note": "Estimate ~300 kcal / ~22 g protein",
-          "items": [
-            {
-              "food": "Fage Total 5% yogurt, 170 g",
-              "kcal": 160,
-              "protein": 16,
-              "carbs": 6,
-              "fat": 8.5,
-              "fiber": 0,
-              "nutrients": {
-                "iron_mg": 0,
-                "calcium_mg": 170,
-                "magnesium_mg": 17,
-                "potassium_mg": 220,
-                "sodium_mg": 55,
-                "vitD_mcg": 0,
-                "b12_mcg": 0.9,
-                "vitC_mg": 0,
-                "zinc_mg": 0.9,
-                "omega3_g": 0,
-                "sugar_g": 6,
-                "satfat_g": 5.5
-              }
-            },
-            {
-              "food": "Blueberries, handful (~50 g)",
-              "kcal": 29,
-              "protein": 0.4,
-              "carbs": 7.2,
-              "fat": 0.2,
-              "fiber": 1.2,
-              "nutrients": {
-                "iron_mg": 0.1,
-                "calcium_mg": 3,
-                "magnesium_mg": 3,
-                "potassium_mg": 39,
-                "sodium_mg": 0,
-                "vitD_mcg": 0,
-                "b12_mcg": 0,
-                "vitC_mg": 5,
-                "zinc_mg": 0,
-                "omega3_g": 0,
-                "sugar_g": 5,
-                "satfat_g": 0
-              }
-            },
-            {
-              "food": "1 tsp honey",
-              "kcal": 21,
-              "protein": 0,
-              "carbs": 5.8,
-              "fat": 0,
-              "fiber": 0,
-              "nutrients": {
-                "iron_mg": 0,
-                "calcium_mg": 0,
-                "magnesium_mg": 0,
-                "potassium_mg": 4,
-                "sodium_mg": 0,
-                "vitD_mcg": 0,
-                "b12_mcg": 0,
-                "vitC_mg": 0,
-                "zinc_mg": 0,
-                "omega3_g": 0,
-                "sugar_g": 5.8,
-                "satfat_g": 0
-              }
-            },
-            {
-              "food": "Kirkland mixed nuts, half pack (~16 g)",
-              "kcal": 95,
-              "protein": 3.5,
-              "carbs": 3.5,
-              "fat": 8.5,
-              "fiber": 1.2,
-              "nutrients": {
-                "iron_mg": 0.5,
-                "calcium_mg": 15,
-                "magnesium_mg": 35,
-                "potassium_mg": 100,
-                "sodium_mg": 50,
-                "vitD_mcg": 0,
-                "b12_mcg": 0,
-                "vitC_mg": 0,
-                "zinc_mg": 0.6,
-                "omega3_g": 0.1,
-                "sugar_g": 0.7,
-                "satfat_g": 1.2
-              }
-            }
-          ]
-        },
-        {
-          "time": "18:15",
-          "name": "Dinner",
-          "items": [
-            {
-              "food": "Beef and bean chili, ~1.5 cups",
-              "kcal": 400,
-              "protein": 29,
-              "carbs": 32,
-              "fat": 16,
-              "fiber": 9,
-              "nutrients": {
-                "iron_mg": 4.5,
-                "calcium_mg": 110,
-                "magnesium_mg": 85,
-                "potassium_mg": 900,
-                "sodium_mg": 950,
-                "zinc_mg": 5.5,
-                "b12_mcg": 2.0,
-                "vitC_mg": 12,
-                "sugar_g": 7,
-                "satfat_g": 6.5,
-                "vitD_mcg": 0.2,
-                "omega3_g": 0.1
-              }
-            },
-            {
-              "food": "Shredded Mexican cheese blend, ~1/4 cup",
-              "kcal": 110,
-              "protein": 7,
-              "carbs": 1,
-              "fat": 9,
-              "fiber": 0,
-              "nutrients": {
-                "calcium_mg": 200,
-                "sodium_mg": 180,
-                "satfat_g": 5.5,
-                "b12_mcg": 0.3,
-                "zinc_mg": 0.9,
-                "vitD_mcg": 0.1
-              }
-            },
-            {
-              "food": "1 square cornbread muffin",
-              "kcal": 170,
-              "protein": 3,
-              "carbs": 26,
-              "fat": 6,
-              "fiber": 1,
-              "nutrients": {
-                "calcium_mg": 50,
-                "sodium_mg": 280,
-                "iron_mg": 1,
-                "sugar_g": 9,
-                "satfat_g": 1.5,
-                "potassium_mg": 70,
-                "magnesium_mg": 15
-              }
-            },
-            {
-              "food": "1 glass red wine (5 oz)",
-              "kcal": 125,
-              "protein": 0.1,
-              "carbs": 4,
-              "fat": 0,
-              "fiber": 0,
-              "nutrients": {
-                "potassium_mg": 187,
-                "magnesium_mg": 12,
-                "iron_mg": 0.7,
-                "sugar_g": 1
-              }
-            }
-          ],
-          "note": "chili and cornbread at parents'"
-        },
-        {
-          "time": "19:00",
-          "name": "Dessert",
-          "items": [
-            {
-              "food": "Spice cake with cream cheese frosting, small slice (~70 g)",
-              "kcal": 231.0,
-              "protein": 2.4,
-              "carbs": 33.6,
-              "fat": 9.8,
-              "fiber": 0.7,
-              "nutrients": {
-                "calcium_mg": 42.0,
-                "sodium_mg": 196.0,
-                "iron_mg": 0.8,
-                "sugar_g": 22.4,
-                "satfat_g": 3.1,
-                "potassium_mg": 77.0,
-                "magnesium_mg": 9.8
-              }
-            }
-          ],
-          "note": ""
-        }
-      ],
-      "active_kcal": 419,
-      "day_type": "lifting"
-    }
+  "protein": 160,
+  "protein_range": [
+   150,
+   170
+  ],
+  "fiber": 35,
+  "fat": 75,
+  "carbs": 220,
+  "nutrients": {
+   "iron_mg": {
+    "label": "Iron",
+    "unit": "mg",
+    "target": 8
+   },
+   "calcium_mg": {
+    "label": "Calcium",
+    "unit": "mg",
+    "target": 1200
+   },
+   "magnesium_mg": {
+    "label": "Magnesium",
+    "unit": "mg",
+    "target": 420
+   },
+   "potassium_mg": {
+    "label": "Potassium",
+    "unit": "mg",
+    "target": 3400
+   },
+   "sodium_mg": {
+    "label": "Sodium",
+    "unit": "mg",
+    "target": 2300,
+    "limit": true
+   },
+   "vitD_mcg": {
+    "label": "Vitamin D",
+    "unit": "mcg",
+    "target": 20
+   },
+   "b12_mcg": {
+    "label": "Vitamin B12",
+    "unit": "mcg",
+    "target": 2.4
+   },
+   "vitC_mg": {
+    "label": "Vitamin C",
+    "unit": "mg",
+    "target": 90
+   },
+   "zinc_mg": {
+    "label": "Zinc",
+    "unit": "mg",
+    "target": 11
+   },
+   "omega3_g": {
+    "label": "Omega-3",
+    "unit": "g",
+    "target": 1.6
+   },
+   "sugar_g": {
+    "label": "Sugar (total; keep added <36 g)",
+    "unit": "g",
+    "target": 50,
+    "limit": true
+   },
+   "satfat_g": {
+    "label": "Saturated fat",
+    "unit": "g",
+    "target": 22,
+    "limit": true
+   }
   }
+ },
+ "days": {
+  "2026-10-28": {
+   "estimate": true,
+   "notes": "DEMO/ESTIMATES \u2014 values approximate (USDA-style). Dinner (chili + cornbread + 1 glass wine at parents') not yet logged.",
+   "meals": [
+    {
+     "time": "08:00",
+     "name": "Morning coffee",
+     "note": "2 cups black coffee (0 kcal)",
+     "items": [
+      {
+       "food": "2 cups black coffee",
+       "kcal": 5,
+       "protein": 0.6,
+       "carbs": 0,
+       "fat": 0.1,
+       "fiber": 0,
+       "nutrients": {
+        "iron_mg": 0,
+        "calcium_mg": 0,
+        "magnesium_mg": 14,
+        "potassium_mg": 230,
+        "sodium_mg": 10,
+        "vitD_mcg": 0,
+        "b12_mcg": 0,
+        "vitC_mg": 0,
+        "zinc_mg": 0,
+        "omega3_g": 0,
+        "sugar_g": 0,
+        "satfat_g": 0
+       }
+      }
+     ]
+    },
+    {
+     "time": "08:00",
+     "name": "Pre-workout",
+     "items": [
+      {
+       "food": "Greek Gods honey vanilla Greek yogurt (5 oz)",
+       "kcal": 180,
+       "protein": 9,
+       "carbs": 22,
+       "fat": 7,
+       "fiber": 0,
+       "nutrients": {
+        "calcium_mg": 230,
+        "potassium_mg": 280,
+        "sodium_mg": 65,
+        "vitD_mcg": 0,
+        "b12_mcg": 0.6,
+        "zinc_mg": 0.9,
+        "sugar_g": 20,
+        "satfat_g": 4.5,
+        "iron_mg": 0,
+        "magnesium_mg": 25
+       }
+      },
+      {
+       "food": "Optimum Nutrition Gold Standard whey, vanilla ice cream (1 scoop)",
+       "kcal": 120,
+       "protein": 24,
+       "carbs": 3,
+       "fat": 1,
+       "fiber": 0,
+       "nutrients": {
+        "calcium_mg": 130,
+        "potassium_mg": 160,
+        "sodium_mg": 130,
+        "iron_mg": 0.4,
+        "magnesium_mg": 25,
+        "sugar_g": 2,
+        "satfat_g": 0.5,
+        "b12_mcg": 0.3,
+        "zinc_mg": 0.3
+       }
+      }
+     ],
+     "note": "before Strength B at EOS"
+    },
+    {
+     "time": "11:50",
+     "name": "Breakfast",
+     "note": "Estimate ~715 kcal / ~35 g protein",
+     "items": [
+      {
+       "food": "3 large eggs",
+       "kcal": 216,
+       "protein": 18,
+       "carbs": 1.1,
+       "fat": 14.3,
+       "fiber": 0,
+       "nutrients": {
+        "iron_mg": 2.6,
+        "calcium_mg": 84,
+        "magnesium_mg": 18,
+        "potassium_mg": 207,
+        "sodium_mg": 213,
+        "vitD_mcg": 3.0,
+        "b12_mcg": 1.3,
+        "vitC_mg": 0,
+        "zinc_mg": 1.9,
+        "omega3_g": 0.1,
+        "sugar_g": 0.6,
+        "satfat_g": 4.7
+       }
+      },
+      {
+       "food": "3 slices bacon",
+       "kcal": 120,
+       "protein": 8,
+       "carbs": 0.3,
+       "fat": 9.5,
+       "fiber": 0,
+       "nutrients": {
+        "iron_mg": 0.3,
+        "calcium_mg": 3,
+        "magnesium_mg": 9,
+        "potassium_mg": 150,
+        "sodium_mg": 550,
+        "vitD_mcg": 0.3,
+        "b12_mcg": 0.3,
+        "vitC_mg": 0,
+        "zinc_mg": 0.9,
+        "omega3_g": 0.05,
+        "sugar_g": 0,
+        "satfat_g": 3.2
+       }
+      },
+      {
+       "food": "2 slices Proof Khorasan sourdough",
+       "kcal": 190,
+       "protein": 7,
+       "carbs": 38,
+       "fat": 1.4,
+       "fiber": 4,
+       "nutrients": {
+        "iron_mg": 2.2,
+        "calcium_mg": 20,
+        "magnesium_mg": 40,
+        "potassium_mg": 120,
+        "sodium_mg": 400,
+        "vitD_mcg": 0,
+        "b12_mcg": 0,
+        "vitC_mg": 0,
+        "zinc_mg": 1.2,
+        "omega3_g": 0,
+        "sugar_g": 1,
+        "satfat_g": 0.3
+       }
+      },
+      {
+       "food": "1 tsp Kerrygold butter",
+       "kcal": 34,
+       "protein": 0,
+       "carbs": 0,
+       "fat": 3.8,
+       "fiber": 0,
+       "nutrients": {
+        "iron_mg": 0,
+        "calcium_mg": 1,
+        "magnesium_mg": 0,
+        "potassium_mg": 0,
+        "sodium_mg": 27,
+        "vitD_mcg": 0.1,
+        "b12_mcg": 0,
+        "vitC_mg": 0,
+        "zinc_mg": 0,
+        "omega3_g": 0,
+        "sugar_g": 0,
+        "satfat_g": 2.4
+       }
+      },
+      {
+       "food": "1 tsp honey",
+       "kcal": 21,
+       "protein": 0,
+       "carbs": 5.8,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "iron_mg": 0,
+        "calcium_mg": 0,
+        "magnesium_mg": 0,
+        "potassium_mg": 4,
+        "sodium_mg": 0,
+        "vitD_mcg": 0,
+        "b12_mcg": 0,
+        "vitC_mg": 0,
+        "zinc_mg": 0,
+        "omega3_g": 0,
+        "sugar_g": 5.8,
+        "satfat_g": 0
+       }
+      },
+      {
+       "food": "Organic avocado & sea salt, ~2 oz",
+       "kcal": 91,
+       "protein": 1.1,
+       "carbs": 4.9,
+       "fat": 8.4,
+       "fiber": 3.8,
+       "nutrients": {
+        "iron_mg": 0.3,
+        "calcium_mg": 7,
+        "magnesium_mg": 16,
+        "potassium_mg": 277,
+        "sodium_mg": 150,
+        "vitD_mcg": 0,
+        "b12_mcg": 0,
+        "vitC_mg": 5,
+        "zinc_mg": 0.4,
+        "omega3_g": 0.06,
+        "sugar_g": 0.4,
+        "satfat_g": 1.2
+       }
+      },
+      {
+       "food": "AG1, 1 scoop",
+       "kcal": 50,
+       "protein": 2,
+       "carbs": 6,
+       "fat": 0,
+       "fiber": 2,
+       "nutrients": {
+        "iron_mg": 0,
+        "calcium_mg": 116,
+        "magnesium_mg": 26,
+        "potassium_mg": 300,
+        "sodium_mg": 45,
+        "vitD_mcg": 0,
+        "b12_mcg": 22,
+        "vitC_mg": 420,
+        "zinc_mg": 15,
+        "omega3_g": 0,
+        "sugar_g": 1,
+        "satfat_g": 0
+       }
+      }
+     ]
+    },
+    {
+     "time": "15:05",
+     "name": "Afternoon snack",
+     "note": "Estimate ~300 kcal / ~22 g protein",
+     "items": [
+      {
+       "food": "Fage Total 5% yogurt, 170 g",
+       "kcal": 160,
+       "protein": 16,
+       "carbs": 6,
+       "fat": 8.5,
+       "fiber": 0,
+       "nutrients": {
+        "iron_mg": 0,
+        "calcium_mg": 170,
+        "magnesium_mg": 17,
+        "potassium_mg": 220,
+        "sodium_mg": 55,
+        "vitD_mcg": 0,
+        "b12_mcg": 0.9,
+        "vitC_mg": 0,
+        "zinc_mg": 0.9,
+        "omega3_g": 0,
+        "sugar_g": 6,
+        "satfat_g": 5.5
+       }
+      },
+      {
+       "food": "Blueberries, handful (~50 g)",
+       "kcal": 29,
+       "protein": 0.4,
+       "carbs": 7.2,
+       "fat": 0.2,
+       "fiber": 1.2,
+       "nutrients": {
+        "iron_mg": 0.1,
+        "calcium_mg": 3,
+        "magnesium_mg": 3,
+        "potassium_mg": 39,
+        "sodium_mg": 0,
+        "vitD_mcg": 0,
+        "b12_mcg": 0,
+        "vitC_mg": 5,
+        "zinc_mg": 0,
+        "omega3_g": 0,
+        "sugar_g": 5,
+        "satfat_g": 0
+       }
+      },
+      {
+       "food": "1 tsp honey",
+       "kcal": 21,
+       "protein": 0,
+       "carbs": 5.8,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "iron_mg": 0,
+        "calcium_mg": 0,
+        "magnesium_mg": 0,
+        "potassium_mg": 4,
+        "sodium_mg": 0,
+        "vitD_mcg": 0,
+        "b12_mcg": 0,
+        "vitC_mg": 0,
+        "zinc_mg": 0,
+        "omega3_g": 0,
+        "sugar_g": 5.8,
+        "satfat_g": 0
+       }
+      },
+      {
+       "food": "Kirkland mixed nuts, half pack (~16 g)",
+       "kcal": 95,
+       "protein": 3.5,
+       "carbs": 3.5,
+       "fat": 8.5,
+       "fiber": 1.2,
+       "nutrients": {
+        "iron_mg": 0.5,
+        "calcium_mg": 15,
+        "magnesium_mg": 35,
+        "potassium_mg": 100,
+        "sodium_mg": 50,
+        "vitD_mcg": 0,
+        "b12_mcg": 0,
+        "vitC_mg": 0,
+        "zinc_mg": 0.6,
+        "omega3_g": 0.1,
+        "sugar_g": 0.7,
+        "satfat_g": 1.2
+       }
+      }
+     ]
+    },
+    {
+     "time": "18:15",
+     "name": "Dinner",
+     "items": [
+      {
+       "food": "Beef and bean chili, ~1.5 cups",
+       "kcal": 400,
+       "protein": 29,
+       "carbs": 32,
+       "fat": 16,
+       "fiber": 9,
+       "nutrients": {
+        "iron_mg": 4.5,
+        "calcium_mg": 110,
+        "magnesium_mg": 85,
+        "potassium_mg": 900,
+        "sodium_mg": 950,
+        "zinc_mg": 5.5,
+        "b12_mcg": 2.0,
+        "vitC_mg": 12,
+        "sugar_g": 7,
+        "satfat_g": 6.5,
+        "vitD_mcg": 0.2,
+        "omega3_g": 0.1
+       }
+      },
+      {
+       "food": "Shredded Mexican cheese blend, ~1/4 cup",
+       "kcal": 110,
+       "protein": 7,
+       "carbs": 1,
+       "fat": 9,
+       "fiber": 0,
+       "nutrients": {
+        "calcium_mg": 200,
+        "sodium_mg": 180,
+        "satfat_g": 5.5,
+        "b12_mcg": 0.3,
+        "zinc_mg": 0.9,
+        "vitD_mcg": 0.1
+       }
+      },
+      {
+       "food": "1 square cornbread muffin",
+       "kcal": 170,
+       "protein": 3,
+       "carbs": 26,
+       "fat": 6,
+       "fiber": 1,
+       "nutrients": {
+        "calcium_mg": 50,
+        "sodium_mg": 280,
+        "iron_mg": 1,
+        "sugar_g": 9,
+        "satfat_g": 1.5,
+        "potassium_mg": 70,
+        "magnesium_mg": 15
+       }
+      },
+      {
+       "food": "1 glass red wine (5 oz)",
+       "kcal": 125,
+       "protein": 0.1,
+       "carbs": 4,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "potassium_mg": 187,
+        "magnesium_mg": 12,
+        "iron_mg": 0.7,
+        "sugar_g": 1
+       }
+      }
+     ],
+     "note": "chili and cornbread at parents'"
+    },
+    {
+     "time": "19:00",
+     "name": "Dessert",
+     "items": [
+      {
+       "food": "Spice cake with cream cheese frosting, small slice (~70 g)",
+       "kcal": 231.0,
+       "protein": 2.4,
+       "carbs": 33.6,
+       "fat": 9.8,
+       "fiber": 0.7,
+       "nutrients": {
+        "calcium_mg": 42.0,
+        "sodium_mg": 196.0,
+        "iron_mg": 0.8,
+        "sugar_g": 22.4,
+        "satfat_g": 3.1,
+        "potassium_mg": 77.0,
+        "magnesium_mg": 9.8
+       }
+      }
+     ],
+     "note": ""
+    }
+   ],
+   "active_kcal": 419,
+   "day_type": "lifting"
+  },
+  "2026-10-29": {
+   "meals": [
+    {
+     "time": "08:00",
+     "name": "Morning coffee",
+     "items": [
+      {
+       "food": "2 cups black coffee",
+       "kcal": 5,
+       "protein": 0.6,
+       "carbs": 0,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "potassium_mg": 230,
+        "magnesium_mg": 14
+       }
+      }
+     ],
+     "note": ""
+    }
+   ],
+   "notes": ""
+  }
+ }
 }

@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-29T09:56:20-07:00",
+ "last_updated": "2026-10-29T12:52:36-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -567,10 +567,144 @@
       }
      ],
      "note": ""
+    },
+    {
+     "time": "12:30",
+     "name": "Breakfast",
+     "items": [
+      {
+       "food": "3 Vital Farms pasture-raised eggs, scrambled",
+       "kcal": 210,
+       "protein": 18,
+       "carbs": 1.5,
+       "fat": 15,
+       "fiber": 0,
+       "nutrients": {
+        "choline_mg": 420,
+        "vitd_iu": 120,
+        "b12_mcg": 1.8,
+        "iron_mg": 2.7,
+        "selenium_mcg": 45,
+        "sodium_mg": 210,
+        "potassium_mg": 210,
+        "calcium_mg": 75,
+        "satfat_g": 4.5
+       }
+      },
+      {
+       "food": "2 slices bacon",
+       "kcal": 90,
+       "protein": 6,
+       "carbs": 0,
+       "fat": 7,
+       "fiber": 0,
+       "nutrients": {
+        "sodium_mg": 380,
+        "potassium_mg": 100,
+        "satfat_g": 2.5,
+        "zinc_mg": 0.6
+       }
+      },
+      {
+       "food": "1 small flour tortilla",
+       "kcal": 110,
+       "protein": 3,
+       "carbs": 18,
+       "fat": 3,
+       "fiber": 1,
+       "nutrients": {
+        "sodium_mg": 280,
+        "calcium_mg": 50,
+        "iron_mg": 1.2
+       }
+      },
+      {
+       "food": "Salsa (2 tbsp)",
+       "kcal": 10,
+       "protein": 0.4,
+       "carbs": 2,
+       "fat": 0,
+       "fiber": 0.5,
+       "nutrients": {
+        "sodium_mg": 200,
+        "potassium_mg": 100,
+        "vitc_mg": 3
+       }
+      },
+      {
+       "food": "Guacamole (1 tbsp)",
+       "kcal": 25,
+       "protein": 0.3,
+       "carbs": 1.5,
+       "fat": 2.2,
+       "fiber": 1,
+       "nutrients": {
+        "potassium_mg": 80,
+        "sodium_mg": 40
+       }
+      },
+      {
+       "food": "Fage Total 5% Greek yogurt (1/2 cup, 125 g)",
+       "kcal": 140,
+       "protein": 13,
+       "carbs": 4,
+       "fat": 7,
+       "fiber": 0,
+       "nutrients": {
+        "calcium_mg": 150,
+        "potassium_mg": 170,
+        "sodium_mg": 40,
+        "b12_mcg": 0.6,
+        "satfat_g": 5,
+        "sugar_g": 4
+       }
+      },
+      {
+       "food": "Blueberries (1/4 cup)",
+       "kcal": 20,
+       "protein": 0.3,
+       "carbs": 5,
+       "fat": 0.1,
+       "fiber": 1,
+       "nutrients": {
+        "vitc_mg": 3,
+        "potassium_mg": 28
+       }
+      },
+      {
+       "food": "Sun Tan Honey Farm raw honey (1 tsp)",
+       "kcal": 20,
+       "protein": 0,
+       "carbs": 6,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "sugar_g": 6
+       }
+      },
+      {
+       "food": "AG1 (1 scoop, not counted toward protein goal)",
+       "kcal": 50,
+       "protein": 0,
+       "carbs": 6,
+       "fat": 0,
+       "fiber": 2,
+       "nutrients": {
+        "vitc_mg": 420,
+        "b12_mcg": 7,
+        "vitd_iu": 400,
+        "zinc_mg": 5,
+        "magnesium_mg": 30
+       }
+      }
+     ],
+     "note": "Breakfast taco minus cheese, Fage with blueberries and honey, AG1"
     }
    ],
    "notes": "",
-   "weight_lb": 193
+   "weight_lb": 193,
+   "active_kcal": 202,
+   "day_type": "rest"
   }
  }
 }

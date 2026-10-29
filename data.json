@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-29T15:00:37-07:00",
+ "last_updated": "2026-10-29T15:00:45-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -750,6 +750,17 @@
        "fiber": 0,
        "nutrients": {
         "sugar_g": 4
+       }
+      },
+      {
+       "food": "Starbucks grande iced green tea, unsweetened (16 oz)",
+       "kcal": 0,
+       "protein": 0,
+       "carbs": 0,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "sodium_mg": 5
        }
       }
      ],

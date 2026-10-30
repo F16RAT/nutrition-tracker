@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-30T16:37:51-07:00",
+ "last_updated": "2026-10-30T16:38:48-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -999,6 +999,73 @@
       }
      ],
      "note": ""
+    },
+    {
+     "time": "16:30",
+     "name": "Inflight dinner",
+     "items": [
+      {
+       "food": "Chicken thigh (~4 oz) with chimichurri over wild rice, orange/plantain slices (estimated)",
+       "kcal": 520,
+       "protein": 32,
+       "carbs": 42,
+       "fat": 24,
+       "fiber": 3,
+       "nutrients": {
+        "sodium_mg": 650,
+        "potassium_mg": 520,
+        "iron_mg": 1.8,
+        "vitc_mg": 15,
+        "zinc_mg": 2.5,
+        "satfat_g": 5
+       }
+      },
+      {
+       "food": "Feta (~1 oz), sun-dried tomato, dried apricots, pistachios, pepperoncini plate (estimated)",
+       "kcal": 240,
+       "protein": 8,
+       "carbs": 22,
+       "fat": 13,
+       "fiber": 3,
+       "nutrients": {
+        "calcium_mg": 150,
+        "sodium_mg": 480,
+        "potassium_mg": 420,
+        "iron_mg": 1.5,
+        "vitc_mg": 10,
+        "satfat_g": 4,
+        "sugar_g": 14
+       }
+      },
+      {
+       "food": "Romaine and tomato salad with balsamic dressing and olive oil packet (estimated)",
+       "kcal": 110,
+       "protein": 2,
+       "carbs": 8,
+       "fat": 8,
+       "fiber": 2,
+       "nutrients": {
+        "vitk_mcg": 90,
+        "folate_mcg": 100,
+        "vitc_mg": 12,
+        "potassium_mg": 350,
+        "sodium_mg": 100
+       }
+      },
+      {
+       "food": "Half a dinner roll with butter pat (estimated)",
+       "kcal": 110,
+       "protein": 2.5,
+       "carbs": 14,
+       "fat": 4.5,
+       "fiber": 0.5,
+       "nutrients": {
+        "sodium_mg": 190,
+        "satfat_g": 2.5
+       }
+      }
+     ],
+     "note": "Estimated portions"
     }
    ],
    "notes": ""

@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-30T16:40:20-07:00",
+ "last_updated": "2026-10-30T16:41:16-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -1088,6 +1088,28 @@
       }
      ],
      "note": ""
+    },
+    {
+     "time": "17:00",
+     "name": "Dessert",
+     "items": [
+      {
+       "food": "Inflight ice cream sundae with hot fudge and whipped cream (estimated, ~1 cup ice cream)",
+       "kcal": 420,
+       "protein": 6,
+       "carbs": 50,
+       "fat": 22,
+       "fiber": 1,
+       "nutrients": {
+        "calcium_mg": 200,
+        "sodium_mg": 150,
+        "potassium_mg": 330,
+        "satfat_g": 13,
+        "sugar_g": 42
+       }
+      }
+     ],
+     "note": "Estimated portion"
     }
    ],
    "notes": ""

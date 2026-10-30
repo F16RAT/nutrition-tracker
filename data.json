@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-29T15:00:45-07:00",
+ "last_updated": "2026-10-29T18:55:25-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -765,6 +765,80 @@
       }
      ],
      "note": ""
+    },
+    {
+     "time": "18:30",
+     "name": "Dinner",
+     "items": [
+      {
+       "food": "Salmon fillet, ~6 oz cooked (estimated)",
+       "kcal": 350,
+       "protein": 37,
+       "carbs": 0,
+       "fat": 21,
+       "fiber": 0,
+       "nutrients": {
+        "omega3_g": 3.5,
+        "vitd_iu": 570,
+        "b12_mcg": 4.5,
+        "potassium_mg": 700,
+        "magnesium_mg": 45,
+        "selenium_mcg": 60,
+        "sodium_mg": 90,
+        "satfat_g": 4
+       }
+      },
+      {
+       "food": "Baby potatoes ~6 oz, pan fried in 1 tbsp olive oil (estimated)",
+       "kcal": 260,
+       "protein": 3,
+       "carbs": 30,
+       "fat": 14,
+       "fiber": 3,
+       "nutrients": {
+        "potassium_mg": 650,
+        "vitc_mg": 20,
+        "magnesium_mg": 30,
+        "sodium_mg": 20,
+        "satfat_g": 2
+       }
+      },
+      {
+       "food": "Steamed broccoli, 1 cup",
+       "kcal": 55,
+       "protein": 4,
+       "carbs": 11,
+       "fat": 0.6,
+       "fiber": 5,
+       "nutrients": {
+        "vitc_mg": 100,
+        "vitk_mcg": 220,
+        "calcium_mg": 60,
+        "potassium_mg": 460,
+        "magnesium_mg": 30,
+        "folate_mcg": 170
+       }
+      },
+      {
+       "food": "Milk, 1 glass (8 oz, assumed whole)",
+       "kcal": 150,
+       "protein": 8,
+       "carbs": 12,
+       "fat": 8,
+       "fiber": 0,
+       "nutrients": {
+        "calcium_mg": 300,
+        "potassium_mg": 370,
+        "vitd_iu": 100,
+        "b12_mcg": 1.2,
+        "magnesium_mg": 25,
+        "sodium_mg": 105,
+        "satfat_g": 4.5,
+        "sugar_g": 12
+       }
+      }
+     ],
+     "note": "Portions estimated"
     }
    ],
    "notes": "",

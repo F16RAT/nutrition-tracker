@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-30T16:38:48-07:00",
+ "last_updated": "2026-10-30T16:40:20-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -1066,6 +1066,28 @@
       }
      ],
      "note": "Estimated portions"
+    },
+    {
+     "time": "16:45",
+     "name": "Snack",
+     "items": [
+      {
+       "food": "Kirkland grass-fed beef stick (1 stick, 32 g, label)",
+       "kcal": 100,
+       "protein": 10,
+       "carbs": 1,
+       "fat": 7,
+       "fiber": 0,
+       "nutrients": {
+        "sodium_mg": 390,
+        "iron_mg": 1.1,
+        "potassium_mg": 190,
+        "satfat_g": 3,
+        "calcium_mg": 20
+       }
+      }
+     ],
+     "note": ""
     }
    ],
    "notes": ""

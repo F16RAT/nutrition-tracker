@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-29T20:08:40-07:00",
+ "last_updated": "2026-10-30T11:39:13-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -893,6 +893,60 @@
    "weight_lb": 193,
    "active_kcal": 202,
    "day_type": "rest"
+  },
+  "2026-10-30": {
+   "meals": [
+    {
+     "time": "11:00",
+     "name": "Breakfast",
+     "items": [
+      {
+       "food": "Oikos Blended Greek yogurt, strawberry (150 g, 13 g protein label)",
+       "kcal": 100,
+       "protein": 13,
+       "carbs": 10,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "calcium_mg": 130,
+        "sodium_mg": 55,
+        "sugar_g": 7,
+        "vitd_iu": 40
+       }
+      },
+      {
+       "food": "Tammie Coe egg-cellent eggs cup (spinach, tomatoes, hard boiled eggs, everything bagel seasoning; estimated ~2 eggs)",
+       "kcal": 170,
+       "protein": 13,
+       "carbs": 3,
+       "fat": 12,
+       "fiber": 1,
+       "nutrients": {
+        "choline_mg": 290,
+        "sodium_mg": 330,
+        "iron_mg": 1.8,
+        "vitd_iu": 80,
+        "b12_mcg": 1.2,
+        "calcium_mg": 70,
+        "potassium_mg": 250
+       }
+      },
+      {
+       "food": "Poshi green pitted olives (about 5 olives, 15 g)",
+       "kcal": 15,
+       "protein": 0,
+       "carbs": 0,
+       "fat": 1.5,
+       "fiber": 0.5,
+       "nutrients": {
+        "sodium_mg": 250
+       }
+      }
+     ],
+     "note": "Airport breakfast; egg cup estimated"
+    }
+   ],
+   "notes": ""
   }
  }
 }

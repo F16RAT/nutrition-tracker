@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-29T19:34:07-07:00",
+ "last_updated": "2026-10-29T20:08:40-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -869,6 +869,24 @@
       }
      ],
      "note": "Portions estimated"
+    },
+    {
+     "time": "20:00",
+     "name": "Psyllium husk",
+     "items": [
+      {
+       "food": "Psyllium husk powder (1 tbsp, ~9 g, assumed)",
+       "kcal": 25,
+       "protein": 0,
+       "carbs": 7,
+       "fat": 0,
+       "fiber": 7,
+       "nutrients": {
+        "sodium_mg": 0
+       }
+      }
+     ],
+     "note": ""
     }
    ],
    "notes": "",

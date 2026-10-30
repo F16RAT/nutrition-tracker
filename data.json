@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-29T18:55:25-07:00",
+ "last_updated": "2026-10-29T19:16:53-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -839,6 +839,25 @@
       }
      ],
      "note": "Portions estimated"
+    },
+    {
+     "time": "19:15",
+     "name": "Supplements",
+     "items": [
+      {
+       "food": "Sports Research D3 + K2 (1 softgel; 125 mcg/5,000 IU D3, 100 mcg K2 as MK-7)",
+       "kcal": 5,
+       "protein": 0,
+       "carbs": 0,
+       "fat": 0.5,
+       "fiber": 0,
+       "nutrients": {
+        "vitd_iu": 5000,
+        "vitk_mcg": 100
+       }
+      }
+     ],
+     "note": ""
     }
    ],
    "notes": "",

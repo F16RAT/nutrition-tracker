@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-30T16:41:16-07:00",
+ "last_updated": "2026-10-30T19:12:04-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -1110,6 +1110,24 @@
       }
      ],
      "note": "Estimated portion"
+    },
+    {
+     "time": "22:15",
+     "name": "Evening drink",
+     "items": [
+      {
+       "food": "Jameson Irish whiskey (1.5 oz)",
+       "kcal": 105,
+       "protein": 0,
+       "carbs": 0,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "alcohol_g": 14
+       }
+      }
+     ],
+     "note": ""
     }
    ],
    "notes": ""

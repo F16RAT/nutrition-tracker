@@ -1157,35 +1157,35 @@
        }
       },
       {
-       "food": "Home fries, about 1.5 cups, pan fried (estimated)",
-       "kcal": 330,
-       "protein": 4,
-       "carbs": 42,
-       "fat": 16,
-       "fiber": 4,
+       "food": "Home fries, about 1.5 cups, pan fried (ate about 55%)",
+       "kcal": 181.5,
+       "protein": 2.2,
+       "carbs": 23.1,
+       "fat": 8.8,
+       "fiber": 2.2,
        "nutrients": {
-        "potassium_mg": 800,
-        "vitc_mg": 18,
-        "sodium_mg": 350,
-        "satfat_g": 3
+        "potassium_mg": 440.0,
+        "vitc_mg": 9.9,
+        "sodium_mg": 192.5,
+        "satfat_g": 1.7
        }
       },
       {
-       "food": "2 slices sourdough toast with butter pat and grape jelly (estimated)",
-       "kcal": 290,
-       "protein": 8,
-       "carbs": 50,
-       "fat": 6,
-       "fiber": 2,
+       "food": "2 slices sourdough toast with butter pat and grape jelly (left about half a slice)",
+       "kcal": 232.0,
+       "protein": 6.4,
+       "carbs": 40.0,
+       "fat": 4.8,
+       "fiber": 1.6,
        "nutrients": {
-        "sodium_mg": 520,
-        "iron_mg": 2,
-        "satfat_g": 3,
-        "sugar_g": 10
+        "sodium_mg": 416.0,
+        "iron_mg": 1.6,
+        "satfat_g": 2.4,
+        "sugar_g": 8.0
        }
       }
      ],
-     "note": "Boston restaurant breakfast, estimated"
+     "note": "Boston restaurant breakfast; omelet finished, about half the potatoes and most of the toast eaten"
     }
    ],
    "notes": "Boston walk 2.52 mi, 242 active kcal. Gym skipped.",

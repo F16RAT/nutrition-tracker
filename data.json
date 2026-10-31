@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-31T19:03:02-04:00",
+ "last_updated": "2026-10-31T19:26:13-04:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -1266,6 +1266,96 @@
       }
      ],
      "note": ""
+    },
+    {
+     "time": "17:30",
+     "name": "Dinner (Cousins BBQ, DFW)",
+     "items": [
+      {
+       "food": "Sliced turkey or chicken breast, ~4 oz (estimated)",
+       "kcal": 160,
+       "protein": 30,
+       "carbs": 0,
+       "fat": 3.5,
+       "fiber": 0,
+       "nutrients": {
+        "sodium_mg": 500,
+        "potassium_mg": 350,
+        "selenium_mcg": 30,
+        "satfat_g": 1
+       }
+      },
+      {
+       "food": "Sliced brisket, lean, ~4 oz (estimated)",
+       "kcal": 260,
+       "protein": 30,
+       "carbs": 1,
+       "fat": 15,
+       "fiber": 0,
+       "nutrients": {
+        "sodium_mg": 550,
+        "iron_mg": 2.8,
+        "zinc_mg": 6,
+        "b12_mcg": 2.5,
+        "satfat_g": 6
+       }
+      },
+      {
+       "food": "Cole slaw, ~3/4 cup (estimated)",
+       "kcal": 160,
+       "protein": 1,
+       "carbs": 14,
+       "fat": 11,
+       "fiber": 2,
+       "nutrients": {
+        "vitc_mg": 25,
+        "vitk_mcg": 60,
+        "sodium_mg": 230,
+        "sugar_g": 9
+       }
+      },
+      {
+       "food": "Collard greens with onion, ~3/4 cup (estimated)",
+       "kcal": 80,
+       "protein": 4,
+       "carbs": 8,
+       "fat": 3,
+       "fiber": 4,
+       "nutrients": {
+        "vitk_mcg": 500,
+        "calcium_mg": 160,
+        "vitc_mg": 20,
+        "folate_mcg": 90,
+        "sodium_mg": 520,
+        "potassium_mg": 250
+       }
+      },
+      {
+       "food": "Texas toast slice (estimated)",
+       "kcal": 160,
+       "protein": 3,
+       "carbs": 20,
+       "fat": 8,
+       "fiber": 1,
+       "nutrients": {
+        "sodium_mg": 280,
+        "satfat_g": 2.5
+       }
+      },
+      {
+       "food": "BBQ sauce, ~2 tbsp (estimated)",
+       "kcal": 50,
+       "protein": 0,
+       "carbs": 12,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "sodium_mg": 300,
+        "sugar_g": 10
+       }
+      }
+     ],
+     "note": "Estimated portions; assumed all eaten"
     }
    ],
    "notes": "Boston walk 2.52 mi, 242 active kcal. Gym skipped.",

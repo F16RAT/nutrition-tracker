@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-30T19:12:04-07:00",
+ "last_updated": "2026-10-31T13:29:50-04:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -1133,7 +1133,61 @@
    "notes": ""
   },
   "2026-10-31": {
-   "meals": [],
+   "meals": [
+    {
+     "time": "11:30",
+     "name": "Breakfast",
+     "items": [
+      {
+       "food": "Ham/pepper omelet, about 3 eggs with a little cheese (estimated)",
+       "kcal": 430,
+       "protein": 28,
+       "carbs": 3,
+       "fat": 33,
+       "fiber": 0.5,
+       "nutrients": {
+        "choline_mg": 420,
+        "vitd_iu": 130,
+        "b12_mcg": 2.2,
+        "iron_mg": 2.8,
+        "selenium_mcg": 50,
+        "sodium_mg": 750,
+        "calcium_mg": 180,
+        "satfat_g": 13
+       }
+      },
+      {
+       "food": "Home fries, about 1.5 cups, pan fried (estimated)",
+       "kcal": 330,
+       "protein": 4,
+       "carbs": 42,
+       "fat": 16,
+       "fiber": 4,
+       "nutrients": {
+        "potassium_mg": 800,
+        "vitc_mg": 18,
+        "sodium_mg": 350,
+        "satfat_g": 3
+       }
+      },
+      {
+       "food": "2 slices sourdough toast with butter pat and grape jelly (estimated)",
+       "kcal": 290,
+       "protein": 8,
+       "carbs": 50,
+       "fat": 6,
+       "fiber": 2,
+       "nutrients": {
+        "sodium_mg": 520,
+        "iron_mg": 2,
+        "satfat_g": 3,
+        "sugar_g": 10
+       }
+      }
+     ],
+     "note": "Boston restaurant breakfast, estimated"
+    }
+   ],
    "notes": "Boston walk 2.52 mi, 242 active kcal. Gym skipped.",
    "active_kcal": 242,
    "day_type": "rest"

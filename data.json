@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-31T13:29:50-04:00",
+ "last_updated": "2026-10-31T16:07:14-04:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -1186,6 +1186,56 @@
       }
      ],
      "note": "Boston restaurant breakfast; omelet finished, about half the potatoes and most of the toast eaten"
+    },
+    {
+     "time": "15:30",
+     "name": "Afternoon snack",
+     "items": [
+      {
+       "food": "Think Jerky grass-fed beef stick, original (0.5 oz, label)",
+       "kcal": 40,
+       "protein": 4,
+       "carbs": 0,
+       "fat": 2.5,
+       "fiber": 0,
+       "nutrients": {
+        "sodium_mg": 165,
+        "iron_mg": 0.4,
+        "satfat_g": 1
+       }
+      },
+      {
+       "food": "Second Nature Dark Chocolate Medley nut mix, 1 serving (30 g, label)",
+       "kcal": 180,
+       "protein": 5,
+       "carbs": 9,
+       "fat": 15,
+       "fiber": 2,
+       "nutrients": {
+        "calcium_mg": 40,
+        "iron_mg": 1,
+        "potassium_mg": 170,
+        "sodium_mg": 45,
+        "vite_mg": 4.4,
+        "satfat_g": 2,
+        "sugar_g": 4,
+        "magnesium_mg": 45
+       }
+      },
+      {
+       "food": "Americano with 1 sugar and splash of half and half (estimated)",
+       "kcal": 35,
+       "protein": 0.5,
+       "carbs": 5,
+       "fat": 1.5,
+       "fiber": 0,
+       "nutrients": {
+        "potassium_mg": 130,
+        "sugar_g": 4
+       }
+      }
+     ],
+     "note": ""
     }
    ],
    "notes": "Boston walk 2.52 mi, 242 active kcal. Gym skipped.",

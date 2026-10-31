@@ -1131,6 +1131,12 @@
     }
    ],
    "notes": ""
+  },
+  "2026-10-31": {
+   "meals": [],
+   "notes": "Boston walk 2.52 mi, 242 active kcal. Gym skipped.",
+   "active_kcal": 242,
+   "day_type": "rest"
   }
  }
 }

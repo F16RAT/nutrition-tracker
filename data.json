@@ -1116,14 +1116,14 @@
      "name": "Evening drink",
      "items": [
       {
-       "food": "Jameson Irish whiskey (1.5 oz)",
-       "kcal": 105,
+       "food": "Jameson Irish whiskey (2 pours, 1.5 oz each)",
+       "kcal": 210,
        "protein": 0,
        "carbs": 0,
        "fat": 0,
        "fiber": 0,
        "nutrients": {
-        "alcohol_g": 14
+        "alcohol_g": 28
        }
       }
      ],

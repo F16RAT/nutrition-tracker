@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-01T12:22:20-07:00",
+ "last_updated": "2026-11-01T14:46:16-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -1484,6 +1484,49 @@
       }
      ],
      "note": "Fruit tray split with Charlotte; portions estimated"
+    },
+    {
+     "time": "14:30",
+     "name": "Afternoon protein smoothie",
+     "items": [
+      {
+       "food": "Vanilla whey protein, 1 scoop (estimated)",
+       "kcal": 120,
+       "protein": 24,
+       "carbs": 3,
+       "fat": 1.5,
+       "fiber": 0,
+       "nutrients": {
+        "calcium_mg": 120
+       }
+      },
+      {
+       "food": "Milk, ~1 cup (estimated 2%)",
+       "kcal": 120,
+       "protein": 8,
+       "carbs": 12,
+       "fat": 5,
+       "fiber": 0,
+       "nutrients": {
+        "calcium_mg": 300,
+        "potassium_mg": 370,
+        "vitd_iu": 100
+       }
+      },
+      {
+       "food": "Fruit, ~3/4 cup (estimated)",
+       "kcal": 70,
+       "protein": 1,
+       "carbs": 17,
+       "fat": 0.3,
+       "fiber": 3,
+       "nutrients": {
+        "potassium_mg": 200,
+        "vitc_mg": 25
+       }
+      }
+     ],
+     "note": "Ninja single-serve cup; fruit type and whey brand estimated"
     }
    ],
    "notes": ""

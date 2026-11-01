@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-01T12:22:13-07:00",
+ "last_updated": "2026-11-01T12:22:20-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -1469,6 +1469,17 @@
         "vitc_mg": 15,
         "vitk_mcg": 12,
         "folate_mcg": 40
+       }
+      },
+      {
+       "food": "AG1 (green drink in shaker)",
+       "kcal": 50,
+       "protein": 2,
+       "carbs": 6,
+       "fat": 0,
+       "fiber": 2,
+       "nutrients": {
+        "vitd_iu": 400
        }
       }
      ],

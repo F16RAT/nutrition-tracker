@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-01T15:55:54-07:00",
+ "last_updated": "2026-11-01T16:01:34-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -1570,6 +1570,36 @@
         "magnesium_mg": 32,
         "vitc_mg": 10,
         "b6_mg": 0.4
+       }
+      }
+     ],
+     "note": ""
+    },
+    {
+     "time": "16:00",
+     "name": "Supplements",
+     "items": [
+      {
+       "food": "Sports Research D3 + K2 (1 softgel; 125 mcg/5,000 IU D3, 100 mcg K2 as MK-7)",
+       "kcal": 5,
+       "protein": 0,
+       "carbs": 0,
+       "fat": 0.5,
+       "fiber": 0,
+       "nutrients": {
+        "vitd_iu": 5000,
+        "vitk_mcg": 100
+       }
+      },
+      {
+       "food": "ProHealth Magnesium Glycinate (1 capsule; 100 mg Mg, 600 mg glycine)",
+       "kcal": 0,
+       "protein": 0,
+       "carbs": 0,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "magnesium_mg": 100
        }
       }
      ],

@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-31T18:39:13-05:00",
+ "last_updated": "2026-11-01T11:29:11-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -1376,6 +1376,38 @@
       }
      ],
      "note": ""
+    },
+    {
+     "time": "21:00",
+     "name": "Evening popcorn and drinks",
+     "items": [
+      {
+       "food": "Popcorn, ~2 tbsp kernels popped with 1 tsp coconut oil (estimated)",
+       "kcal": 150,
+       "protein": 3,
+       "carbs": 22,
+       "fat": 5.5,
+       "fiber": 4,
+       "nutrients": {
+        "magnesium_mg": 35,
+        "potassium_mg": 70,
+        "satfat_g": 4.5
+       }
+      },
+      {
+       "food": "Lemon drop cocktail x2, ~190 kcal each (vodka, triple sec, lemon, sugar; estimated)",
+       "kcal": 380,
+       "protein": 0,
+       "carbs": 28,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "sugar_g": 26,
+        "alcohol_g": 28
+       }
+      }
+     ],
+     "note": "Lemon drop size and recipe estimated"
     }
    ],
    "notes": "Boston walk 2.52 mi, 242 active kcal. Gym skipped.",

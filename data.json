@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-01T16:01:34-07:00",
+ "last_updated": "2026-11-01T18:22:19-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -1604,11 +1604,88 @@
       }
      ],
      "note": ""
+    },
+    {
+     "time": "18:15",
+     "name": "Dinner (Hawaiian plate)",
+     "items": [
+      {
+       "food": "Kalua pulled pork with cabbage, ~4 oz (estimated)",
+       "kcal": 230,
+       "protein": 28,
+       "carbs": 2,
+       "fat": 12,
+       "fiber": 1,
+       "nutrients": {
+        "sodium_mg": 750,
+        "iron_mg": 1.5,
+        "zinc_mg": 3,
+        "satfat_g": 4
+       }
+      },
+      {
+       "food": "Teriyaki or roasted chicken pieces, ~3 oz (estimated)",
+       "kcal": 190,
+       "protein": 22,
+       "carbs": 6,
+       "fat": 8,
+       "fiber": 0,
+       "nutrients": {
+        "sodium_mg": 500,
+        "sugar_g": 5
+       }
+      },
+      {
+       "food": "Fried rice with egg and meat, ~1 cup (estimated)",
+       "kcal": 330,
+       "protein": 9,
+       "carbs": 46,
+       "fat": 12,
+       "fiber": 1,
+       "nutrients": {
+        "sodium_mg": 700
+       }
+      },
+      {
+       "food": "Macaroni or potato salad, mac-style, ~1/2 cup (estimated)",
+       "kcal": 200,
+       "protein": 4,
+       "carbs": 20,
+       "fat": 11,
+       "fiber": 1,
+       "nutrients": {
+        "sodium_mg": 300
+       }
+      },
+      {
+       "food": "Hawaiian sweet roll (estimated)",
+       "kcal": 150,
+       "protein": 4,
+       "carbs": 27,
+       "fat": 3,
+       "fiber": 1,
+       "nutrients": {
+        "sodium_mg": 180,
+        "sugar_g": 7
+       }
+      },
+      {
+       "food": "Waterloo lemon-lime sparkling water",
+       "kcal": 0,
+       "protein": 0,
+       "carbs": 0,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {}
+      }
+     ],
+     "note": "Estimated portions; hosted meal"
     }
    ],
-   "notes": "Strength A (legs) at EOS ~3:30 PM; hard-day target 2,400-2,500 kcal, 165-170 g protein.",
+   "notes": "Strength A (legs) at EOS ~3:30 PM; hard-day target 2,400-2,500 kcal, 165-170 g protein. Strength A done: 56 min, 304 active kcal (408 total).",
    "day_type": "hard",
-   "weight_lb": 195
+   "weight_lb": 195,
+   "active_kcal": 304
   }
  }
 }

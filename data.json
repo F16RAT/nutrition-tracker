@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-01T18:22:19-07:00",
+ "last_updated": "2026-11-01T19:55:41-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -1680,6 +1680,46 @@
       }
      ],
      "note": "Estimated portions; hosted meal"
+    },
+    {
+     "time": "19:50",
+     "name": "Evening yogurt bowl",
+     "items": [
+      {
+       "food": "Fage Total 5% yogurt, ~3/4 cup (estimated)",
+       "kcal": 160,
+       "protein": 15,
+       "carbs": 6,
+       "fat": 9,
+       "fiber": 0,
+       "nutrients": {
+        "calcium_mg": 200,
+        "potassium_mg": 200
+       }
+      },
+      {
+       "food": "Blueberries, ~1/4 cup",
+       "kcal": 20,
+       "protein": 0.3,
+       "carbs": 5,
+       "fat": 0.1,
+       "fiber": 1,
+       "nutrients": {
+        "vitc_mg": 3,
+        "vitk_mcg": 7
+       }
+      },
+      {
+       "food": "Raw honey, ~1 tsp (estimated)",
+       "kcal": 21,
+       "protein": 0,
+       "carbs": 6,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {}
+      }
+     ],
+     "note": "Portions estimated"
     }
    ],
    "notes": "Strength A (legs) at EOS ~3:30 PM; hard-day target 2,400-2,500 kcal, 165-170 g protein. Strength A done: 56 min, 304 active kcal (408 total).",

@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-02T16:07:53-07:00",
+ "last_updated": "2026-11-02T18:12:08-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -1914,10 +1914,55 @@
       }
      ],
      "note": ""
+    },
+    {
+     "time": "18:10",
+     "name": "Dinner (Korean and Hawaiian spread)",
+     "items": [
+      {
+       "food": "Kimchi tofu stew (kimchi jjigae), ~1.5 cups (estimated)",
+       "kcal": 280,
+       "protein": 20,
+       "carbs": 14,
+       "fat": 15,
+       "fiber": 3,
+       "nutrients": {
+        "sodium_mg": 1400,
+        "calcium_mg": 250,
+        "iron_mg": 3
+       }
+      },
+      {
+       "food": "Kalua pulled pork with cabbage, ~4 oz (estimated)",
+       "kcal": 230,
+       "protein": 28,
+       "carbs": 2,
+       "fat": 12,
+       "fiber": 1,
+       "nutrients": {
+        "sodium_mg": 750,
+        "zinc_mg": 3
+       }
+      },
+      {
+       "food": "Roasted seaweed snacks, ~1/2 oz (estimated)",
+       "kcal": 50,
+       "protein": 3,
+       "carbs": 2,
+       "fat": 3,
+       "fiber": 1,
+       "nutrients": {
+        "iodine_mcg": 150,
+        "sodium_mg": 100
+       }
+      }
+     ],
+     "note": "Estimated; other dishes on the table not counted unless added"
     }
    ],
    "day_type": "hard",
-   "notes": "Long hike 4-4.5 mi, 500-700 ft gain, 1.5-2 h, plus core. Hard-day tier."
+   "notes": "Long hike 4-4.5 mi, 500-700 ft gain, 1.5-2 h, plus core. Hard-day tier. Hike done: 3.19 mi, 1:14, 554 ft gain, 385 active kcal (522 total).",
+   "active_kcal": 385
   }
  }
 }

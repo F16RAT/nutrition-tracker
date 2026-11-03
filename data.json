@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-03T15:06:57-07:00",
+ "last_updated": "2026-11-03T15:16:26-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -2152,6 +2152,25 @@
        "nutrients": {
         "sodium_mg": 350,
         "sugar_g": 0
+       }
+      }
+     ],
+     "note": ""
+    },
+    {
+     "time": "15:15",
+     "name": "Coffee",
+     "items": [
+      {
+       "food": "Coffee (Dichotomy mug) with ~2 tbsp half and half and 1 tsp sugar (estimated)",
+       "kcal": 56,
+       "protein": 1,
+       "carbs": 5,
+       "fat": 3.5,
+       "fiber": 0,
+       "nutrients": {
+        "sugar_g": 4.5,
+        "sodium_mg": 15
        }
       }
      ],

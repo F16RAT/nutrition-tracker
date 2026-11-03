@@ -1967,7 +1967,8 @@
     "2026-11-03": {
       "meals": [],
       "day_type": "lifting",
-      "notes": "RAP day (reserve starts). Planned Strength B at EOS, not firm; fallback hotel version or incline walk."
+      "notes": "RAP day (reserve starts). Planned Strength B at EOS, not firm; fallback hotel version or incline walk.",
+      "weight_lb": 191
     }
   }
 }

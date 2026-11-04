@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-03T16:05:46-07:00",
+ "last_updated": "2026-11-03T18:48:10-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -2201,6 +2201,56 @@
        "fiber": 0,
        "nutrients": {
         "magnesium_mg": 100
+       }
+      }
+     ],
+     "note": ""
+    },
+    {
+     "time": "18:40",
+     "name": "Dinner",
+     "items": [
+      {
+       "food": "Ribeye-style steak, ~8 oz cooked (estimated)",
+       "kcal": 560,
+       "protein": 52,
+       "carbs": 0,
+       "fat": 37,
+       "fiber": 0,
+       "nutrients": {
+        "iron_mg": 4,
+        "sodium_mg": 150
+       }
+      },
+      {
+       "food": "Roasted baby potatoes and sweet potato, ~1 cup with oil (estimated)",
+       "kcal": 240,
+       "protein": 4,
+       "carbs": 38,
+       "fat": 8,
+       "fiber": 5,
+       "nutrients": {
+        "potassium_mg": 700
+       }
+      },
+      {
+       "food": "Asparagus, ~1 cup (estimated)",
+       "kcal": 35,
+       "protein": 4,
+       "carbs": 6,
+       "fat": 0,
+       "fiber": 3,
+       "nutrients": {}
+      },
+      {
+       "food": "Milk, 1 cup, assumed 2% (estimated)",
+       "kcal": 120,
+       "protein": 8,
+       "carbs": 12,
+       "fat": 5,
+       "fiber": 0,
+       "nutrients": {
+        "calcium_mg": 300
        }
       }
      ],

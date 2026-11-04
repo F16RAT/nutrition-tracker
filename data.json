@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-04T17:13:23-05:00",
+ "last_updated": "2026-11-04T17:33:40-05:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -2540,6 +2540,38 @@
        "fiber": 1,
        "nutrients": {
         "sodium_mg": 250
+       }
+      }
+     ],
+     "note": ""
+    },
+    {
+     "time": "17:30",
+     "name": "Snack (flat white)",
+     "items": [
+      {
+       "food": "Starbucks tall flat white, whole milk, 2 ristretto shots (app: 170 kcal, 13 g sugar, 9 g fat; protein estimated)",
+       "kcal": 170,
+       "protein": 9,
+       "carbs": 13,
+       "fat": 9,
+       "fiber": 0,
+       "nutrients": {
+        "sugar_g": 13,
+        "satfat_g": 5,
+        "calcium_mg": 300,
+        "potassium_mg": 400
+       }
+      },
+      {
+       "food": "Sugar in the Raw, 1 packet",
+       "kcal": 15,
+       "protein": 0,
+       "carbs": 4,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "sugar_g": 4
        }
       }
      ],

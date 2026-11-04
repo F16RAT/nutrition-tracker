@@ -1967,6 +1967,23 @@
     "2026-11-03": {
       "meals": [
         {
+          "time": "08:00",
+          "name": "Supplements (morning)",
+          "items": [
+            {
+              "food": "ProHealth Magnesium Glycinate (1 capsule; 100 mg Mg, 600 mg glycine)",
+              "kcal": 0,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "magnesium_mg": 100
+              }
+            }
+          ]
+        },
+        {
           "time": "09:20",
           "name": "Pre-workout shake and banana",
           "items": [
@@ -2190,17 +2207,6 @@
               "nutrients": {
                 "vitd_iu": 5000,
                 "vitk_mcg": 100
-              }
-            },
-            {
-              "food": "ProHealth Magnesium Glycinate (1 capsule; 100 mg Mg, 600 mg glycine)",
-              "kcal": 0,
-              "protein": 0,
-              "carbs": 0,
-              "fat": 0,
-              "fiber": 0,
-              "nutrients": {
-                "magnesium_mg": 100
               }
             }
           ],

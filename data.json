@@ -2211,11 +2211,11 @@
           "name": "Dinner",
           "items": [
             {
-              "food": "Ribeye-style steak, ~8 oz cooked (estimated)",
-              "kcal": 560,
-              "protein": 52,
+              "food": "Ribeye-style steak, ~6 oz eaten of ~8 oz cooked; ~2 oz left on plate (estimated)",
+              "kcal": 420,
+              "protein": 39,
               "carbs": 0,
-              "fat": 37,
+              "fat": 28,
               "fiber": 0,
               "nutrients": {
                 "iron_mg": 4,

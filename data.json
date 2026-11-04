@@ -1,2642 +1,2648 @@
 {
- "last_updated": "2026-11-04T18:04:58-05:00",
- "targets": {
-  "kcal": 2200,
-  "kcal_by_day_type": {
-   "rest": 2100,
-   "lifting": 2300,
-   "hard": 2450
+  "last_updated": "2026-11-04T18:04:58-05:00",
+  "targets": {
+    "kcal": 2200,
+    "kcal_by_day_type": {
+      "rest": 2100,
+      "lifting": 2300,
+      "hard": 2450
+    },
+    "protein": 160,
+    "protein_range": [
+      150,
+      170
+    ],
+    "fiber": 35,
+    "fat": 75,
+    "carbs": 220,
+    "nutrients": {
+      "iron_mg": {
+        "label": "Iron",
+        "unit": "mg",
+        "target": 8
+      },
+      "calcium_mg": {
+        "label": "Calcium",
+        "unit": "mg",
+        "target": 1200
+      },
+      "magnesium_mg": {
+        "label": "Magnesium",
+        "unit": "mg",
+        "target": 420
+      },
+      "potassium_mg": {
+        "label": "Potassium",
+        "unit": "mg",
+        "target": 3400
+      },
+      "sodium_mg": {
+        "label": "Sodium",
+        "unit": "mg",
+        "target": 2300,
+        "limit": true
+      },
+      "vitD_mcg": {
+        "label": "Vitamin D",
+        "unit": "mcg",
+        "target": 20
+      },
+      "b12_mcg": {
+        "label": "Vitamin B12",
+        "unit": "mcg",
+        "target": 2.4
+      },
+      "vitC_mg": {
+        "label": "Vitamin C",
+        "unit": "mg",
+        "target": 90
+      },
+      "zinc_mg": {
+        "label": "Zinc",
+        "unit": "mg",
+        "target": 11
+      },
+      "omega3_g": {
+        "label": "Omega-3",
+        "unit": "g",
+        "target": 1.6
+      },
+      "sugar_g": {
+        "label": "Sugar (total; keep added <36 g)",
+        "unit": "g",
+        "target": 50,
+        "limit": true
+      },
+      "satfat_g": {
+        "label": "Saturated fat",
+        "unit": "g",
+        "target": 22,
+        "limit": true
+      }
+    }
   },
-  "protein": 160,
-  "protein_range": [
-   150,
-   170
-  ],
-  "fiber": 35,
-  "fat": 75,
-  "carbs": 220,
-  "nutrients": {
-   "iron_mg": {
-    "label": "Iron",
-    "unit": "mg",
-    "target": 8
-   },
-   "calcium_mg": {
-    "label": "Calcium",
-    "unit": "mg",
-    "target": 1200
-   },
-   "magnesium_mg": {
-    "label": "Magnesium",
-    "unit": "mg",
-    "target": 420
-   },
-   "potassium_mg": {
-    "label": "Potassium",
-    "unit": "mg",
-    "target": 3400
-   },
-   "sodium_mg": {
-    "label": "Sodium",
-    "unit": "mg",
-    "target": 2300,
-    "limit": true
-   },
-   "vitD_mcg": {
-    "label": "Vitamin D",
-    "unit": "mcg",
-    "target": 20
-   },
-   "b12_mcg": {
-    "label": "Vitamin B12",
-    "unit": "mcg",
-    "target": 2.4
-   },
-   "vitC_mg": {
-    "label": "Vitamin C",
-    "unit": "mg",
-    "target": 90
-   },
-   "zinc_mg": {
-    "label": "Zinc",
-    "unit": "mg",
-    "target": 11
-   },
-   "omega3_g": {
-    "label": "Omega-3",
-    "unit": "g",
-    "target": 1.6
-   },
-   "sugar_g": {
-    "label": "Sugar (total; keep added <36 g)",
-    "unit": "g",
-    "target": 50,
-    "limit": true
-   },
-   "satfat_g": {
-    "label": "Saturated fat",
-    "unit": "g",
-    "target": 22,
-    "limit": true
-   }
+  "days": {
+    "2026-10-28": {
+      "estimate": true,
+      "notes": "DEMO/ESTIMATES \u2014 values approximate (USDA-style). Dinner (chili + cornbread + 1 glass wine at parents') not yet logged.",
+      "meals": [
+        {
+          "time": "08:00",
+          "name": "Morning coffee",
+          "note": "2 cups black coffee (0 kcal)",
+          "items": [
+            {
+              "food": "2 cups black coffee",
+              "kcal": 5,
+              "protein": 0.6,
+              "carbs": 0,
+              "fat": 0.1,
+              "fiber": 0,
+              "nutrients": {
+                "iron_mg": 0,
+                "calcium_mg": 0,
+                "magnesium_mg": 14,
+                "potassium_mg": 230,
+                "sodium_mg": 10,
+                "vitD_mcg": 0,
+                "b12_mcg": 0,
+                "vitC_mg": 0,
+                "zinc_mg": 0,
+                "omega3_g": 0,
+                "sugar_g": 0,
+                "satfat_g": 0
+              }
+            }
+          ]
+        },
+        {
+          "time": "08:00",
+          "name": "Pre-workout",
+          "items": [
+            {
+              "food": "Greek Gods honey vanilla Greek yogurt (5 oz)",
+              "kcal": 180,
+              "protein": 9,
+              "carbs": 22,
+              "fat": 7,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 230,
+                "potassium_mg": 280,
+                "sodium_mg": 65,
+                "vitD_mcg": 0,
+                "b12_mcg": 0.6,
+                "zinc_mg": 0.9,
+                "sugar_g": 20,
+                "satfat_g": 4.5,
+                "iron_mg": 0,
+                "magnesium_mg": 25
+              }
+            },
+            {
+              "food": "Optimum Nutrition Gold Standard whey, vanilla ice cream (1 scoop)",
+              "kcal": 120,
+              "protein": 24,
+              "carbs": 3,
+              "fat": 1,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 130,
+                "potassium_mg": 160,
+                "sodium_mg": 130,
+                "iron_mg": 0.4,
+                "magnesium_mg": 25,
+                "sugar_g": 2,
+                "satfat_g": 0.5,
+                "b12_mcg": 0.3,
+                "zinc_mg": 0.3
+              }
+            }
+          ],
+          "note": "before Strength B at EOS"
+        },
+        {
+          "time": "11:50",
+          "name": "Breakfast",
+          "note": "Estimate ~715 kcal / ~35 g protein",
+          "items": [
+            {
+              "food": "3 large eggs",
+              "kcal": 216,
+              "protein": 18,
+              "carbs": 1.1,
+              "fat": 14.3,
+              "fiber": 0,
+              "nutrients": {
+                "iron_mg": 2.6,
+                "calcium_mg": 84,
+                "magnesium_mg": 18,
+                "potassium_mg": 207,
+                "sodium_mg": 213,
+                "vitD_mcg": 3.0,
+                "b12_mcg": 1.3,
+                "vitC_mg": 0,
+                "zinc_mg": 1.9,
+                "omega3_g": 0.1,
+                "sugar_g": 0.6,
+                "satfat_g": 4.7
+              }
+            },
+            {
+              "food": "3 slices bacon",
+              "kcal": 120,
+              "protein": 8,
+              "carbs": 0.3,
+              "fat": 9.5,
+              "fiber": 0,
+              "nutrients": {
+                "iron_mg": 0.3,
+                "calcium_mg": 3,
+                "magnesium_mg": 9,
+                "potassium_mg": 150,
+                "sodium_mg": 550,
+                "vitD_mcg": 0.3,
+                "b12_mcg": 0.3,
+                "vitC_mg": 0,
+                "zinc_mg": 0.9,
+                "omega3_g": 0.05,
+                "sugar_g": 0,
+                "satfat_g": 3.2
+              }
+            },
+            {
+              "food": "2 slices Proof Khorasan sourdough",
+              "kcal": 190,
+              "protein": 7,
+              "carbs": 38,
+              "fat": 1.4,
+              "fiber": 4,
+              "nutrients": {
+                "iron_mg": 2.2,
+                "calcium_mg": 20,
+                "magnesium_mg": 40,
+                "potassium_mg": 120,
+                "sodium_mg": 400,
+                "vitD_mcg": 0,
+                "b12_mcg": 0,
+                "vitC_mg": 0,
+                "zinc_mg": 1.2,
+                "omega3_g": 0,
+                "sugar_g": 1,
+                "satfat_g": 0.3
+              }
+            },
+            {
+              "food": "1 tsp Kerrygold butter",
+              "kcal": 34,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 3.8,
+              "fiber": 0,
+              "nutrients": {
+                "iron_mg": 0,
+                "calcium_mg": 1,
+                "magnesium_mg": 0,
+                "potassium_mg": 0,
+                "sodium_mg": 27,
+                "vitD_mcg": 0.1,
+                "b12_mcg": 0,
+                "vitC_mg": 0,
+                "zinc_mg": 0,
+                "omega3_g": 0,
+                "sugar_g": 0,
+                "satfat_g": 2.4
+              }
+            },
+            {
+              "food": "1 tsp honey",
+              "kcal": 21,
+              "protein": 0,
+              "carbs": 5.8,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "iron_mg": 0,
+                "calcium_mg": 0,
+                "magnesium_mg": 0,
+                "potassium_mg": 4,
+                "sodium_mg": 0,
+                "vitD_mcg": 0,
+                "b12_mcg": 0,
+                "vitC_mg": 0,
+                "zinc_mg": 0,
+                "omega3_g": 0,
+                "sugar_g": 5.8,
+                "satfat_g": 0
+              }
+            },
+            {
+              "food": "Organic avocado & sea salt, ~2 oz",
+              "kcal": 91,
+              "protein": 1.1,
+              "carbs": 4.9,
+              "fat": 8.4,
+              "fiber": 3.8,
+              "nutrients": {
+                "iron_mg": 0.3,
+                "calcium_mg": 7,
+                "magnesium_mg": 16,
+                "potassium_mg": 277,
+                "sodium_mg": 150,
+                "vitD_mcg": 0,
+                "b12_mcg": 0,
+                "vitC_mg": 5,
+                "zinc_mg": 0.4,
+                "omega3_g": 0.06,
+                "sugar_g": 0.4,
+                "satfat_g": 1.2
+              }
+            },
+            {
+              "food": "AG1, 1 scoop [label: 1 level scoop, 13 g]",
+              "kcal": 40,
+              "protein": 2,
+              "carbs": 6,
+              "fat": 1,
+              "fiber": 2,
+              "nutrients": {
+                "vita_mcg": 550,
+                "vitC_mg": 500,
+                "vite_mg": 20,
+                "b12_mcg": 400,
+                "b6_mg": 5,
+                "folate_mcg": 680,
+                "choline_mg": 25,
+                "calcium_mg": 120,
+                "iron_mg": 1,
+                "magnesium_mg": 30,
+                "zinc_mg": 20,
+                "selenium_mcg": 22,
+                "manganese_mg": 0.4,
+                "sodium_mg": 40,
+                "potassium_mg": 250,
+                "vitk_mcg": 90,
+                "sugar_g": 0.5,
+                "b1_mg": 3,
+                "b2_mg": 2,
+                "niacin_mg_ne": 16,
+                "biotin_mcg": 330,
+                "pantothenic_mg": 4,
+                "phosphorus_mg": 130,
+                "copper_mg": 0.2,
+                "chromium_mcg": 25,
+                "molybdenum_mcg": 45,
+                "coq10_mg": 60
+              }
+            }
+          ]
+        },
+        {
+          "time": "15:05",
+          "name": "Afternoon snack",
+          "note": "Estimate ~300 kcal / ~22 g protein",
+          "items": [
+            {
+              "food": "Fage Total 5% yogurt, 170 g",
+              "kcal": 160,
+              "protein": 16,
+              "carbs": 6,
+              "fat": 8.5,
+              "fiber": 0,
+              "nutrients": {
+                "iron_mg": 0,
+                "calcium_mg": 170,
+                "magnesium_mg": 17,
+                "potassium_mg": 220,
+                "sodium_mg": 55,
+                "vitD_mcg": 0,
+                "b12_mcg": 0.9,
+                "vitC_mg": 0,
+                "zinc_mg": 0.9,
+                "omega3_g": 0,
+                "sugar_g": 6,
+                "satfat_g": 5.5
+              }
+            },
+            {
+              "food": "Blueberries, handful (~50 g)",
+              "kcal": 29,
+              "protein": 0.4,
+              "carbs": 7.2,
+              "fat": 0.2,
+              "fiber": 1.2,
+              "nutrients": {
+                "iron_mg": 0.1,
+                "calcium_mg": 3,
+                "magnesium_mg": 3,
+                "potassium_mg": 39,
+                "sodium_mg": 0,
+                "vitD_mcg": 0,
+                "b12_mcg": 0,
+                "vitC_mg": 5,
+                "zinc_mg": 0,
+                "omega3_g": 0,
+                "sugar_g": 5,
+                "satfat_g": 0
+              }
+            },
+            {
+              "food": "1 tsp honey",
+              "kcal": 21,
+              "protein": 0,
+              "carbs": 5.8,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "iron_mg": 0,
+                "calcium_mg": 0,
+                "magnesium_mg": 0,
+                "potassium_mg": 4,
+                "sodium_mg": 0,
+                "vitD_mcg": 0,
+                "b12_mcg": 0,
+                "vitC_mg": 0,
+                "zinc_mg": 0,
+                "omega3_g": 0,
+                "sugar_g": 5.8,
+                "satfat_g": 0
+              }
+            },
+            {
+              "food": "Kirkland mixed nuts, half pack (~16 g)",
+              "kcal": 95,
+              "protein": 3.5,
+              "carbs": 3.5,
+              "fat": 8.5,
+              "fiber": 1.2,
+              "nutrients": {
+                "iron_mg": 0.5,
+                "calcium_mg": 15,
+                "magnesium_mg": 35,
+                "potassium_mg": 100,
+                "sodium_mg": 50,
+                "vitD_mcg": 0,
+                "b12_mcg": 0,
+                "vitC_mg": 0,
+                "zinc_mg": 0.6,
+                "omega3_g": 0.1,
+                "sugar_g": 0.7,
+                "satfat_g": 1.2
+              }
+            }
+          ]
+        },
+        {
+          "time": "18:15",
+          "name": "Dinner",
+          "items": [
+            {
+              "food": "Beef and bean chili, ~1.5 cups",
+              "kcal": 400,
+              "protein": 29,
+              "carbs": 32,
+              "fat": 16,
+              "fiber": 9,
+              "nutrients": {
+                "iron_mg": 4.5,
+                "calcium_mg": 110,
+                "magnesium_mg": 85,
+                "potassium_mg": 900,
+                "sodium_mg": 950,
+                "zinc_mg": 5.5,
+                "b12_mcg": 2.0,
+                "vitC_mg": 12,
+                "sugar_g": 7,
+                "satfat_g": 6.5,
+                "vitD_mcg": 0.2,
+                "omega3_g": 0.1
+              }
+            },
+            {
+              "food": "Shredded Mexican cheese blend, ~1/4 cup",
+              "kcal": 110,
+              "protein": 7,
+              "carbs": 1,
+              "fat": 9,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 200,
+                "sodium_mg": 180,
+                "satfat_g": 5.5,
+                "b12_mcg": 0.3,
+                "zinc_mg": 0.9,
+                "vitD_mcg": 0.1
+              }
+            },
+            {
+              "food": "1 square cornbread muffin",
+              "kcal": 170,
+              "protein": 3,
+              "carbs": 26,
+              "fat": 6,
+              "fiber": 1,
+              "nutrients": {
+                "calcium_mg": 50,
+                "sodium_mg": 280,
+                "iron_mg": 1,
+                "sugar_g": 9,
+                "satfat_g": 1.5,
+                "potassium_mg": 70,
+                "magnesium_mg": 15
+              }
+            },
+            {
+              "food": "1 glass red wine (5 oz)",
+              "kcal": 125,
+              "protein": 0.1,
+              "carbs": 4,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "potassium_mg": 187,
+                "magnesium_mg": 12,
+                "iron_mg": 0.7,
+                "sugar_g": 1
+              }
+            }
+          ],
+          "note": "chili and cornbread at parents'"
+        },
+        {
+          "time": "19:00",
+          "name": "Dessert",
+          "items": [
+            {
+              "food": "Spice cake with cream cheese frosting, small slice (~70 g)",
+              "kcal": 231.0,
+              "protein": 2.4,
+              "carbs": 33.6,
+              "fat": 9.8,
+              "fiber": 0.7,
+              "nutrients": {
+                "calcium_mg": 42.0,
+                "sodium_mg": 196.0,
+                "iron_mg": 0.8,
+                "sugar_g": 22.4,
+                "satfat_g": 3.1,
+                "potassium_mg": 77.0,
+                "magnesium_mg": 9.8
+              }
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "active_kcal": 419,
+      "day_type": "lifting"
+    },
+    "2026-10-29": {
+      "meals": [
+        {
+          "time": "08:00",
+          "name": "Morning coffee",
+          "items": [
+            {
+              "food": "2 cups black coffee",
+              "kcal": 5,
+              "protein": 0.6,
+              "carbs": 0,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "potassium_mg": 230,
+                "magnesium_mg": 14
+              }
+            }
+          ],
+          "note": ""
+        },
+        {
+          "time": "09:55",
+          "name": "Pre-workout shake",
+          "items": [
+            {
+              "food": "Optimum Nutrition Gold Standard whey, vanilla ice cream (1 scoop, 31 g, label)",
+              "kcal": 120,
+              "protein": 24,
+              "carbs": 3,
+              "fat": 1.5,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 130,
+                "potassium_mg": 160,
+                "sodium_mg": 130,
+                "iron_mg": 0.4,
+                "magnesium_mg": 25,
+                "sugar_g": 2,
+                "satfat_g": 1,
+                "b12_mcg": 0.3,
+                "zinc_mg": 0.3
+              }
+            }
+          ],
+          "note": ""
+        },
+        {
+          "time": "12:30",
+          "name": "Breakfast",
+          "items": [
+            {
+              "food": "3 Vital Farms pasture-raised eggs, scrambled",
+              "kcal": 210,
+              "protein": 18,
+              "carbs": 1.5,
+              "fat": 15,
+              "fiber": 0,
+              "nutrients": {
+                "choline_mg": 420,
+                "vitd_iu": 120,
+                "b12_mcg": 1.8,
+                "iron_mg": 2.7,
+                "selenium_mcg": 45,
+                "sodium_mg": 210,
+                "potassium_mg": 210,
+                "calcium_mg": 75,
+                "satfat_g": 4.5
+              }
+            },
+            {
+              "food": "2 slices bacon",
+              "kcal": 90,
+              "protein": 6,
+              "carbs": 0,
+              "fat": 7,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 380,
+                "potassium_mg": 100,
+                "satfat_g": 2.5,
+                "zinc_mg": 0.6
+              }
+            },
+            {
+              "food": "1 small flour tortilla",
+              "kcal": 110,
+              "protein": 3,
+              "carbs": 18,
+              "fat": 3,
+              "fiber": 1,
+              "nutrients": {
+                "sodium_mg": 280,
+                "calcium_mg": 50,
+                "iron_mg": 1.2
+              }
+            },
+            {
+              "food": "Salsa (2 tbsp)",
+              "kcal": 10,
+              "protein": 0.4,
+              "carbs": 2,
+              "fat": 0,
+              "fiber": 0.5,
+              "nutrients": {
+                "sodium_mg": 200,
+                "potassium_mg": 100,
+                "vitc_mg": 3
+              }
+            },
+            {
+              "food": "Guacamole (1 tbsp)",
+              "kcal": 25,
+              "protein": 0.3,
+              "carbs": 1.5,
+              "fat": 2.2,
+              "fiber": 1,
+              "nutrients": {
+                "potassium_mg": 80,
+                "sodium_mg": 40
+              }
+            },
+            {
+              "food": "Fage Total 5% Greek yogurt (1/2 cup, 125 g)",
+              "kcal": 140,
+              "protein": 13,
+              "carbs": 4,
+              "fat": 7,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 150,
+                "potassium_mg": 170,
+                "sodium_mg": 40,
+                "b12_mcg": 0.6,
+                "satfat_g": 5,
+                "sugar_g": 4
+              }
+            },
+            {
+              "food": "Blueberries (1/4 cup)",
+              "kcal": 20,
+              "protein": 0.3,
+              "carbs": 5,
+              "fat": 0.1,
+              "fiber": 1,
+              "nutrients": {
+                "vitc_mg": 3,
+                "potassium_mg": 28
+              }
+            },
+            {
+              "food": "Sun Tan Honey Farm raw honey (1 tsp)",
+              "kcal": 20,
+              "protein": 0,
+              "carbs": 6,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "sugar_g": 6
+              }
+            },
+            {
+              "food": "AG1 (1 scoop, not counted toward protein goal) [label: 1 level scoop, 13 g]",
+              "kcal": 40,
+              "protein": 2,
+              "carbs": 6,
+              "fat": 1,
+              "fiber": 2,
+              "nutrients": {
+                "vita_mcg": 550,
+                "vitC_mg": 500,
+                "vite_mg": 20,
+                "b12_mcg": 400,
+                "b6_mg": 5,
+                "folate_mcg": 680,
+                "choline_mg": 25,
+                "calcium_mg": 120,
+                "iron_mg": 1,
+                "magnesium_mg": 30,
+                "zinc_mg": 20,
+                "selenium_mcg": 22,
+                "manganese_mg": 0.4,
+                "sodium_mg": 40,
+                "potassium_mg": 250,
+                "vitk_mcg": 90,
+                "sugar_g": 0.5,
+                "b1_mg": 3,
+                "b2_mg": 2,
+                "niacin_mg_ne": 16,
+                "biotin_mcg": 330,
+                "pantothenic_mg": 4,
+                "phosphorus_mg": 130,
+                "copper_mg": 0.2,
+                "chromium_mcg": 25,
+                "molybdenum_mcg": 45,
+                "coq10_mg": 60
+              }
+            }
+          ],
+          "note": "Breakfast taco minus cheese, Fage with blueberries and honey, AG1"
+        },
+        {
+          "time": "14:00",
+          "name": "Chocolate",
+          "items": [
+            {
+              "food": "Cadbury dark chocolate, 2 blocks (11 g; label 5 blocks = 140 kcal)",
+              "kcal": 56,
+              "protein": 0.4,
+              "carbs": 6.8,
+              "fat": 3.6,
+              "fiber": 0.8,
+              "nutrients": {
+                "iron_mg": 1.1,
+                "satfat_g": 2.4,
+                "sugar_g": 5.6,
+                "potassium_mg": 40
+              }
+            }
+          ],
+          "note": ""
+        },
+        {
+          "time": "15:00",
+          "name": "Starbucks flat white",
+          "items": [
+            {
+              "food": "Starbucks tall flat white (12 oz, whole milk, estimated)",
+              "kcal": 170,
+              "protein": 9,
+              "carbs": 13,
+              "fat": 9,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 300,
+                "potassium_mg": 380,
+                "sodium_mg": 105,
+                "satfat_g": 5,
+                "sugar_g": 12,
+                "b12_mcg": 1.1
+              }
+            },
+            {
+              "food": "1 packet raw sugar",
+              "kcal": 16,
+              "protein": 0,
+              "carbs": 4,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "sugar_g": 4
+              }
+            },
+            {
+              "food": "Starbucks grande iced green tea, unsweetened (16 oz)",
+              "kcal": 0,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 5
+              }
+            }
+          ],
+          "note": ""
+        },
+        {
+          "time": "16:00",
+          "name": "Supplements",
+          "items": [
+            {
+              "food": "Sports Research D3 + K2 (1 softgel; 125 mcg/5,000 IU D3, 100 mcg K2 as MK-7)",
+              "kcal": 5,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0.5,
+              "fiber": 0,
+              "nutrients": {
+                "vitd_iu": 5000,
+                "vitk_mcg": 100
+              }
+            },
+            {
+              "food": "ProHealth Magnesium Glycinate (1 capsule; 100 mg Mg, 600 mg glycine)",
+              "kcal": 0,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "magnesium_mg": 100
+              }
+            }
+          ],
+          "note": ""
+        },
+        {
+          "time": "18:30",
+          "name": "Dinner",
+          "items": [
+            {
+              "food": "Salmon fillet, ~6 oz cooked (estimated)",
+              "kcal": 350,
+              "protein": 37,
+              "carbs": 0,
+              "fat": 21,
+              "fiber": 0,
+              "nutrients": {
+                "omega3_g": 3.5,
+                "vitd_iu": 570,
+                "b12_mcg": 4.5,
+                "potassium_mg": 700,
+                "magnesium_mg": 45,
+                "selenium_mcg": 60,
+                "sodium_mg": 90,
+                "satfat_g": 4
+              }
+            },
+            {
+              "food": "Baby potatoes ~6 oz, pan fried in 1 tbsp olive oil (estimated)",
+              "kcal": 260,
+              "protein": 3,
+              "carbs": 30,
+              "fat": 14,
+              "fiber": 3,
+              "nutrients": {
+                "potassium_mg": 650,
+                "vitc_mg": 20,
+                "magnesium_mg": 30,
+                "sodium_mg": 20,
+                "satfat_g": 2
+              }
+            },
+            {
+              "food": "Steamed broccoli, 1 cup",
+              "kcal": 55,
+              "protein": 4,
+              "carbs": 11,
+              "fat": 0.6,
+              "fiber": 5,
+              "nutrients": {
+                "vitc_mg": 100,
+                "vitk_mcg": 220,
+                "calcium_mg": 60,
+                "potassium_mg": 460,
+                "magnesium_mg": 30,
+                "folate_mcg": 170
+              }
+            },
+            {
+              "food": "Milk, 1 glass (8 oz, assumed whole)",
+              "kcal": 150,
+              "protein": 8,
+              "carbs": 12,
+              "fat": 8,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 300,
+                "potassium_mg": 370,
+                "vitd_iu": 100,
+                "b12_mcg": 1.2,
+                "magnesium_mg": 25,
+                "sodium_mg": 105,
+                "satfat_g": 4.5,
+                "sugar_g": 12
+              }
+            }
+          ],
+          "note": "Portions estimated"
+        },
+        {
+          "time": "20:00",
+          "name": "Psyllium husk",
+          "items": [
+            {
+              "food": "Psyllium husk powder (1 tbsp, ~9 g, assumed)",
+              "kcal": 25,
+              "protein": 0,
+              "carbs": 7,
+              "fat": 0,
+              "fiber": 7,
+              "nutrients": {
+                "sodium_mg": 0
+              }
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "notes": "",
+      "weight_lb": 193,
+      "active_kcal": 202,
+      "day_type": "rest"
+    },
+    "2026-10-30": {
+      "meals": [
+        {
+          "time": "11:00",
+          "name": "Breakfast",
+          "items": [
+            {
+              "food": "Oikos Blended Greek yogurt, strawberry (150 g, 13 g protein label)",
+              "kcal": 100,
+              "protein": 13,
+              "carbs": 10,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 130,
+                "sodium_mg": 55,
+                "sugar_g": 7,
+                "vitd_iu": 40
+              }
+            },
+            {
+              "food": "Tammie Coe egg-cellent eggs cup (spinach, tomatoes, hard boiled eggs, everything bagel seasoning; estimated ~2 eggs)",
+              "kcal": 170,
+              "protein": 13,
+              "carbs": 3,
+              "fat": 12,
+              "fiber": 1,
+              "nutrients": {
+                "choline_mg": 290,
+                "sodium_mg": 330,
+                "iron_mg": 1.8,
+                "vitd_iu": 80,
+                "b12_mcg": 1.2,
+                "calcium_mg": 70,
+                "potassium_mg": 250
+              }
+            },
+            {
+              "food": "Poshi green pitted olives (about 5 olives, 15 g)",
+              "kcal": 15,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 1.5,
+              "fiber": 0.5,
+              "nutrients": {
+                "sodium_mg": 250
+              }
+            }
+          ],
+          "note": "Airport breakfast; egg cup estimated"
+        },
+        {
+          "time": "16:00",
+          "name": "Supplements",
+          "items": [
+            {
+              "food": "Sports Research D3 + K2 (1 softgel; 125 mcg/5,000 IU D3, 100 mcg K2 as MK-7)",
+              "kcal": 5,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0.5,
+              "fiber": 0,
+              "nutrients": {
+                "vitd_iu": 5000,
+                "vitk_mcg": 100
+              }
+            },
+            {
+              "food": "ProHealth Magnesium Glycinate (1 capsule; 100 mg Mg, 600 mg glycine)",
+              "kcal": 0,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "magnesium_mg": 100
+              }
+            }
+          ],
+          "note": ""
+        },
+        {
+          "time": "16:30",
+          "name": "Afternoon snack",
+          "items": [
+            {
+              "food": "Second Nature Dark Chocolate Medley nut mix, 2 servings (60 g; label 30 g = 180 kcal)",
+              "kcal": 360,
+              "protein": 10,
+              "carbs": 18,
+              "fat": 30,
+              "fiber": 4,
+              "nutrients": {
+                "calcium_mg": 80,
+                "iron_mg": 2,
+                "potassium_mg": 340,
+                "sodium_mg": 90,
+                "vite_mg": 8.8,
+                "satfat_g": 4,
+                "sugar_g": 8,
+                "magnesium_mg": 90
+              }
+            }
+          ],
+          "note": ""
+        },
+        {
+          "time": "16:30",
+          "name": "Inflight dinner",
+          "items": [
+            {
+              "food": "Chicken thigh (~4 oz) with chimichurri over wild rice, orange/plantain slices (estimated)",
+              "kcal": 520,
+              "protein": 32,
+              "carbs": 42,
+              "fat": 24,
+              "fiber": 3,
+              "nutrients": {
+                "sodium_mg": 650,
+                "potassium_mg": 520,
+                "iron_mg": 1.8,
+                "vitc_mg": 15,
+                "zinc_mg": 2.5,
+                "satfat_g": 5
+              }
+            },
+            {
+              "food": "Feta (~1 oz), sun-dried tomato, dried apricots, pistachios, pepperoncini plate (estimated)",
+              "kcal": 240,
+              "protein": 8,
+              "carbs": 22,
+              "fat": 13,
+              "fiber": 3,
+              "nutrients": {
+                "calcium_mg": 150,
+                "sodium_mg": 480,
+                "potassium_mg": 420,
+                "iron_mg": 1.5,
+                "vitc_mg": 10,
+                "satfat_g": 4,
+                "sugar_g": 14
+              }
+            },
+            {
+              "food": "Romaine and tomato salad with balsamic dressing and olive oil packet (estimated)",
+              "kcal": 110,
+              "protein": 2,
+              "carbs": 8,
+              "fat": 8,
+              "fiber": 2,
+              "nutrients": {
+                "vitk_mcg": 90,
+                "folate_mcg": 100,
+                "vitc_mg": 12,
+                "potassium_mg": 350,
+                "sodium_mg": 100
+              }
+            },
+            {
+              "food": "Half a dinner roll with butter pat (estimated)",
+              "kcal": 110,
+              "protein": 2.5,
+              "carbs": 14,
+              "fat": 4.5,
+              "fiber": 0.5,
+              "nutrients": {
+                "sodium_mg": 190,
+                "satfat_g": 2.5
+              }
+            }
+          ],
+          "note": "Estimated portions"
+        },
+        {
+          "time": "16:45",
+          "name": "Snack",
+          "items": [
+            {
+              "food": "Kirkland grass-fed beef stick (1 stick, 32 g, label)",
+              "kcal": 100,
+              "protein": 10,
+              "carbs": 1,
+              "fat": 7,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 390,
+                "iron_mg": 1.1,
+                "potassium_mg": 190,
+                "satfat_g": 3,
+                "calcium_mg": 20
+              }
+            }
+          ],
+          "note": ""
+        },
+        {
+          "time": "17:00",
+          "name": "Dessert",
+          "items": [
+            {
+              "food": "Inflight ice cream sundae with hot fudge and whipped cream (estimated, ~1 cup ice cream)",
+              "kcal": 420,
+              "protein": 6,
+              "carbs": 50,
+              "fat": 22,
+              "fiber": 1,
+              "nutrients": {
+                "calcium_mg": 200,
+                "sodium_mg": 150,
+                "potassium_mg": 330,
+                "satfat_g": 13,
+                "sugar_g": 42
+              }
+            }
+          ],
+          "note": "Estimated portion"
+        },
+        {
+          "time": "22:15",
+          "name": "Evening drink",
+          "items": [
+            {
+              "food": "Jameson Irish whiskey (2 pours, 1.5 oz each)",
+              "kcal": 210,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "alcohol_g": 28
+              }
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "notes": ""
+    },
+    "2026-10-31": {
+      "meals": [
+        {
+          "time": "11:30",
+          "name": "Breakfast",
+          "items": [
+            {
+              "food": "Ham/pepper omelet, about 3 eggs with a little cheese (estimated)",
+              "kcal": 430,
+              "protein": 28,
+              "carbs": 3,
+              "fat": 33,
+              "fiber": 0.5,
+              "nutrients": {
+                "choline_mg": 420,
+                "vitd_iu": 130,
+                "b12_mcg": 2.2,
+                "iron_mg": 2.8,
+                "selenium_mcg": 50,
+                "sodium_mg": 750,
+                "calcium_mg": 180,
+                "satfat_g": 13
+              }
+            },
+            {
+              "food": "Home fries, about 1.5 cups, pan fried (ate about 55%)",
+              "kcal": 181.5,
+              "protein": 2.2,
+              "carbs": 23.1,
+              "fat": 8.8,
+              "fiber": 2.2,
+              "nutrients": {
+                "potassium_mg": 440.0,
+                "vitc_mg": 9.9,
+                "sodium_mg": 192.5,
+                "satfat_g": 1.7
+              }
+            },
+            {
+              "food": "2 slices sourdough toast with butter pat and grape jelly (left about half a slice)",
+              "kcal": 232.0,
+              "protein": 6.4,
+              "carbs": 40.0,
+              "fat": 4.8,
+              "fiber": 1.6,
+              "nutrients": {
+                "sodium_mg": 416.0,
+                "iron_mg": 1.6,
+                "satfat_g": 2.4,
+                "sugar_g": 8.0
+              }
+            }
+          ],
+          "note": "Boston restaurant breakfast; omelet finished, about half the potatoes and most of the toast eaten"
+        },
+        {
+          "time": "15:30",
+          "name": "Afternoon snack",
+          "items": [
+            {
+              "food": "Think Jerky grass-fed beef stick, original (0.5 oz, label)",
+              "kcal": 40,
+              "protein": 4,
+              "carbs": 0,
+              "fat": 2.5,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 165,
+                "iron_mg": 0.4,
+                "satfat_g": 1
+              }
+            },
+            {
+              "food": "Second Nature Dark Chocolate Medley nut mix, 1 serving (30 g, label)",
+              "kcal": 180,
+              "protein": 5,
+              "carbs": 9,
+              "fat": 15,
+              "fiber": 2,
+              "nutrients": {
+                "calcium_mg": 40,
+                "iron_mg": 1,
+                "potassium_mg": 170,
+                "sodium_mg": 45,
+                "vite_mg": 4.4,
+                "satfat_g": 2,
+                "sugar_g": 4,
+                "magnesium_mg": 45
+              }
+            },
+            {
+              "food": "Americano with 1 sugar and splash of half and half (estimated)",
+              "kcal": 35,
+              "protein": 0.5,
+              "carbs": 5,
+              "fat": 1.5,
+              "fiber": 0,
+              "nutrients": {
+                "potassium_mg": 130,
+                "sugar_g": 4
+              }
+            }
+          ],
+          "note": ""
+        },
+        {
+          "time": "16:00",
+          "name": "Supplements",
+          "items": [
+            {
+              "food": "Sports Research D3 + K2 (1 softgel; 125 mcg/5,000 IU D3, 100 mcg K2 as MK-7)",
+              "kcal": 5,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0.5,
+              "fiber": 0,
+              "nutrients": {
+                "vitd_iu": 5000,
+                "vitk_mcg": 100
+              }
+            },
+            {
+              "food": "ProHealth Magnesium Glycinate (1 capsule; 100 mg Mg, 600 mg glycine)",
+              "kcal": 0,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "magnesium_mg": 100
+              }
+            }
+          ],
+          "note": ""
+        },
+        {
+          "time": "17:30",
+          "name": "Dinner (Cousins BBQ, DFW)",
+          "items": [
+            {
+              "food": "Sliced turkey or chicken breast, ~4 oz (estimated)",
+              "kcal": 160,
+              "protein": 30,
+              "carbs": 0,
+              "fat": 3.5,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 500,
+                "potassium_mg": 350,
+                "selenium_mcg": 30,
+                "satfat_g": 1
+              }
+            },
+            {
+              "food": "Sliced brisket, lean, ~4 oz (estimated)",
+              "kcal": 260,
+              "protein": 30,
+              "carbs": 1,
+              "fat": 15,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 550,
+                "iron_mg": 2.8,
+                "zinc_mg": 6,
+                "b12_mcg": 2.5,
+                "satfat_g": 6
+              }
+            },
+            {
+              "food": "Cole slaw, ~90% eaten (estimated)",
+              "kcal": 144.0,
+              "protein": 0.9,
+              "carbs": 12.6,
+              "fat": 9.9,
+              "fiber": 1.8,
+              "nutrients": {
+                "vitc_mg": 22.5,
+                "vitk_mcg": 54.0,
+                "sodium_mg": 207.0,
+                "sugar_g": 8.1
+              }
+            },
+            {
+              "food": "Collard greens eaten, most broth left (estimated)",
+              "kcal": 72.0,
+              "protein": 3.6,
+              "carbs": 7.2,
+              "fat": 2.7,
+              "fiber": 3.6,
+              "nutrients": {
+                "vitk_mcg": 450.0,
+                "calcium_mg": 144.0,
+                "vitc_mg": 18.0,
+                "folate_mcg": 81.0,
+                "sodium_mg": 468.0,
+                "potassium_mg": 225.0
+              }
+            },
+            {
+              "food": "Texas toast, ~15% eaten (estimated)",
+              "kcal": 24.0,
+              "protein": 0.4,
+              "carbs": 3.0,
+              "fat": 1.2,
+              "fiber": 0.1,
+              "nutrients": {
+                "sodium_mg": 42.0,
+                "satfat_g": 0.4
+              }
+            },
+            {
+              "food": "BBQ sauce, barely used (estimated)",
+              "kcal": 5.0,
+              "protein": 0.0,
+              "carbs": 1.2,
+              "fat": 0.0,
+              "fiber": 0.0,
+              "nutrients": {
+                "sodium_mg": 30.0,
+                "sugar_g": 1.0
+              }
+            }
+          ],
+          "note": "Estimated portions; assumed all eaten"
+        },
+        {
+          "time": "18:40",
+          "name": "Dessert (Godiva)",
+          "items": [
+            {
+              "food": "Godiva dark chocolate bar, 1 of 3 per serving (34 g serving = 190 kcal)",
+              "kcal": 63,
+              "protein": 1,
+              "carbs": 5.3,
+              "fat": 4.7,
+              "fiber": 1.3,
+              "nutrients": {
+                "iron_mg": 2.3,
+                "sugar_g": 3.7,
+                "satfat_g": 3
+              }
+            }
+          ],
+          "note": ""
+        },
+        {
+          "time": "21:00",
+          "name": "Evening popcorn and drinks",
+          "items": [
+            {
+              "food": "Popcorn, ~2 tbsp kernels popped with 1 tsp coconut oil (estimated)",
+              "kcal": 150,
+              "protein": 3,
+              "carbs": 22,
+              "fat": 5.5,
+              "fiber": 4,
+              "nutrients": {
+                "magnesium_mg": 35,
+                "potassium_mg": 70,
+                "satfat_g": 4.5
+              }
+            },
+            {
+              "food": "Lemon drop x2 (each: 3 oz vodka, 0.75 oz Cointreau, 1/2 tsp simple syrup; estimated)",
+              "kcal": 560,
+              "protein": 0,
+              "carbs": 20,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "sugar_g": 18,
+                "alcohol_g": 42
+              }
+            }
+          ],
+          "note": "Lemon drop size and recipe estimated"
+        }
+      ],
+      "notes": "Boston walk 2.52 mi, 242 active kcal. Gym skipped.",
+      "active_kcal": 242,
+      "day_type": "rest"
+    },
+    "2026-11-01": {
+      "meals": [
+        {
+          "time": "11:45",
+          "name": "Breakfast",
+          "items": [
+            {
+              "food": "Poached eggs x2 (estimated)",
+              "kcal": 140,
+              "protein": 12,
+              "carbs": 1,
+              "fat": 10,
+              "fiber": 0,
+              "nutrients": {
+                "choline_mg": 295,
+                "b12_mcg": 1.1,
+                "sodium_mg": 140,
+                "vitd_iu": 80
+              }
+            },
+            {
+              "food": "Bacon, 3 slices crisp (estimated)",
+              "kcal": 130,
+              "protein": 9,
+              "carbs": 0,
+              "fat": 10,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 480,
+                "satfat_g": 3.5
+              }
+            },
+            {
+              "food": "Sourdough whole-grain toast, 1 slice, with a little butter (estimated)",
+              "kcal": 140,
+              "protein": 5,
+              "carbs": 22,
+              "fat": 3.5,
+              "fiber": 3,
+              "nutrients": {
+                "sodium_mg": 230
+              }
+            },
+            {
+              "food": "Fruit tray, my half: ~1/2 banana, 1/2 apple, 1/4 avocado, ~1/3 cup blueberries, ~1/4 cup diced apple/pear (estimated)",
+              "kcal": 190,
+              "protein": 2,
+              "carbs": 36,
+              "fat": 5,
+              "fiber": 8,
+              "nutrients": {
+                "potassium_mg": 520,
+                "vitc_mg": 15,
+                "vitk_mcg": 12,
+                "folate_mcg": 40
+              }
+            },
+            {
+              "food": "AG1 (green drink in shaker) [label: 1 level scoop, 13 g]",
+              "kcal": 40,
+              "protein": 2,
+              "carbs": 6,
+              "fat": 1,
+              "fiber": 2,
+              "nutrients": {
+                "vita_mcg": 550,
+                "vitC_mg": 500,
+                "vite_mg": 20,
+                "b12_mcg": 400,
+                "b6_mg": 5,
+                "folate_mcg": 680,
+                "choline_mg": 25,
+                "calcium_mg": 120,
+                "iron_mg": 1,
+                "magnesium_mg": 30,
+                "zinc_mg": 20,
+                "selenium_mcg": 22,
+                "manganese_mg": 0.4,
+                "sodium_mg": 40,
+                "potassium_mg": 250,
+                "vitk_mcg": 90,
+                "sugar_g": 0.5,
+                "b1_mg": 3,
+                "b2_mg": 2,
+                "niacin_mg_ne": 16,
+                "biotin_mcg": 330,
+                "pantothenic_mg": 4,
+                "phosphorus_mg": 130,
+                "copper_mg": 0.2,
+                "chromium_mcg": 25,
+                "molybdenum_mcg": 45,
+                "coq10_mg": 60
+              }
+            }
+          ],
+          "note": "Fruit tray split with Charlotte; portions estimated"
+        },
+        {
+          "time": "14:30",
+          "name": "Afternoon protein smoothie",
+          "items": [
+            {
+              "food": "ON Gold Standard vanilla whey, 1 scoop (label)",
+              "kcal": 120,
+              "protein": 24,
+              "carbs": 4,
+              "fat": 1.5,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 130,
+                "potassium_mg": 150,
+                "sodium_mg": 130,
+                "sugar_g": 1,
+                "cholesterol_mg": 55
+              }
+            },
+            {
+              "food": "Milk, ~1 cup (estimated 2%)",
+              "kcal": 120,
+              "protein": 8,
+              "carbs": 12,
+              "fat": 5,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 300,
+                "potassium_mg": 370,
+                "vitd_iu": 100
+              }
+            },
+            {
+              "food": "Fruit, ~3/4 cup (estimated)",
+              "kcal": 70,
+              "protein": 1,
+              "carbs": 17,
+              "fat": 0.3,
+              "fiber": 3,
+              "nutrients": {
+                "potassium_mg": 200,
+                "vitc_mg": 25
+              }
+            }
+          ],
+          "note": "Ninja single-serve cup; fruit type and whey brand estimated"
+        },
+        {
+          "time": "15:45",
+          "name": "Pre-workout protein drink",
+          "items": [
+            {
+              "food": "ON Gold Standard vanilla whey, 1 scoop mixed with water (label)",
+              "kcal": 120,
+              "protein": 24,
+              "carbs": 4,
+              "fat": 1.5,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 130,
+                "potassium_mg": 150,
+                "sodium_mg": 130,
+                "sugar_g": 1,
+                "cholesterol_mg": 55
+              }
+            }
+          ],
+          "note": "Assumed 1 scoop of the vanilla powder in water"
+        },
+        {
+          "time": "15:50",
+          "name": "Pre-workout banana",
+          "items": [
+            {
+              "food": "Banana, medium",
+              "kcal": 105,
+              "protein": 1.3,
+              "carbs": 27,
+              "fat": 0.4,
+              "fiber": 3,
+              "nutrients": {
+                "potassium_mg": 420,
+                "magnesium_mg": 32,
+                "vitc_mg": 10,
+                "b6_mg": 0.4
+              }
+            }
+          ],
+          "note": ""
+        },
+        {
+          "time": "16:00",
+          "name": "Supplements",
+          "items": [
+            {
+              "food": "Sports Research D3 + K2 (1 softgel; 125 mcg/5,000 IU D3, 100 mcg K2 as MK-7)",
+              "kcal": 5,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0.5,
+              "fiber": 0,
+              "nutrients": {
+                "vitd_iu": 5000,
+                "vitk_mcg": 100
+              }
+            },
+            {
+              "food": "ProHealth Magnesium Glycinate (1 capsule; 100 mg Mg, 600 mg glycine)",
+              "kcal": 0,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "magnesium_mg": 100
+              }
+            }
+          ],
+          "note": ""
+        },
+        {
+          "time": "18:15",
+          "name": "Dinner (Hawaiian plate)",
+          "items": [
+            {
+              "food": "Kalua pulled pork with cabbage, ~4 oz (estimated)",
+              "kcal": 230,
+              "protein": 28,
+              "carbs": 2,
+              "fat": 12,
+              "fiber": 1,
+              "nutrients": {
+                "sodium_mg": 750,
+                "iron_mg": 1.5,
+                "zinc_mg": 3,
+                "satfat_g": 4
+              }
+            },
+            {
+              "food": "Teriyaki or roasted chicken pieces, ~3 oz (estimated)",
+              "kcal": 190,
+              "protein": 22,
+              "carbs": 6,
+              "fat": 8,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 500,
+                "sugar_g": 5
+              }
+            },
+            {
+              "food": "Fried rice with egg and meat, ~1 cup (estimated)",
+              "kcal": 330,
+              "protein": 9,
+              "carbs": 46,
+              "fat": 12,
+              "fiber": 1,
+              "nutrients": {
+                "sodium_mg": 700
+              }
+            },
+            {
+              "food": "Macaroni or potato salad, mac-style, ~1/2 cup (estimated)",
+              "kcal": 200,
+              "protein": 4,
+              "carbs": 20,
+              "fat": 11,
+              "fiber": 1,
+              "nutrients": {
+                "sodium_mg": 300
+              }
+            },
+            {
+              "food": "Hawaiian sweet roll (estimated)",
+              "kcal": 150,
+              "protein": 4,
+              "carbs": 27,
+              "fat": 3,
+              "fiber": 1,
+              "nutrients": {
+                "sodium_mg": 180,
+                "sugar_g": 7
+              }
+            },
+            {
+              "food": "Waterloo lemon-lime sparkling water",
+              "kcal": 0,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {}
+            }
+          ],
+          "note": "Estimated portions; hosted meal"
+        },
+        {
+          "time": "19:50",
+          "name": "Evening yogurt bowl",
+          "items": [
+            {
+              "food": "Fage Total 5% yogurt, ~3/4 cup (estimated)",
+              "kcal": 160,
+              "protein": 15,
+              "carbs": 6,
+              "fat": 9,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 200,
+                "potassium_mg": 200
+              }
+            },
+            {
+              "food": "Blueberries, ~1/4 cup",
+              "kcal": 20,
+              "protein": 0.3,
+              "carbs": 5,
+              "fat": 0.1,
+              "fiber": 1,
+              "nutrients": {
+                "vitc_mg": 3,
+                "vitk_mcg": 7
+              }
+            },
+            {
+              "food": "Raw honey, ~1 tsp (estimated)",
+              "kcal": 21,
+              "protein": 0,
+              "carbs": 6,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {}
+            }
+          ],
+          "note": "Portions estimated"
+        },
+        {
+          "time": "20:00",
+          "name": "Psyllium husk drink",
+          "items": [
+            {
+              "food": "Psyllium husk powder, 1 tbsp (assumed)",
+              "kcal": 25,
+              "protein": 0,
+              "carbs": 8,
+              "fat": 0,
+              "fiber": 7,
+              "nutrients": {}
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "notes": "Strength A (legs) at EOS ~3:30 PM; hard-day target 2,400-2,500 kcal, 165-170 g protein. Strength A done: 56 min, 304 active kcal (408 total).",
+      "day_type": "hard",
+      "weight_lb": 195,
+      "active_kcal": 304
+    },
+    "2026-11-02": {
+      "meals": [
+        {
+          "time": "11:40",
+          "name": "Breakfast",
+          "items": [
+            {
+              "food": "Scrambled eggs: 2 whole + 1 egg white (cooked in a little butter/oil, estimated)",
+              "kcal": 205,
+              "protein": 19,
+              "carbs": 1.5,
+              "fat": 13,
+              "fiber": 0,
+              "nutrients": {
+                "choline_mg": 300,
+                "b12_mcg": 1.2,
+                "sodium_mg": 200,
+                "vitd_iu": 90
+              }
+            },
+            {
+              "food": "Cottage cheese, ~1/2 cup (estimated)",
+              "kcal": 110,
+              "protein": 12,
+              "carbs": 5,
+              "fat": 4,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 100,
+                "sodium_mg": 400
+              }
+            },
+            {
+              "food": "Proof Khorasan sourdough toast, 1 slice (estimated)",
+              "kcal": 120,
+              "protein": 5,
+              "carbs": 22,
+              "fat": 1.5,
+              "fiber": 3,
+              "nutrients": {
+                "sodium_mg": 230
+              }
+            },
+            {
+              "food": "Blueberries, ~1/2 cup",
+              "kcal": 42,
+              "protein": 0.5,
+              "carbs": 11,
+              "fat": 0.2,
+              "fiber": 2,
+              "nutrients": {
+                "vitc_mg": 7,
+                "vitk_mcg": 15
+              }
+            },
+            {
+              "food": "AG1 (green drink) [label: 1 level scoop, 13 g]",
+              "kcal": 40,
+              "protein": 2,
+              "carbs": 6,
+              "fat": 1,
+              "fiber": 2,
+              "nutrients": {
+                "vita_mcg": 550,
+                "vitC_mg": 500,
+                "vite_mg": 20,
+                "b12_mcg": 400,
+                "b6_mg": 5,
+                "folate_mcg": 680,
+                "choline_mg": 25,
+                "calcium_mg": 120,
+                "iron_mg": 1,
+                "magnesium_mg": 30,
+                "zinc_mg": 20,
+                "selenium_mcg": 22,
+                "manganese_mg": 0.4,
+                "sodium_mg": 40,
+                "potassium_mg": 250,
+                "vitk_mcg": 90,
+                "sugar_g": 0.5,
+                "b1_mg": 3,
+                "b2_mg": 2,
+                "niacin_mg_ne": 16,
+                "biotin_mcg": 330,
+                "pantothenic_mg": 4,
+                "phosphorus_mg": 130,
+                "copper_mg": 0.2,
+                "chromium_mcg": 25,
+                "molybdenum_mcg": 45,
+                "coq10_mg": 60
+              }
+            }
+          ],
+          "note": "Portions estimated"
+        },
+        {
+          "time": "14:20",
+          "name": "Afternoon snack",
+          "items": [
+            {
+              "food": "ON Gold Standard vanilla whey shake, 1 scoop with milk/ice (estimated milk ~1 cup 2%)",
+              "kcal": 240,
+              "protein": 32,
+              "carbs": 16,
+              "fat": 6.5,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 430,
+                "potassium_mg": 520,
+                "sodium_mg": 200,
+                "vitd_iu": 100
+              }
+            },
+            {
+              "food": "Fage Total 5% yogurt, ~3/4 cup (estimated)",
+              "kcal": 160,
+              "protein": 15,
+              "carbs": 6,
+              "fat": 9,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 200,
+                "potassium_mg": 200
+              }
+            },
+            {
+              "food": "Banana, ~1/2 medium sliced (estimated)",
+              "kcal": 55,
+              "protein": 0.7,
+              "carbs": 14,
+              "fat": 0.2,
+              "fiber": 1.5,
+              "nutrients": {
+                "potassium_mg": 210
+              }
+            },
+            {
+              "food": "Blueberries, ~2 tbsp",
+              "kcal": 10,
+              "protein": 0.1,
+              "carbs": 2.5,
+              "fat": 0,
+              "fiber": 0.5,
+              "nutrients": {}
+            },
+            {
+              "food": "Mixed nuts, ~1 tbsp chopped (estimated)",
+              "kcal": 55,
+              "protein": 1.5,
+              "carbs": 2,
+              "fat": 5,
+              "fiber": 0.7,
+              "nutrients": {
+                "magnesium_mg": 20
+              }
+            },
+            {
+              "food": "Raw honey, ~1 tsp",
+              "kcal": 21,
+              "protein": 0,
+              "carbs": 6,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {}
+            }
+          ],
+          "note": "Portions estimated"
+        },
+        {
+          "time": "16:00",
+          "name": "Supplements",
+          "items": [
+            {
+              "food": "Sports Research D3 + K2 (1 softgel; 125 mcg/5,000 IU D3, 100 mcg K2 as MK-7)",
+              "kcal": 5,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0.5,
+              "fiber": 0,
+              "nutrients": {
+                "vitd_iu": 5000,
+                "vitk_mcg": 100
+              }
+            },
+            {
+              "food": "ProHealth Magnesium Glycinate (1 capsule; 100 mg Mg, 600 mg glycine)",
+              "kcal": 0,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "magnesium_mg": 100
+              }
+            }
+          ],
+          "note": ""
+        },
+        {
+          "time": "18:10",
+          "name": "Dinner (Korean and Hawaiian spread)",
+          "items": [
+            {
+              "food": "Kimchi tofu stew (kimchi jjigae), ~1.5 cups (estimated)",
+              "kcal": 280,
+              "protein": 20,
+              "carbs": 14,
+              "fat": 15,
+              "fiber": 3,
+              "nutrients": {
+                "sodium_mg": 1400,
+                "calcium_mg": 250,
+                "iron_mg": 3
+              }
+            },
+            {
+              "food": "Kalua pulled pork with cabbage, ~4 oz (estimated)",
+              "kcal": 230,
+              "protein": 28,
+              "carbs": 2,
+              "fat": 12,
+              "fiber": 1,
+              "nutrients": {
+                "sodium_mg": 750,
+                "zinc_mg": 3
+              }
+            },
+            {
+              "food": "Roasted seaweed snacks, ~1/2 oz (estimated)",
+              "kcal": 50,
+              "protein": 3,
+              "carbs": 2,
+              "fat": 3,
+              "fiber": 1,
+              "nutrients": {
+                "iodine_mcg": 150,
+                "sodium_mg": 100
+              }
+            }
+          ],
+          "note": "Estimated; other dishes on the table not counted unless added"
+        }
+      ],
+      "day_type": "hard",
+      "notes": "Long hike 4-4.5 mi, 500-700 ft gain, 1.5-2 h, plus core. Hard-day tier. Hike done: 3.19 mi, 1:14, 554 ft gain, 385 active kcal (522 total).",
+      "active_kcal": 385
+    },
+    "2026-11-03": {
+      "meals": [
+        {
+          "time": "08:00",
+          "name": "Supplements (morning)",
+          "items": [
+            {
+              "food": "ProHealth Magnesium Glycinate (1 capsule; 100 mg Mg, 600 mg glycine)",
+              "kcal": 0,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "magnesium_mg": 100
+              }
+            }
+          ]
+        },
+        {
+          "time": "09:20",
+          "name": "Pre-workout shake and banana",
+          "items": [
+            {
+              "food": "ON Gold Standard vanilla whey, 1 scoop (label; liquid assumed water)",
+              "kcal": 120,
+              "protein": 24,
+              "carbs": 4,
+              "fat": 1.5,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 130,
+                "potassium_mg": 150,
+                "sodium_mg": 130,
+                "sugar_g": 1,
+                "cholesterol_mg": 55
+              }
+            },
+            {
+              "food": "Banana, medium",
+              "kcal": 105,
+              "protein": 1.3,
+              "carbs": 27,
+              "fat": 0.4,
+              "fiber": 3,
+              "nutrients": {
+                "potassium_mg": 420,
+                "magnesium_mg": 32,
+                "vitc_mg": 10,
+                "b6_mg": 0.4
+              }
+            }
+          ],
+          "note": "Assumed whey mixed with water"
+        },
+        {
+          "time": "12:55",
+          "name": "Post-workout breakfast",
+          "items": [
+            {
+              "food": "Scrambled eggs, 3 whole Vital Farms (estimated, light oil/butter)",
+              "kcal": 235,
+              "protein": 19,
+              "carbs": 2,
+              "fat": 16,
+              "fiber": 0,
+              "nutrients": {
+                "choline_mg": 440,
+                "b12_mcg": 1.5,
+                "sodium_mg": 210,
+                "vitd_iu": 130
+              }
+            },
+            {
+              "food": "Flour tortilla, 1 (fajita/burrito size, estimated)",
+              "kcal": 140,
+              "protein": 4,
+              "carbs": 24,
+              "fat": 3.5,
+              "fiber": 1,
+              "nutrients": {
+                "sodium_mg": 330
+              }
+            },
+            {
+              "food": "Shredded cheddar jack, ~1/4 cup (estimated)",
+              "kcal": 110,
+              "protein": 7,
+              "carbs": 0.5,
+              "fat": 9,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 200,
+                "sodium_mg": 180,
+                "satfat_g": 5.5
+              }
+            },
+            {
+              "food": "Salsa, ~2 tbsp",
+              "kcal": 10,
+              "protein": 0,
+              "carbs": 2,
+              "fat": 0,
+              "fiber": 0.5,
+              "nutrients": {
+                "sodium_mg": 200
+              }
+            },
+            {
+              "food": "Fage Total 5% yogurt, ~1 cup (estimated)",
+              "kcal": 220,
+              "protein": 20,
+              "carbs": 8,
+              "fat": 12,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 260,
+                "potassium_mg": 260
+              }
+            },
+            {
+              "food": "Raspberries, blackberries, blueberries, ~3/4 cup (estimated)",
+              "kcal": 55,
+              "protein": 1,
+              "carbs": 13,
+              "fat": 0.5,
+              "fiber": 5,
+              "nutrients": {
+                "vitc_mg": 20,
+                "vitk_mcg": 15,
+                "manganese_mg": 0.6
+              }
+            },
+            {
+              "food": "Mango slices, 3 (estimated)",
+              "kcal": 45,
+              "protein": 0.5,
+              "carbs": 11,
+              "fat": 0.3,
+              "fiber": 1.2,
+              "nutrients": {
+                "vitc_mg": 25,
+                "vita_mcg": 30
+              }
+            },
+            {
+              "food": "Raw honey, ~1 tsp",
+              "kcal": 21,
+              "protein": 0,
+              "carbs": 6,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {}
+            },
+            {
+              "food": "AG1 (green drink) [label: 1 level scoop, 13 g]",
+              "kcal": 40,
+              "protein": 2,
+              "carbs": 6,
+              "fat": 1,
+              "fiber": 2,
+              "nutrients": {
+                "vita_mcg": 550,
+                "vitC_mg": 500,
+                "vite_mg": 20,
+                "b12_mcg": 400,
+                "b6_mg": 5,
+                "folate_mcg": 680,
+                "choline_mg": 25,
+                "calcium_mg": 120,
+                "iron_mg": 1,
+                "magnesium_mg": 30,
+                "zinc_mg": 20,
+                "selenium_mcg": 22,
+                "manganese_mg": 0.4,
+                "sodium_mg": 40,
+                "potassium_mg": 250,
+                "vitk_mcg": 90,
+                "sugar_g": 0.5,
+                "b1_mg": 3,
+                "b2_mg": 2,
+                "niacin_mg_ne": 16,
+                "biotin_mcg": 330,
+                "pantothenic_mg": 4,
+                "phosphorus_mg": 130,
+                "copper_mg": 0.2,
+                "chromium_mcg": 25,
+                "molybdenum_mcg": 45,
+                "coq10_mg": 60
+              }
+            }
+          ],
+          "note": "Portions estimated"
+        },
+        {
+          "time": "14:50",
+          "name": "Snack (chocolate)",
+          "items": [
+            {
+              "food": "Chocolove dark chocolate bar, 3 squares (1/2 serving, ~14 g; label)",
+              "kcal": 75.0,
+              "protein": 1.0,
+              "carbs": 6.5,
+              "fat": 6.5,
+              "fiber": 1.5,
+              "nutrients": {
+                "iron_mg": 2.4,
+                "potassium_mg": 95.0,
+                "sodium_mg": 75.0,
+                "sugar_g": 4.0,
+                "satfat_g": 4.0,
+                "calcium_mg": 5.0
+              }
+            }
+          ],
+          "note": "3 squares = 1/2 serving (per Todd)"
+        },
+        {
+          "time": "15:05",
+          "name": "Snack (beef stick)",
+          "items": [
+            {
+              "food": "Chomps Original beef stick, grass-fed (32 g; kcal/protein from label, fat/sodium estimated)",
+              "kcal": 100,
+              "protein": 10,
+              "carbs": 0,
+              "fat": 7,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 350,
+                "sugar_g": 0
+              }
+            }
+          ],
+          "note": ""
+        },
+        {
+          "time": "15:15",
+          "name": "Coffee",
+          "items": [
+            {
+              "food": "Coffee (Dichotomy mug) with 1/8 cup half and half and 1 tsp sugar",
+              "kcal": 56,
+              "protein": 1,
+              "carbs": 5,
+              "fat": 3.5,
+              "fiber": 0,
+              "nutrients": {
+                "sugar_g": 4.5,
+                "sodium_mg": 15
+              }
+            }
+          ],
+          "note": ""
+        },
+        {
+          "time": "16:00",
+          "name": "Supplements",
+          "items": [
+            {
+              "food": "Sports Research D3 + K2 (1 softgel; 125 mcg/5,000 IU D3, 100 mcg K2 as MK-7)",
+              "kcal": 5,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0.5,
+              "fiber": 0,
+              "nutrients": {
+                "vitd_iu": 5000,
+                "vitk_mcg": 100
+              }
+            }
+          ],
+          "note": ""
+        },
+        {
+          "time": "18:40",
+          "name": "Dinner",
+          "items": [
+            {
+              "food": "Ribeye-style steak, ~6 oz eaten of ~8 oz cooked; ~2 oz left on plate (estimated)",
+              "kcal": 420,
+              "protein": 39,
+              "carbs": 0,
+              "fat": 28,
+              "fiber": 0,
+              "nutrients": {
+                "iron_mg": 4,
+                "sodium_mg": 150
+              }
+            },
+            {
+              "food": "Roasted baby potatoes and sweet potato, ~1 cup with oil (estimated)",
+              "kcal": 240,
+              "protein": 4,
+              "carbs": 38,
+              "fat": 8,
+              "fiber": 5,
+              "nutrients": {
+                "potassium_mg": 700
+              }
+            },
+            {
+              "food": "Asparagus, ~1 cup (estimated)",
+              "kcal": 35,
+              "protein": 4,
+              "carbs": 6,
+              "fat": 0,
+              "fiber": 3,
+              "nutrients": {}
+            },
+            {
+              "food": "Whole milk, 1 cup (estimated glass size)",
+              "kcal": 150,
+              "protein": 8,
+              "carbs": 12,
+              "fat": 8,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 300
+              }
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "day_type": "lifting",
+      "notes": "RAP day (reserve starts). Planned Strength B at EOS, not firm; fallback hotel version or incline walk. Upper body strength + core done: 1:34, 500 active kcal (675 total); legs sore so swapped from Strength B. 15 min sauna.",
+      "weight_lb": 191,
+      "active_kcal": 500
+    },
+    "2026-11-04": {
+      "meals": [
+        {
+          "time": "08:00",
+          "name": "Supplements (morning)",
+          "items": [
+            {
+              "food": "ProHealth Magnesium Glycinate (1 capsule; 100 mg Mg, 600 mg glycine)",
+              "kcal": 0,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "magnesium_mg": 100
+              }
+            }
+          ],
+          "note": ""
+        },
+        {
+          "time": "12:10",
+          "name": "Breakfast (flight)",
+          "items": [
+            {
+              "food": "Scrambled eggs, airline portion, about 2 eggs (estimated)",
+              "kcal": 190,
+              "protein": 13,
+              "carbs": 2,
+              "fat": 14,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 280,
+                "cholesterol_mg": 370,
+                "choline_mg": 250
+              }
+            },
+            {
+              "food": "Sausage patty, about half eaten (gravy and biscuit left; estimated)",
+              "kcal": 110,
+              "protein": 6,
+              "carbs": 1,
+              "fat": 9,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 330,
+                "satfat_g": 3
+              }
+            },
+            {
+              "food": "Fruit cup: strawberry, blueberries, orange, pineapple, cucumber (estimated)",
+              "kcal": 90,
+              "protein": 1,
+              "carbs": 22,
+              "fat": 0,
+              "fiber": 3,
+              "nutrients": {
+                "vitc_mg": 60,
+                "potassium_mg": 250,
+                "sugar_g": 16
+              }
+            },
+            {
+              "food": "Honey packet (estimated)",
+              "kcal": 20,
+              "protein": 0,
+              "carbs": 5,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "sugar_g": 5
+              }
+            },
+            {
+              "food": "Butter, 3/4 of a pat (~8 g of ~10 g pat, estimated)",
+              "kcal": 54,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 6,
+              "fiber": 0,
+              "nutrients": {
+                "satfat_g": 3.8,
+                "sodium_mg": 40
+              }
+            }
+          ],
+          "note": "Travel day, no workout. Skipped croissant, biscuit and roll. Butter packet opened, assumed not eaten."
+        },
+        {
+          "time": "12:20",
+          "name": "Snack (trail mix, coffee)",
+          "items": [
+            {
+              "food": "Power Up Antioxidant trail mix, 1 pack 43 g (label: 190 kcal, fat 10, sat 2, carbs ~25, fiber 2, sugar ~20 incl 9 added; protein estimated)",
+              "kcal": 190,
+              "protein": 4,
+              "carbs": 25,
+              "fat": 10,
+              "fiber": 2,
+              "nutrients": {
+                "sugar_g": 20,
+                "satfat_g": 2,
+                "sodium_mg": 0
+              }
+            },
+            {
+              "food": "Coffee with a little cream or creamer, paper cup (estimated)",
+              "kcal": 25,
+              "protein": 0,
+              "carbs": 1,
+              "fat": 2,
+              "fiber": 0,
+              "nutrients": {}
+            }
+          ],
+          "note": ""
+        },
+        {
+          "time": "16:00",
+          "name": "Supplements",
+          "items": [
+            {
+              "food": "Sports Research D3 + K2 (1 softgel; 125 mcg/5,000 IU D3, 100 mcg K2 as MK-7)",
+              "kcal": 5,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0.5,
+              "fiber": 0,
+              "nutrients": {
+                "vitd_iu": 5000,
+                "vitk_mcg": 100
+              }
+            }
+          ],
+          "note": ""
+        },
+        {
+          "time": "17:10",
+          "name": "Lunch (Summer House, CLT)",
+          "items": [
+            {
+              "food": "Grilled chicken, ~4.5 oz in 2 tacos (Summer House, estimated)",
+              "kcal": 210,
+              "protein": 38,
+              "carbs": 0,
+              "fat": 5,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 500
+              }
+            },
+            {
+              "food": "2 small flour tortillas (estimated)",
+              "kcal": 200,
+              "protein": 5,
+              "carbs": 33,
+              "fat": 5,
+              "fiber": 2,
+              "nutrients": {
+                "sodium_mg": 400
+              }
+            },
+            {
+              "food": "Pico, lettuce, cilantro, cotija (estimated)",
+              "kcal": 60,
+              "protein": 3,
+              "carbs": 5,
+              "fat": 3,
+              "fiber": 1,
+              "nutrients": {
+                "sodium_mg": 200
+              }
+            },
+            {
+              "food": "Guacamole, ~1/4 cup (estimated)",
+              "kcal": 90,
+              "protein": 1,
+              "carbs": 5,
+              "fat": 8,
+              "fiber": 4,
+              "nutrients": {
+                "potassium_mg": 280,
+                "sodium_mg": 120
+              }
+            },
+            {
+              "food": "Salsa, small cup (estimated)",
+              "kcal": 20,
+              "protein": 1,
+              "carbs": 4,
+              "fat": 0,
+              "fiber": 1,
+              "nutrients": {
+                "sodium_mg": 250
+              }
+            }
+          ],
+          "note": ""
+        },
+        {
+          "time": "17:30",
+          "name": "Snack (flat white)",
+          "items": [
+            {
+              "food": "Starbucks tall flat white, whole milk, 2 ristretto shots (app: 170 kcal, 13 g sugar, 9 g fat; protein estimated)",
+              "kcal": 170,
+              "protein": 9,
+              "carbs": 13,
+              "fat": 9,
+              "fiber": 0,
+              "nutrients": {
+                "sugar_g": 13,
+                "satfat_g": 5,
+                "calcium_mg": 300,
+                "potassium_mg": 400
+              }
+            },
+            {
+              "food": "Sugar in the Raw, 1 packet",
+              "kcal": 15,
+              "protein": 0,
+              "carbs": 4,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "sugar_g": 4
+              }
+            }
+          ],
+          "note": ""
+        },
+        {
+          "time": "17:45",
+          "name": "Snack (Oikos Fusion)",
+          "items": [
+            {
+              "food": "Oikos Fusion mixed berry drink, 1 bottle 207 mL (label)",
+              "kcal": 130,
+              "protein": 23,
+              "carbs": 9,
+              "fat": 1.5,
+              "fiber": 5,
+              "nutrients": {
+                "sugar_g": 4,
+                "satfat_g": 0.5,
+                "cholesterol_mg": 55,
+                "sodium_mg": 105,
+                "calcium_mg": 190,
+                "potassium_mg": 260,
+                "vitD_mcg": 4.5,
+                "vita_mcg": 90,
+                "b12_mcg": 2.3
+              }
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "notes": "",
+      "day_type": "rest"
+    }
   }
- },
- "days": {
-  "2026-10-28": {
-   "estimate": true,
-   "notes": "DEMO/ESTIMATES \u2014 values approximate (USDA-style). Dinner (chili + cornbread + 1 glass wine at parents') not yet logged.",
-   "meals": [
-    {
-     "time": "08:00",
-     "name": "Morning coffee",
-     "note": "2 cups black coffee (0 kcal)",
-     "items": [
-      {
-       "food": "2 cups black coffee",
-       "kcal": 5,
-       "protein": 0.6,
-       "carbs": 0,
-       "fat": 0.1,
-       "fiber": 0,
-       "nutrients": {
-        "iron_mg": 0,
-        "calcium_mg": 0,
-        "magnesium_mg": 14,
-        "potassium_mg": 230,
-        "sodium_mg": 10,
-        "vitD_mcg": 0,
-        "b12_mcg": 0,
-        "vitC_mg": 0,
-        "zinc_mg": 0,
-        "omega3_g": 0,
-        "sugar_g": 0,
-        "satfat_g": 0
-       }
-      }
-     ]
-    },
-    {
-     "time": "08:00",
-     "name": "Pre-workout",
-     "items": [
-      {
-       "food": "Greek Gods honey vanilla Greek yogurt (5 oz)",
-       "kcal": 180,
-       "protein": 9,
-       "carbs": 22,
-       "fat": 7,
-       "fiber": 0,
-       "nutrients": {
-        "calcium_mg": 230,
-        "potassium_mg": 280,
-        "sodium_mg": 65,
-        "vitD_mcg": 0,
-        "b12_mcg": 0.6,
-        "zinc_mg": 0.9,
-        "sugar_g": 20,
-        "satfat_g": 4.5,
-        "iron_mg": 0,
-        "magnesium_mg": 25
-       }
-      },
-      {
-       "food": "Optimum Nutrition Gold Standard whey, vanilla ice cream (1 scoop)",
-       "kcal": 120,
-       "protein": 24,
-       "carbs": 3,
-       "fat": 1,
-       "fiber": 0,
-       "nutrients": {
-        "calcium_mg": 130,
-        "potassium_mg": 160,
-        "sodium_mg": 130,
-        "iron_mg": 0.4,
-        "magnesium_mg": 25,
-        "sugar_g": 2,
-        "satfat_g": 0.5,
-        "b12_mcg": 0.3,
-        "zinc_mg": 0.3
-       }
-      }
-     ],
-     "note": "before Strength B at EOS"
-    },
-    {
-     "time": "11:50",
-     "name": "Breakfast",
-     "note": "Estimate ~715 kcal / ~35 g protein",
-     "items": [
-      {
-       "food": "3 large eggs",
-       "kcal": 216,
-       "protein": 18,
-       "carbs": 1.1,
-       "fat": 14.3,
-       "fiber": 0,
-       "nutrients": {
-        "iron_mg": 2.6,
-        "calcium_mg": 84,
-        "magnesium_mg": 18,
-        "potassium_mg": 207,
-        "sodium_mg": 213,
-        "vitD_mcg": 3.0,
-        "b12_mcg": 1.3,
-        "vitC_mg": 0,
-        "zinc_mg": 1.9,
-        "omega3_g": 0.1,
-        "sugar_g": 0.6,
-        "satfat_g": 4.7
-       }
-      },
-      {
-       "food": "3 slices bacon",
-       "kcal": 120,
-       "protein": 8,
-       "carbs": 0.3,
-       "fat": 9.5,
-       "fiber": 0,
-       "nutrients": {
-        "iron_mg": 0.3,
-        "calcium_mg": 3,
-        "magnesium_mg": 9,
-        "potassium_mg": 150,
-        "sodium_mg": 550,
-        "vitD_mcg": 0.3,
-        "b12_mcg": 0.3,
-        "vitC_mg": 0,
-        "zinc_mg": 0.9,
-        "omega3_g": 0.05,
-        "sugar_g": 0,
-        "satfat_g": 3.2
-       }
-      },
-      {
-       "food": "2 slices Proof Khorasan sourdough",
-       "kcal": 190,
-       "protein": 7,
-       "carbs": 38,
-       "fat": 1.4,
-       "fiber": 4,
-       "nutrients": {
-        "iron_mg": 2.2,
-        "calcium_mg": 20,
-        "magnesium_mg": 40,
-        "potassium_mg": 120,
-        "sodium_mg": 400,
-        "vitD_mcg": 0,
-        "b12_mcg": 0,
-        "vitC_mg": 0,
-        "zinc_mg": 1.2,
-        "omega3_g": 0,
-        "sugar_g": 1,
-        "satfat_g": 0.3
-       }
-      },
-      {
-       "food": "1 tsp Kerrygold butter",
-       "kcal": 34,
-       "protein": 0,
-       "carbs": 0,
-       "fat": 3.8,
-       "fiber": 0,
-       "nutrients": {
-        "iron_mg": 0,
-        "calcium_mg": 1,
-        "magnesium_mg": 0,
-        "potassium_mg": 0,
-        "sodium_mg": 27,
-        "vitD_mcg": 0.1,
-        "b12_mcg": 0,
-        "vitC_mg": 0,
-        "zinc_mg": 0,
-        "omega3_g": 0,
-        "sugar_g": 0,
-        "satfat_g": 2.4
-       }
-      },
-      {
-       "food": "1 tsp honey",
-       "kcal": 21,
-       "protein": 0,
-       "carbs": 5.8,
-       "fat": 0,
-       "fiber": 0,
-       "nutrients": {
-        "iron_mg": 0,
-        "calcium_mg": 0,
-        "magnesium_mg": 0,
-        "potassium_mg": 4,
-        "sodium_mg": 0,
-        "vitD_mcg": 0,
-        "b12_mcg": 0,
-        "vitC_mg": 0,
-        "zinc_mg": 0,
-        "omega3_g": 0,
-        "sugar_g": 5.8,
-        "satfat_g": 0
-       }
-      },
-      {
-       "food": "Organic avocado & sea salt, ~2 oz",
-       "kcal": 91,
-       "protein": 1.1,
-       "carbs": 4.9,
-       "fat": 8.4,
-       "fiber": 3.8,
-       "nutrients": {
-        "iron_mg": 0.3,
-        "calcium_mg": 7,
-        "magnesium_mg": 16,
-        "potassium_mg": 277,
-        "sodium_mg": 150,
-        "vitD_mcg": 0,
-        "b12_mcg": 0,
-        "vitC_mg": 5,
-        "zinc_mg": 0.4,
-        "omega3_g": 0.06,
-        "sugar_g": 0.4,
-        "satfat_g": 1.2
-       }
-      },
-      {
-       "food": "AG1, 1 scoop [label: 1 level scoop, 13 g]",
-       "kcal": 40,
-       "protein": 2,
-       "carbs": 6,
-       "fat": 1,
-       "fiber": 2,
-       "nutrients": {
-        "vita_mcg": 550,
-        "vitC_mg": 500,
-        "vite_mg": 20,
-        "b12_mcg": 400,
-        "b6_mg": 5,
-        "folate_mcg": 680,
-        "choline_mg": 25,
-        "calcium_mg": 120,
-        "iron_mg": 1,
-        "magnesium_mg": 30,
-        "zinc_mg": 20,
-        "selenium_mcg": 22,
-        "manganese_mg": 0.4,
-        "sodium_mg": 40,
-        "potassium_mg": 250,
-        "vitk_mcg": 90,
-        "sugar_g": 0.5,
-        "b1_mg": 3,
-        "b2_mg": 2,
-        "niacin_mg_ne": 16,
-        "biotin_mcg": 330,
-        "pantothenic_mg": 4,
-        "phosphorus_mg": 130,
-        "copper_mg": 0.2,
-        "chromium_mcg": 25,
-        "molybdenum_mcg": 45,
-        "coq10_mg": 60
-       }
-      }
-     ]
-    },
-    {
-     "time": "15:05",
-     "name": "Afternoon snack",
-     "note": "Estimate ~300 kcal / ~22 g protein",
-     "items": [
-      {
-       "food": "Fage Total 5% yogurt, 170 g",
-       "kcal": 160,
-       "protein": 16,
-       "carbs": 6,
-       "fat": 8.5,
-       "fiber": 0,
-       "nutrients": {
-        "iron_mg": 0,
-        "calcium_mg": 170,
-        "magnesium_mg": 17,
-        "potassium_mg": 220,
-        "sodium_mg": 55,
-        "vitD_mcg": 0,
-        "b12_mcg": 0.9,
-        "vitC_mg": 0,
-        "zinc_mg": 0.9,
-        "omega3_g": 0,
-        "sugar_g": 6,
-        "satfat_g": 5.5
-       }
-      },
-      {
-       "food": "Blueberries, handful (~50 g)",
-       "kcal": 29,
-       "protein": 0.4,
-       "carbs": 7.2,
-       "fat": 0.2,
-       "fiber": 1.2,
-       "nutrients": {
-        "iron_mg": 0.1,
-        "calcium_mg": 3,
-        "magnesium_mg": 3,
-        "potassium_mg": 39,
-        "sodium_mg": 0,
-        "vitD_mcg": 0,
-        "b12_mcg": 0,
-        "vitC_mg": 5,
-        "zinc_mg": 0,
-        "omega3_g": 0,
-        "sugar_g": 5,
-        "satfat_g": 0
-       }
-      },
-      {
-       "food": "1 tsp honey",
-       "kcal": 21,
-       "protein": 0,
-       "carbs": 5.8,
-       "fat": 0,
-       "fiber": 0,
-       "nutrients": {
-        "iron_mg": 0,
-        "calcium_mg": 0,
-        "magnesium_mg": 0,
-        "potassium_mg": 4,
-        "sodium_mg": 0,
-        "vitD_mcg": 0,
-        "b12_mcg": 0,
-        "vitC_mg": 0,
-        "zinc_mg": 0,
-        "omega3_g": 0,
-        "sugar_g": 5.8,
-        "satfat_g": 0
-       }
-      },
-      {
-       "food": "Kirkland mixed nuts, half pack (~16 g)",
-       "kcal": 95,
-       "protein": 3.5,
-       "carbs": 3.5,
-       "fat": 8.5,
-       "fiber": 1.2,
-       "nutrients": {
-        "iron_mg": 0.5,
-        "calcium_mg": 15,
-        "magnesium_mg": 35,
-        "potassium_mg": 100,
-        "sodium_mg": 50,
-        "vitD_mcg": 0,
-        "b12_mcg": 0,
-        "vitC_mg": 0,
-        "zinc_mg": 0.6,
-        "omega3_g": 0.1,
-        "sugar_g": 0.7,
-        "satfat_g": 1.2
-       }
-      }
-     ]
-    },
-    {
-     "time": "18:15",
-     "name": "Dinner",
-     "items": [
-      {
-       "food": "Beef and bean chili, ~1.5 cups",
-       "kcal": 400,
-       "protein": 29,
-       "carbs": 32,
-       "fat": 16,
-       "fiber": 9,
-       "nutrients": {
-        "iron_mg": 4.5,
-        "calcium_mg": 110,
-        "magnesium_mg": 85,
-        "potassium_mg": 900,
-        "sodium_mg": 950,
-        "zinc_mg": 5.5,
-        "b12_mcg": 2.0,
-        "vitC_mg": 12,
-        "sugar_g": 7,
-        "satfat_g": 6.5,
-        "vitD_mcg": 0.2,
-        "omega3_g": 0.1
-       }
-      },
-      {
-       "food": "Shredded Mexican cheese blend, ~1/4 cup",
-       "kcal": 110,
-       "protein": 7,
-       "carbs": 1,
-       "fat": 9,
-       "fiber": 0,
-       "nutrients": {
-        "calcium_mg": 200,
-        "sodium_mg": 180,
-        "satfat_g": 5.5,
-        "b12_mcg": 0.3,
-        "zinc_mg": 0.9,
-        "vitD_mcg": 0.1
-       }
-      },
-      {
-       "food": "1 square cornbread muffin",
-       "kcal": 170,
-       "protein": 3,
-       "carbs": 26,
-       "fat": 6,
-       "fiber": 1,
-       "nutrients": {
-        "calcium_mg": 50,
-        "sodium_mg": 280,
-        "iron_mg": 1,
-        "sugar_g": 9,
-        "satfat_g": 1.5,
-        "potassium_mg": 70,
-        "magnesium_mg": 15
-       }
-      },
-      {
-       "food": "1 glass red wine (5 oz)",
-       "kcal": 125,
-       "protein": 0.1,
-       "carbs": 4,
-       "fat": 0,
-       "fiber": 0,
-       "nutrients": {
-        "potassium_mg": 187,
-        "magnesium_mg": 12,
-        "iron_mg": 0.7,
-        "sugar_g": 1
-       }
-      }
-     ],
-     "note": "chili and cornbread at parents'"
-    },
-    {
-     "time": "19:00",
-     "name": "Dessert",
-     "items": [
-      {
-       "food": "Spice cake with cream cheese frosting, small slice (~70 g)",
-       "kcal": 231.0,
-       "protein": 2.4,
-       "carbs": 33.6,
-       "fat": 9.8,
-       "fiber": 0.7,
-       "nutrients": {
-        "calcium_mg": 42.0,
-        "sodium_mg": 196.0,
-        "iron_mg": 0.8,
-        "sugar_g": 22.4,
-        "satfat_g": 3.1,
-        "potassium_mg": 77.0,
-        "magnesium_mg": 9.8
-       }
-      }
-     ],
-     "note": ""
-    }
-   ],
-   "active_kcal": 419,
-   "day_type": "lifting"
-  },
-  "2026-10-29": {
-   "meals": [
-    {
-     "time": "08:00",
-     "name": "Morning coffee",
-     "items": [
-      {
-       "food": "2 cups black coffee",
-       "kcal": 5,
-       "protein": 0.6,
-       "carbs": 0,
-       "fat": 0,
-       "fiber": 0,
-       "nutrients": {
-        "potassium_mg": 230,
-        "magnesium_mg": 14
-       }
-      }
-     ],
-     "note": ""
-    },
-    {
-     "time": "09:55",
-     "name": "Pre-workout shake",
-     "items": [
-      {
-       "food": "Optimum Nutrition Gold Standard whey, vanilla ice cream (1 scoop, 31 g, label)",
-       "kcal": 120,
-       "protein": 24,
-       "carbs": 3,
-       "fat": 1.5,
-       "fiber": 0,
-       "nutrients": {
-        "calcium_mg": 130,
-        "potassium_mg": 160,
-        "sodium_mg": 130,
-        "iron_mg": 0.4,
-        "magnesium_mg": 25,
-        "sugar_g": 2,
-        "satfat_g": 1,
-        "b12_mcg": 0.3,
-        "zinc_mg": 0.3
-       }
-      }
-     ],
-     "note": ""
-    },
-    {
-     "time": "12:30",
-     "name": "Breakfast",
-     "items": [
-      {
-       "food": "3 Vital Farms pasture-raised eggs, scrambled",
-       "kcal": 210,
-       "protein": 18,
-       "carbs": 1.5,
-       "fat": 15,
-       "fiber": 0,
-       "nutrients": {
-        "choline_mg": 420,
-        "vitd_iu": 120,
-        "b12_mcg": 1.8,
-        "iron_mg": 2.7,
-        "selenium_mcg": 45,
-        "sodium_mg": 210,
-        "potassium_mg": 210,
-        "calcium_mg": 75,
-        "satfat_g": 4.5
-       }
-      },
-      {
-       "food": "2 slices bacon",
-       "kcal": 90,
-       "protein": 6,
-       "carbs": 0,
-       "fat": 7,
-       "fiber": 0,
-       "nutrients": {
-        "sodium_mg": 380,
-        "potassium_mg": 100,
-        "satfat_g": 2.5,
-        "zinc_mg": 0.6
-       }
-      },
-      {
-       "food": "1 small flour tortilla",
-       "kcal": 110,
-       "protein": 3,
-       "carbs": 18,
-       "fat": 3,
-       "fiber": 1,
-       "nutrients": {
-        "sodium_mg": 280,
-        "calcium_mg": 50,
-        "iron_mg": 1.2
-       }
-      },
-      {
-       "food": "Salsa (2 tbsp)",
-       "kcal": 10,
-       "protein": 0.4,
-       "carbs": 2,
-       "fat": 0,
-       "fiber": 0.5,
-       "nutrients": {
-        "sodium_mg": 200,
-        "potassium_mg": 100,
-        "vitc_mg": 3
-       }
-      },
-      {
-       "food": "Guacamole (1 tbsp)",
-       "kcal": 25,
-       "protein": 0.3,
-       "carbs": 1.5,
-       "fat": 2.2,
-       "fiber": 1,
-       "nutrients": {
-        "potassium_mg": 80,
-        "sodium_mg": 40
-       }
-      },
-      {
-       "food": "Fage Total 5% Greek yogurt (1/2 cup, 125 g)",
-       "kcal": 140,
-       "protein": 13,
-       "carbs": 4,
-       "fat": 7,
-       "fiber": 0,
-       "nutrients": {
-        "calcium_mg": 150,
-        "potassium_mg": 170,
-        "sodium_mg": 40,
-        "b12_mcg": 0.6,
-        "satfat_g": 5,
-        "sugar_g": 4
-       }
-      },
-      {
-       "food": "Blueberries (1/4 cup)",
-       "kcal": 20,
-       "protein": 0.3,
-       "carbs": 5,
-       "fat": 0.1,
-       "fiber": 1,
-       "nutrients": {
-        "vitc_mg": 3,
-        "potassium_mg": 28
-       }
-      },
-      {
-       "food": "Sun Tan Honey Farm raw honey (1 tsp)",
-       "kcal": 20,
-       "protein": 0,
-       "carbs": 6,
-       "fat": 0,
-       "fiber": 0,
-       "nutrients": {
-        "sugar_g": 6
-       }
-      },
-      {
-       "food": "AG1 (1 scoop, not counted toward protein goal) [label: 1 level scoop, 13 g]",
-       "kcal": 40,
-       "protein": 2,
-       "carbs": 6,
-       "fat": 1,
-       "fiber": 2,
-       "nutrients": {
-        "vita_mcg": 550,
-        "vitC_mg": 500,
-        "vite_mg": 20,
-        "b12_mcg": 400,
-        "b6_mg": 5,
-        "folate_mcg": 680,
-        "choline_mg": 25,
-        "calcium_mg": 120,
-        "iron_mg": 1,
-        "magnesium_mg": 30,
-        "zinc_mg": 20,
-        "selenium_mcg": 22,
-        "manganese_mg": 0.4,
-        "sodium_mg": 40,
-        "potassium_mg": 250,
-        "vitk_mcg": 90,
-        "sugar_g": 0.5,
-        "b1_mg": 3,
-        "b2_mg": 2,
-        "niacin_mg_ne": 16,
-        "biotin_mcg": 330,
-        "pantothenic_mg": 4,
-        "phosphorus_mg": 130,
-        "copper_mg": 0.2,
-        "chromium_mcg": 25,
-        "molybdenum_mcg": 45,
-        "coq10_mg": 60
-       }
-      }
-     ],
-     "note": "Breakfast taco minus cheese, Fage with blueberries and honey, AG1"
-    },
-    {
-     "time": "14:00",
-     "name": "Chocolate",
-     "items": [
-      {
-       "food": "Cadbury dark chocolate, 2 blocks (11 g; label 5 blocks = 140 kcal)",
-       "kcal": 56,
-       "protein": 0.4,
-       "carbs": 6.8,
-       "fat": 3.6,
-       "fiber": 0.8,
-       "nutrients": {
-        "iron_mg": 1.1,
-        "satfat_g": 2.4,
-        "sugar_g": 5.6,
-        "potassium_mg": 40
-       }
-      }
-     ],
-     "note": ""
-    },
-    {
-     "time": "15:00",
-     "name": "Starbucks flat white",
-     "items": [
-      {
-       "food": "Starbucks tall flat white (12 oz, whole milk, estimated)",
-       "kcal": 170,
-       "protein": 9,
-       "carbs": 13,
-       "fat": 9,
-       "fiber": 0,
-       "nutrients": {
-        "calcium_mg": 300,
-        "potassium_mg": 380,
-        "sodium_mg": 105,
-        "satfat_g": 5,
-        "sugar_g": 12,
-        "b12_mcg": 1.1
-       }
-      },
-      {
-       "food": "1 packet raw sugar",
-       "kcal": 16,
-       "protein": 0,
-       "carbs": 4,
-       "fat": 0,
-       "fiber": 0,
-       "nutrients": {
-        "sugar_g": 4
-       }
-      },
-      {
-       "food": "Starbucks grande iced green tea, unsweetened (16 oz)",
-       "kcal": 0,
-       "protein": 0,
-       "carbs": 0,
-       "fat": 0,
-       "fiber": 0,
-       "nutrients": {
-        "sodium_mg": 5
-       }
-      }
-     ],
-     "note": ""
-    },
-    {
-     "time": "16:00",
-     "name": "Supplements",
-     "items": [
-      {
-       "food": "Sports Research D3 + K2 (1 softgel; 125 mcg/5,000 IU D3, 100 mcg K2 as MK-7)",
-       "kcal": 5,
-       "protein": 0,
-       "carbs": 0,
-       "fat": 0.5,
-       "fiber": 0,
-       "nutrients": {
-        "vitd_iu": 5000,
-        "vitk_mcg": 100
-       }
-      },
-      {
-       "food": "ProHealth Magnesium Glycinate (1 capsule; 100 mg Mg, 600 mg glycine)",
-       "kcal": 0,
-       "protein": 0,
-       "carbs": 0,
-       "fat": 0,
-       "fiber": 0,
-       "nutrients": {
-        "magnesium_mg": 100
-       }
-      }
-     ],
-     "note": ""
-    },
-    {
-     "time": "18:30",
-     "name": "Dinner",
-     "items": [
-      {
-       "food": "Salmon fillet, ~6 oz cooked (estimated)",
-       "kcal": 350,
-       "protein": 37,
-       "carbs": 0,
-       "fat": 21,
-       "fiber": 0,
-       "nutrients": {
-        "omega3_g": 3.5,
-        "vitd_iu": 570,
-        "b12_mcg": 4.5,
-        "potassium_mg": 700,
-        "magnesium_mg": 45,
-        "selenium_mcg": 60,
-        "sodium_mg": 90,
-        "satfat_g": 4
-       }
-      },
-      {
-       "food": "Baby potatoes ~6 oz, pan fried in 1 tbsp olive oil (estimated)",
-       "kcal": 260,
-       "protein": 3,
-       "carbs": 30,
-       "fat": 14,
-       "fiber": 3,
-       "nutrients": {
-        "potassium_mg": 650,
-        "vitc_mg": 20,
-        "magnesium_mg": 30,
-        "sodium_mg": 20,
-        "satfat_g": 2
-       }
-      },
-      {
-       "food": "Steamed broccoli, 1 cup",
-       "kcal": 55,
-       "protein": 4,
-       "carbs": 11,
-       "fat": 0.6,
-       "fiber": 5,
-       "nutrients": {
-        "vitc_mg": 100,
-        "vitk_mcg": 220,
-        "calcium_mg": 60,
-        "potassium_mg": 460,
-        "magnesium_mg": 30,
-        "folate_mcg": 170
-       }
-      },
-      {
-       "food": "Milk, 1 glass (8 oz, assumed whole)",
-       "kcal": 150,
-       "protein": 8,
-       "carbs": 12,
-       "fat": 8,
-       "fiber": 0,
-       "nutrients": {
-        "calcium_mg": 300,
-        "potassium_mg": 370,
-        "vitd_iu": 100,
-        "b12_mcg": 1.2,
-        "magnesium_mg": 25,
-        "sodium_mg": 105,
-        "satfat_g": 4.5,
-        "sugar_g": 12
-       }
-      }
-     ],
-     "note": "Portions estimated"
-    },
-    {
-     "time": "20:00",
-     "name": "Psyllium husk",
-     "items": [
-      {
-       "food": "Psyllium husk powder (1 tbsp, ~9 g, assumed)",
-       "kcal": 25,
-       "protein": 0,
-       "carbs": 7,
-       "fat": 0,
-       "fiber": 7,
-       "nutrients": {
-        "sodium_mg": 0
-       }
-      }
-     ],
-     "note": ""
-    }
-   ],
-   "notes": "",
-   "weight_lb": 193,
-   "active_kcal": 202,
-   "day_type": "rest"
-  },
-  "2026-10-30": {
-   "meals": [
-    {
-     "time": "11:00",
-     "name": "Breakfast",
-     "items": [
-      {
-       "food": "Oikos Blended Greek yogurt, strawberry (150 g, 13 g protein label)",
-       "kcal": 100,
-       "protein": 13,
-       "carbs": 10,
-       "fat": 0,
-       "fiber": 0,
-       "nutrients": {
-        "calcium_mg": 130,
-        "sodium_mg": 55,
-        "sugar_g": 7,
-        "vitd_iu": 40
-       }
-      },
-      {
-       "food": "Tammie Coe egg-cellent eggs cup (spinach, tomatoes, hard boiled eggs, everything bagel seasoning; estimated ~2 eggs)",
-       "kcal": 170,
-       "protein": 13,
-       "carbs": 3,
-       "fat": 12,
-       "fiber": 1,
-       "nutrients": {
-        "choline_mg": 290,
-        "sodium_mg": 330,
-        "iron_mg": 1.8,
-        "vitd_iu": 80,
-        "b12_mcg": 1.2,
-        "calcium_mg": 70,
-        "potassium_mg": 250
-       }
-      },
-      {
-       "food": "Poshi green pitted olives (about 5 olives, 15 g)",
-       "kcal": 15,
-       "protein": 0,
-       "carbs": 0,
-       "fat": 1.5,
-       "fiber": 0.5,
-       "nutrients": {
-        "sodium_mg": 250
-       }
-      }
-     ],
-     "note": "Airport breakfast; egg cup estimated"
-    },
-    {
-     "time": "16:00",
-     "name": "Supplements",
-     "items": [
-      {
-       "food": "Sports Research D3 + K2 (1 softgel; 125 mcg/5,000 IU D3, 100 mcg K2 as MK-7)",
-       "kcal": 5,
-       "protein": 0,
-       "carbs": 0,
-       "fat": 0.5,
-       "fiber": 0,
-       "nutrients": {
-        "vitd_iu": 5000,
-        "vitk_mcg": 100
-       }
-      },
-      {
-       "food": "ProHealth Magnesium Glycinate (1 capsule; 100 mg Mg, 600 mg glycine)",
-       "kcal": 0,
-       "protein": 0,
-       "carbs": 0,
-       "fat": 0,
-       "fiber": 0,
-       "nutrients": {
-        "magnesium_mg": 100
-       }
-      }
-     ],
-     "note": ""
-    },
-    {
-     "time": "16:30",
-     "name": "Afternoon snack",
-     "items": [
-      {
-       "food": "Second Nature Dark Chocolate Medley nut mix, 2 servings (60 g; label 30 g = 180 kcal)",
-       "kcal": 360,
-       "protein": 10,
-       "carbs": 18,
-       "fat": 30,
-       "fiber": 4,
-       "nutrients": {
-        "calcium_mg": 80,
-        "iron_mg": 2,
-        "potassium_mg": 340,
-        "sodium_mg": 90,
-        "vite_mg": 8.8,
-        "satfat_g": 4,
-        "sugar_g": 8,
-        "magnesium_mg": 90
-       }
-      }
-     ],
-     "note": ""
-    },
-    {
-     "time": "16:30",
-     "name": "Inflight dinner",
-     "items": [
-      {
-       "food": "Chicken thigh (~4 oz) with chimichurri over wild rice, orange/plantain slices (estimated)",
-       "kcal": 520,
-       "protein": 32,
-       "carbs": 42,
-       "fat": 24,
-       "fiber": 3,
-       "nutrients": {
-        "sodium_mg": 650,
-        "potassium_mg": 520,
-        "iron_mg": 1.8,
-        "vitc_mg": 15,
-        "zinc_mg": 2.5,
-        "satfat_g": 5
-       }
-      },
-      {
-       "food": "Feta (~1 oz), sun-dried tomato, dried apricots, pistachios, pepperoncini plate (estimated)",
-       "kcal": 240,
-       "protein": 8,
-       "carbs": 22,
-       "fat": 13,
-       "fiber": 3,
-       "nutrients": {
-        "calcium_mg": 150,
-        "sodium_mg": 480,
-        "potassium_mg": 420,
-        "iron_mg": 1.5,
-        "vitc_mg": 10,
-        "satfat_g": 4,
-        "sugar_g": 14
-       }
-      },
-      {
-       "food": "Romaine and tomato salad with balsamic dressing and olive oil packet (estimated)",
-       "kcal": 110,
-       "protein": 2,
-       "carbs": 8,
-       "fat": 8,
-       "fiber": 2,
-       "nutrients": {
-        "vitk_mcg": 90,
-        "folate_mcg": 100,
-        "vitc_mg": 12,
-        "potassium_mg": 350,
-        "sodium_mg": 100
-       }
-      },
-      {
-       "food": "Half a dinner roll with butter pat (estimated)",
-       "kcal": 110,
-       "protein": 2.5,
-       "carbs": 14,
-       "fat": 4.5,
-       "fiber": 0.5,
-       "nutrients": {
-        "sodium_mg": 190,
-        "satfat_g": 2.5
-       }
-      }
-     ],
-     "note": "Estimated portions"
-    },
-    {
-     "time": "16:45",
-     "name": "Snack",
-     "items": [
-      {
-       "food": "Kirkland grass-fed beef stick (1 stick, 32 g, label)",
-       "kcal": 100,
-       "protein": 10,
-       "carbs": 1,
-       "fat": 7,
-       "fiber": 0,
-       "nutrients": {
-        "sodium_mg": 390,
-        "iron_mg": 1.1,
-        "potassium_mg": 190,
-        "satfat_g": 3,
-        "calcium_mg": 20
-       }
-      }
-     ],
-     "note": ""
-    },
-    {
-     "time": "17:00",
-     "name": "Dessert",
-     "items": [
-      {
-       "food": "Inflight ice cream sundae with hot fudge and whipped cream (estimated, ~1 cup ice cream)",
-       "kcal": 420,
-       "protein": 6,
-       "carbs": 50,
-       "fat": 22,
-       "fiber": 1,
-       "nutrients": {
-        "calcium_mg": 200,
-        "sodium_mg": 150,
-        "potassium_mg": 330,
-        "satfat_g": 13,
-        "sugar_g": 42
-       }
-      }
-     ],
-     "note": "Estimated portion"
-    },
-    {
-     "time": "22:15",
-     "name": "Evening drink",
-     "items": [
-      {
-       "food": "Jameson Irish whiskey (2 pours, 1.5 oz each)",
-       "kcal": 210,
-       "protein": 0,
-       "carbs": 0,
-       "fat": 0,
-       "fiber": 0,
-       "nutrients": {
-        "alcohol_g": 28
-       }
-      }
-     ],
-     "note": ""
-    }
-   ],
-   "notes": ""
-  },
-  "2026-10-31": {
-   "meals": [
-    {
-     "time": "11:30",
-     "name": "Breakfast",
-     "items": [
-      {
-       "food": "Ham/pepper omelet, about 3 eggs with a little cheese (estimated)",
-       "kcal": 430,
-       "protein": 28,
-       "carbs": 3,
-       "fat": 33,
-       "fiber": 0.5,
-       "nutrients": {
-        "choline_mg": 420,
-        "vitd_iu": 130,
-        "b12_mcg": 2.2,
-        "iron_mg": 2.8,
-        "selenium_mcg": 50,
-        "sodium_mg": 750,
-        "calcium_mg": 180,
-        "satfat_g": 13
-       }
-      },
-      {
-       "food": "Home fries, about 1.5 cups, pan fried (ate about 55%)",
-       "kcal": 181.5,
-       "protein": 2.2,
-       "carbs": 23.1,
-       "fat": 8.8,
-       "fiber": 2.2,
-       "nutrients": {
-        "potassium_mg": 440.0,
-        "vitc_mg": 9.9,
-        "sodium_mg": 192.5,
-        "satfat_g": 1.7
-       }
-      },
-      {
-       "food": "2 slices sourdough toast with butter pat and grape jelly (left about half a slice)",
-       "kcal": 232.0,
-       "protein": 6.4,
-       "carbs": 40.0,
-       "fat": 4.8,
-       "fiber": 1.6,
-       "nutrients": {
-        "sodium_mg": 416.0,
-        "iron_mg": 1.6,
-        "satfat_g": 2.4,
-        "sugar_g": 8.0
-       }
-      }
-     ],
-     "note": "Boston restaurant breakfast; omelet finished, about half the potatoes and most of the toast eaten"
-    },
-    {
-     "time": "15:30",
-     "name": "Afternoon snack",
-     "items": [
-      {
-       "food": "Think Jerky grass-fed beef stick, original (0.5 oz, label)",
-       "kcal": 40,
-       "protein": 4,
-       "carbs": 0,
-       "fat": 2.5,
-       "fiber": 0,
-       "nutrients": {
-        "sodium_mg": 165,
-        "iron_mg": 0.4,
-        "satfat_g": 1
-       }
-      },
-      {
-       "food": "Second Nature Dark Chocolate Medley nut mix, 1 serving (30 g, label)",
-       "kcal": 180,
-       "protein": 5,
-       "carbs": 9,
-       "fat": 15,
-       "fiber": 2,
-       "nutrients": {
-        "calcium_mg": 40,
-        "iron_mg": 1,
-        "potassium_mg": 170,
-        "sodium_mg": 45,
-        "vite_mg": 4.4,
-        "satfat_g": 2,
-        "sugar_g": 4,
-        "magnesium_mg": 45
-       }
-      },
-      {
-       "food": "Americano with 1 sugar and splash of half and half (estimated)",
-       "kcal": 35,
-       "protein": 0.5,
-       "carbs": 5,
-       "fat": 1.5,
-       "fiber": 0,
-       "nutrients": {
-        "potassium_mg": 130,
-        "sugar_g": 4
-       }
-      }
-     ],
-     "note": ""
-    },
-    {
-     "time": "16:00",
-     "name": "Supplements",
-     "items": [
-      {
-       "food": "Sports Research D3 + K2 (1 softgel; 125 mcg/5,000 IU D3, 100 mcg K2 as MK-7)",
-       "kcal": 5,
-       "protein": 0,
-       "carbs": 0,
-       "fat": 0.5,
-       "fiber": 0,
-       "nutrients": {
-        "vitd_iu": 5000,
-        "vitk_mcg": 100
-       }
-      },
-      {
-       "food": "ProHealth Magnesium Glycinate (1 capsule; 100 mg Mg, 600 mg glycine)",
-       "kcal": 0,
-       "protein": 0,
-       "carbs": 0,
-       "fat": 0,
-       "fiber": 0,
-       "nutrients": {
-        "magnesium_mg": 100
-       }
-      }
-     ],
-     "note": ""
-    },
-    {
-     "time": "17:30",
-     "name": "Dinner (Cousins BBQ, DFW)",
-     "items": [
-      {
-       "food": "Sliced turkey or chicken breast, ~4 oz (estimated)",
-       "kcal": 160,
-       "protein": 30,
-       "carbs": 0,
-       "fat": 3.5,
-       "fiber": 0,
-       "nutrients": {
-        "sodium_mg": 500,
-        "potassium_mg": 350,
-        "selenium_mcg": 30,
-        "satfat_g": 1
-       }
-      },
-      {
-       "food": "Sliced brisket, lean, ~4 oz (estimated)",
-       "kcal": 260,
-       "protein": 30,
-       "carbs": 1,
-       "fat": 15,
-       "fiber": 0,
-       "nutrients": {
-        "sodium_mg": 550,
-        "iron_mg": 2.8,
-        "zinc_mg": 6,
-        "b12_mcg": 2.5,
-        "satfat_g": 6
-       }
-      },
-      {
-       "food": "Cole slaw, ~90% eaten (estimated)",
-       "kcal": 144.0,
-       "protein": 0.9,
-       "carbs": 12.6,
-       "fat": 9.9,
-       "fiber": 1.8,
-       "nutrients": {
-        "vitc_mg": 22.5,
-        "vitk_mcg": 54.0,
-        "sodium_mg": 207.0,
-        "sugar_g": 8.1
-       }
-      },
-      {
-       "food": "Collard greens eaten, most broth left (estimated)",
-       "kcal": 72.0,
-       "protein": 3.6,
-       "carbs": 7.2,
-       "fat": 2.7,
-       "fiber": 3.6,
-       "nutrients": {
-        "vitk_mcg": 450.0,
-        "calcium_mg": 144.0,
-        "vitc_mg": 18.0,
-        "folate_mcg": 81.0,
-        "sodium_mg": 468.0,
-        "potassium_mg": 225.0
-       }
-      },
-      {
-       "food": "Texas toast, ~15% eaten (estimated)",
-       "kcal": 24.0,
-       "protein": 0.4,
-       "carbs": 3.0,
-       "fat": 1.2,
-       "fiber": 0.1,
-       "nutrients": {
-        "sodium_mg": 42.0,
-        "satfat_g": 0.4
-       }
-      },
-      {
-       "food": "BBQ sauce, barely used (estimated)",
-       "kcal": 5.0,
-       "protein": 0.0,
-       "carbs": 1.2,
-       "fat": 0.0,
-       "fiber": 0.0,
-       "nutrients": {
-        "sodium_mg": 30.0,
-        "sugar_g": 1.0
-       }
-      }
-     ],
-     "note": "Estimated portions; assumed all eaten"
-    },
-    {
-     "time": "18:40",
-     "name": "Dessert (Godiva)",
-     "items": [
-      {
-       "food": "Godiva dark chocolate bar, 1 of 3 per serving (34 g serving = 190 kcal)",
-       "kcal": 63,
-       "protein": 1,
-       "carbs": 5.3,
-       "fat": 4.7,
-       "fiber": 1.3,
-       "nutrients": {
-        "iron_mg": 2.3,
-        "sugar_g": 3.7,
-        "satfat_g": 3
-       }
-      }
-     ],
-     "note": ""
-    },
-    {
-     "time": "21:00",
-     "name": "Evening popcorn and drinks",
-     "items": [
-      {
-       "food": "Popcorn, ~2 tbsp kernels popped with 1 tsp coconut oil (estimated)",
-       "kcal": 150,
-       "protein": 3,
-       "carbs": 22,
-       "fat": 5.5,
-       "fiber": 4,
-       "nutrients": {
-        "magnesium_mg": 35,
-        "potassium_mg": 70,
-        "satfat_g": 4.5
-       }
-      },
-      {
-       "food": "Lemon drop x2 (each: 3 oz vodka, 0.75 oz Cointreau, 1/2 tsp simple syrup; estimated)",
-       "kcal": 560,
-       "protein": 0,
-       "carbs": 20,
-       "fat": 0,
-       "fiber": 0,
-       "nutrients": {
-        "sugar_g": 18,
-        "alcohol_g": 42
-       }
-      }
-     ],
-     "note": "Lemon drop size and recipe estimated"
-    }
-   ],
-   "notes": "Boston walk 2.52 mi, 242 active kcal. Gym skipped.",
-   "active_kcal": 242,
-   "day_type": "rest"
-  },
-  "2026-11-01": {
-   "meals": [
-    {
-     "time": "11:45",
-     "name": "Breakfast",
-     "items": [
-      {
-       "food": "Poached eggs x2 (estimated)",
-       "kcal": 140,
-       "protein": 12,
-       "carbs": 1,
-       "fat": 10,
-       "fiber": 0,
-       "nutrients": {
-        "choline_mg": 295,
-        "b12_mcg": 1.1,
-        "sodium_mg": 140,
-        "vitd_iu": 80
-       }
-      },
-      {
-       "food": "Bacon, 3 slices crisp (estimated)",
-       "kcal": 130,
-       "protein": 9,
-       "carbs": 0,
-       "fat": 10,
-       "fiber": 0,
-       "nutrients": {
-        "sodium_mg": 480,
-        "satfat_g": 3.5
-       }
-      },
-      {
-       "food": "Sourdough whole-grain toast, 1 slice, with a little butter (estimated)",
-       "kcal": 140,
-       "protein": 5,
-       "carbs": 22,
-       "fat": 3.5,
-       "fiber": 3,
-       "nutrients": {
-        "sodium_mg": 230
-       }
-      },
-      {
-       "food": "Fruit tray, my half: ~1/2 banana, 1/2 apple, 1/4 avocado, ~1/3 cup blueberries, ~1/4 cup diced apple/pear (estimated)",
-       "kcal": 190,
-       "protein": 2,
-       "carbs": 36,
-       "fat": 5,
-       "fiber": 8,
-       "nutrients": {
-        "potassium_mg": 520,
-        "vitc_mg": 15,
-        "vitk_mcg": 12,
-        "folate_mcg": 40
-       }
-      },
-      {
-       "food": "AG1 (green drink in shaker) [label: 1 level scoop, 13 g]",
-       "kcal": 40,
-       "protein": 2,
-       "carbs": 6,
-       "fat": 1,
-       "fiber": 2,
-       "nutrients": {
-        "vita_mcg": 550,
-        "vitC_mg": 500,
-        "vite_mg": 20,
-        "b12_mcg": 400,
-        "b6_mg": 5,
-        "folate_mcg": 680,
-        "choline_mg": 25,
-        "calcium_mg": 120,
-        "iron_mg": 1,
-        "magnesium_mg": 30,
-        "zinc_mg": 20,
-        "selenium_mcg": 22,
-        "manganese_mg": 0.4,
-        "sodium_mg": 40,
-        "potassium_mg": 250,
-        "vitk_mcg": 90,
-        "sugar_g": 0.5,
-        "b1_mg": 3,
-        "b2_mg": 2,
-        "niacin_mg_ne": 16,
-        "biotin_mcg": 330,
-        "pantothenic_mg": 4,
-        "phosphorus_mg": 130,
-        "copper_mg": 0.2,
-        "chromium_mcg": 25,
-        "molybdenum_mcg": 45,
-        "coq10_mg": 60
-       }
-      }
-     ],
-     "note": "Fruit tray split with Charlotte; portions estimated"
-    },
-    {
-     "time": "14:30",
-     "name": "Afternoon protein smoothie",
-     "items": [
-      {
-       "food": "ON Gold Standard vanilla whey, 1 scoop (label)",
-       "kcal": 120,
-       "protein": 24,
-       "carbs": 4,
-       "fat": 1.5,
-       "fiber": 0,
-       "nutrients": {
-        "calcium_mg": 130,
-        "potassium_mg": 150,
-        "sodium_mg": 130,
-        "sugar_g": 1,
-        "cholesterol_mg": 55
-       }
-      },
-      {
-       "food": "Milk, ~1 cup (estimated 2%)",
-       "kcal": 120,
-       "protein": 8,
-       "carbs": 12,
-       "fat": 5,
-       "fiber": 0,
-       "nutrients": {
-        "calcium_mg": 300,
-        "potassium_mg": 370,
-        "vitd_iu": 100
-       }
-      },
-      {
-       "food": "Fruit, ~3/4 cup (estimated)",
-       "kcal": 70,
-       "protein": 1,
-       "carbs": 17,
-       "fat": 0.3,
-       "fiber": 3,
-       "nutrients": {
-        "potassium_mg": 200,
-        "vitc_mg": 25
-       }
-      }
-     ],
-     "note": "Ninja single-serve cup; fruit type and whey brand estimated"
-    },
-    {
-     "time": "15:45",
-     "name": "Pre-workout protein drink",
-     "items": [
-      {
-       "food": "ON Gold Standard vanilla whey, 1 scoop mixed with water (label)",
-       "kcal": 120,
-       "protein": 24,
-       "carbs": 4,
-       "fat": 1.5,
-       "fiber": 0,
-       "nutrients": {
-        "calcium_mg": 130,
-        "potassium_mg": 150,
-        "sodium_mg": 130,
-        "sugar_g": 1,
-        "cholesterol_mg": 55
-       }
-      }
-     ],
-     "note": "Assumed 1 scoop of the vanilla powder in water"
-    },
-    {
-     "time": "15:50",
-     "name": "Pre-workout banana",
-     "items": [
-      {
-       "food": "Banana, medium",
-       "kcal": 105,
-       "protein": 1.3,
-       "carbs": 27,
-       "fat": 0.4,
-       "fiber": 3,
-       "nutrients": {
-        "potassium_mg": 420,
-        "magnesium_mg": 32,
-        "vitc_mg": 10,
-        "b6_mg": 0.4
-       }
-      }
-     ],
-     "note": ""
-    },
-    {
-     "time": "16:00",
-     "name": "Supplements",
-     "items": [
-      {
-       "food": "Sports Research D3 + K2 (1 softgel; 125 mcg/5,000 IU D3, 100 mcg K2 as MK-7)",
-       "kcal": 5,
-       "protein": 0,
-       "carbs": 0,
-       "fat": 0.5,
-       "fiber": 0,
-       "nutrients": {
-        "vitd_iu": 5000,
-        "vitk_mcg": 100
-       }
-      },
-      {
-       "food": "ProHealth Magnesium Glycinate (1 capsule; 100 mg Mg, 600 mg glycine)",
-       "kcal": 0,
-       "protein": 0,
-       "carbs": 0,
-       "fat": 0,
-       "fiber": 0,
-       "nutrients": {
-        "magnesium_mg": 100
-       }
-      }
-     ],
-     "note": ""
-    },
-    {
-     "time": "18:15",
-     "name": "Dinner (Hawaiian plate)",
-     "items": [
-      {
-       "food": "Kalua pulled pork with cabbage, ~4 oz (estimated)",
-       "kcal": 230,
-       "protein": 28,
-       "carbs": 2,
-       "fat": 12,
-       "fiber": 1,
-       "nutrients": {
-        "sodium_mg": 750,
-        "iron_mg": 1.5,
-        "zinc_mg": 3,
-        "satfat_g": 4
-       }
-      },
-      {
-       "food": "Teriyaki or roasted chicken pieces, ~3 oz (estimated)",
-       "kcal": 190,
-       "protein": 22,
-       "carbs": 6,
-       "fat": 8,
-       "fiber": 0,
-       "nutrients": {
-        "sodium_mg": 500,
-        "sugar_g": 5
-       }
-      },
-      {
-       "food": "Fried rice with egg and meat, ~1 cup (estimated)",
-       "kcal": 330,
-       "protein": 9,
-       "carbs": 46,
-       "fat": 12,
-       "fiber": 1,
-       "nutrients": {
-        "sodium_mg": 700
-       }
-      },
-      {
-       "food": "Macaroni or potato salad, mac-style, ~1/2 cup (estimated)",
-       "kcal": 200,
-       "protein": 4,
-       "carbs": 20,
-       "fat": 11,
-       "fiber": 1,
-       "nutrients": {
-        "sodium_mg": 300
-       }
-      },
-      {
-       "food": "Hawaiian sweet roll (estimated)",
-       "kcal": 150,
-       "protein": 4,
-       "carbs": 27,
-       "fat": 3,
-       "fiber": 1,
-       "nutrients": {
-        "sodium_mg": 180,
-        "sugar_g": 7
-       }
-      },
-      {
-       "food": "Waterloo lemon-lime sparkling water",
-       "kcal": 0,
-       "protein": 0,
-       "carbs": 0,
-       "fat": 0,
-       "fiber": 0,
-       "nutrients": {}
-      }
-     ],
-     "note": "Estimated portions; hosted meal"
-    },
-    {
-     "time": "19:50",
-     "name": "Evening yogurt bowl",
-     "items": [
-      {
-       "food": "Fage Total 5% yogurt, ~3/4 cup (estimated)",
-       "kcal": 160,
-       "protein": 15,
-       "carbs": 6,
-       "fat": 9,
-       "fiber": 0,
-       "nutrients": {
-        "calcium_mg": 200,
-        "potassium_mg": 200
-       }
-      },
-      {
-       "food": "Blueberries, ~1/4 cup",
-       "kcal": 20,
-       "protein": 0.3,
-       "carbs": 5,
-       "fat": 0.1,
-       "fiber": 1,
-       "nutrients": {
-        "vitc_mg": 3,
-        "vitk_mcg": 7
-       }
-      },
-      {
-       "food": "Raw honey, ~1 tsp (estimated)",
-       "kcal": 21,
-       "protein": 0,
-       "carbs": 6,
-       "fat": 0,
-       "fiber": 0,
-       "nutrients": {}
-      }
-     ],
-     "note": "Portions estimated"
-    },
-    {
-     "time": "20:00",
-     "name": "Psyllium husk drink",
-     "items": [
-      {
-       "food": "Psyllium husk powder, 1 tbsp (assumed)",
-       "kcal": 25,
-       "protein": 0,
-       "carbs": 8,
-       "fat": 0,
-       "fiber": 7,
-       "nutrients": {}
-      }
-     ],
-     "note": ""
-    }
-   ],
-   "notes": "Strength A (legs) at EOS ~3:30 PM; hard-day target 2,400-2,500 kcal, 165-170 g protein. Strength A done: 56 min, 304 active kcal (408 total).",
-   "day_type": "hard",
-   "weight_lb": 195,
-   "active_kcal": 304
-  },
-  "2026-11-02": {
-   "meals": [
-    {
-     "time": "11:40",
-     "name": "Breakfast",
-     "items": [
-      {
-       "food": "Scrambled eggs: 2 whole + 1 egg white (cooked in a little butter/oil, estimated)",
-       "kcal": 205,
-       "protein": 19,
-       "carbs": 1.5,
-       "fat": 13,
-       "fiber": 0,
-       "nutrients": {
-        "choline_mg": 300,
-        "b12_mcg": 1.2,
-        "sodium_mg": 200,
-        "vitd_iu": 90
-       }
-      },
-      {
-       "food": "Cottage cheese, ~1/2 cup (estimated)",
-       "kcal": 110,
-       "protein": 12,
-       "carbs": 5,
-       "fat": 4,
-       "fiber": 0,
-       "nutrients": {
-        "calcium_mg": 100,
-        "sodium_mg": 400
-       }
-      },
-      {
-       "food": "Proof Khorasan sourdough toast, 1 slice (estimated)",
-       "kcal": 120,
-       "protein": 5,
-       "carbs": 22,
-       "fat": 1.5,
-       "fiber": 3,
-       "nutrients": {
-        "sodium_mg": 230
-       }
-      },
-      {
-       "food": "Blueberries, ~1/2 cup",
-       "kcal": 42,
-       "protein": 0.5,
-       "carbs": 11,
-       "fat": 0.2,
-       "fiber": 2,
-       "nutrients": {
-        "vitc_mg": 7,
-        "vitk_mcg": 15
-       }
-      },
-      {
-       "food": "AG1 (green drink) [label: 1 level scoop, 13 g]",
-       "kcal": 40,
-       "protein": 2,
-       "carbs": 6,
-       "fat": 1,
-       "fiber": 2,
-       "nutrients": {
-        "vita_mcg": 550,
-        "vitC_mg": 500,
-        "vite_mg": 20,
-        "b12_mcg": 400,
-        "b6_mg": 5,
-        "folate_mcg": 680,
-        "choline_mg": 25,
-        "calcium_mg": 120,
-        "iron_mg": 1,
-        "magnesium_mg": 30,
-        "zinc_mg": 20,
-        "selenium_mcg": 22,
-        "manganese_mg": 0.4,
-        "sodium_mg": 40,
-        "potassium_mg": 250,
-        "vitk_mcg": 90,
-        "sugar_g": 0.5,
-        "b1_mg": 3,
-        "b2_mg": 2,
-        "niacin_mg_ne": 16,
-        "biotin_mcg": 330,
-        "pantothenic_mg": 4,
-        "phosphorus_mg": 130,
-        "copper_mg": 0.2,
-        "chromium_mcg": 25,
-        "molybdenum_mcg": 45,
-        "coq10_mg": 60
-       }
-      }
-     ],
-     "note": "Portions estimated"
-    },
-    {
-     "time": "14:20",
-     "name": "Afternoon snack",
-     "items": [
-      {
-       "food": "ON Gold Standard vanilla whey shake, 1 scoop with milk/ice (estimated milk ~1 cup 2%)",
-       "kcal": 240,
-       "protein": 32,
-       "carbs": 16,
-       "fat": 6.5,
-       "fiber": 0,
-       "nutrients": {
-        "calcium_mg": 430,
-        "potassium_mg": 520,
-        "sodium_mg": 200,
-        "vitd_iu": 100
-       }
-      },
-      {
-       "food": "Fage Total 5% yogurt, ~3/4 cup (estimated)",
-       "kcal": 160,
-       "protein": 15,
-       "carbs": 6,
-       "fat": 9,
-       "fiber": 0,
-       "nutrients": {
-        "calcium_mg": 200,
-        "potassium_mg": 200
-       }
-      },
-      {
-       "food": "Banana, ~1/2 medium sliced (estimated)",
-       "kcal": 55,
-       "protein": 0.7,
-       "carbs": 14,
-       "fat": 0.2,
-       "fiber": 1.5,
-       "nutrients": {
-        "potassium_mg": 210
-       }
-      },
-      {
-       "food": "Blueberries, ~2 tbsp",
-       "kcal": 10,
-       "protein": 0.1,
-       "carbs": 2.5,
-       "fat": 0,
-       "fiber": 0.5,
-       "nutrients": {}
-      },
-      {
-       "food": "Mixed nuts, ~1 tbsp chopped (estimated)",
-       "kcal": 55,
-       "protein": 1.5,
-       "carbs": 2,
-       "fat": 5,
-       "fiber": 0.7,
-       "nutrients": {
-        "magnesium_mg": 20
-       }
-      },
-      {
-       "food": "Raw honey, ~1 tsp",
-       "kcal": 21,
-       "protein": 0,
-       "carbs": 6,
-       "fat": 0,
-       "fiber": 0,
-       "nutrients": {}
-      }
-     ],
-     "note": "Portions estimated"
-    },
-    {
-     "time": "16:00",
-     "name": "Supplements",
-     "items": [
-      {
-       "food": "Sports Research D3 + K2 (1 softgel; 125 mcg/5,000 IU D3, 100 mcg K2 as MK-7)",
-       "kcal": 5,
-       "protein": 0,
-       "carbs": 0,
-       "fat": 0.5,
-       "fiber": 0,
-       "nutrients": {
-        "vitd_iu": 5000,
-        "vitk_mcg": 100
-       }
-      },
-      {
-       "food": "ProHealth Magnesium Glycinate (1 capsule; 100 mg Mg, 600 mg glycine)",
-       "kcal": 0,
-       "protein": 0,
-       "carbs": 0,
-       "fat": 0,
-       "fiber": 0,
-       "nutrients": {
-        "magnesium_mg": 100
-       }
-      }
-     ],
-     "note": ""
-    },
-    {
-     "time": "18:10",
-     "name": "Dinner (Korean and Hawaiian spread)",
-     "items": [
-      {
-       "food": "Kimchi tofu stew (kimchi jjigae), ~1.5 cups (estimated)",
-       "kcal": 280,
-       "protein": 20,
-       "carbs": 14,
-       "fat": 15,
-       "fiber": 3,
-       "nutrients": {
-        "sodium_mg": 1400,
-        "calcium_mg": 250,
-        "iron_mg": 3
-       }
-      },
-      {
-       "food": "Kalua pulled pork with cabbage, ~4 oz (estimated)",
-       "kcal": 230,
-       "protein": 28,
-       "carbs": 2,
-       "fat": 12,
-       "fiber": 1,
-       "nutrients": {
-        "sodium_mg": 750,
-        "zinc_mg": 3
-       }
-      },
-      {
-       "food": "Roasted seaweed snacks, ~1/2 oz (estimated)",
-       "kcal": 50,
-       "protein": 3,
-       "carbs": 2,
-       "fat": 3,
-       "fiber": 1,
-       "nutrients": {
-        "iodine_mcg": 150,
-        "sodium_mg": 100
-       }
-      }
-     ],
-     "note": "Estimated; other dishes on the table not counted unless added"
-    }
-   ],
-   "day_type": "hard",
-   "notes": "Long hike 4-4.5 mi, 500-700 ft gain, 1.5-2 h, plus core. Hard-day tier. Hike done: 3.19 mi, 1:14, 554 ft gain, 385 active kcal (522 total).",
-   "active_kcal": 385
-  },
-  "2026-11-03": {
-   "meals": [
-    {
-     "time": "08:00",
-     "name": "Supplements (morning)",
-     "items": [
-      {
-       "food": "ProHealth Magnesium Glycinate (1 capsule; 100 mg Mg, 600 mg glycine)",
-       "kcal": 0,
-       "protein": 0,
-       "carbs": 0,
-       "fat": 0,
-       "fiber": 0,
-       "nutrients": {
-        "magnesium_mg": 100
-       }
-      }
-     ]
-    },
-    {
-     "time": "09:20",
-     "name": "Pre-workout shake and banana",
-     "items": [
-      {
-       "food": "ON Gold Standard vanilla whey, 1 scoop (label; liquid assumed water)",
-       "kcal": 120,
-       "protein": 24,
-       "carbs": 4,
-       "fat": 1.5,
-       "fiber": 0,
-       "nutrients": {
-        "calcium_mg": 130,
-        "potassium_mg": 150,
-        "sodium_mg": 130,
-        "sugar_g": 1,
-        "cholesterol_mg": 55
-       }
-      },
-      {
-       "food": "Banana, medium",
-       "kcal": 105,
-       "protein": 1.3,
-       "carbs": 27,
-       "fat": 0.4,
-       "fiber": 3,
-       "nutrients": {
-        "potassium_mg": 420,
-        "magnesium_mg": 32,
-        "vitc_mg": 10,
-        "b6_mg": 0.4
-       }
-      }
-     ],
-     "note": "Assumed whey mixed with water"
-    },
-    {
-     "time": "12:55",
-     "name": "Post-workout breakfast",
-     "items": [
-      {
-       "food": "Scrambled eggs, 3 whole Vital Farms (estimated, light oil/butter)",
-       "kcal": 235,
-       "protein": 19,
-       "carbs": 2,
-       "fat": 16,
-       "fiber": 0,
-       "nutrients": {
-        "choline_mg": 440,
-        "b12_mcg": 1.5,
-        "sodium_mg": 210,
-        "vitd_iu": 130
-       }
-      },
-      {
-       "food": "Flour tortilla, 1 (fajita/burrito size, estimated)",
-       "kcal": 140,
-       "protein": 4,
-       "carbs": 24,
-       "fat": 3.5,
-       "fiber": 1,
-       "nutrients": {
-        "sodium_mg": 330
-       }
-      },
-      {
-       "food": "Shredded cheddar jack, ~1/4 cup (estimated)",
-       "kcal": 110,
-       "protein": 7,
-       "carbs": 0.5,
-       "fat": 9,
-       "fiber": 0,
-       "nutrients": {
-        "calcium_mg": 200,
-        "sodium_mg": 180,
-        "satfat_g": 5.5
-       }
-      },
-      {
-       "food": "Salsa, ~2 tbsp",
-       "kcal": 10,
-       "protein": 0,
-       "carbs": 2,
-       "fat": 0,
-       "fiber": 0.5,
-       "nutrients": {
-        "sodium_mg": 200
-       }
-      },
-      {
-       "food": "Fage Total 5% yogurt, ~1 cup (estimated)",
-       "kcal": 220,
-       "protein": 20,
-       "carbs": 8,
-       "fat": 12,
-       "fiber": 0,
-       "nutrients": {
-        "calcium_mg": 260,
-        "potassium_mg": 260
-       }
-      },
-      {
-       "food": "Raspberries, blackberries, blueberries, ~3/4 cup (estimated)",
-       "kcal": 55,
-       "protein": 1,
-       "carbs": 13,
-       "fat": 0.5,
-       "fiber": 5,
-       "nutrients": {
-        "vitc_mg": 20,
-        "vitk_mcg": 15,
-        "manganese_mg": 0.6
-       }
-      },
-      {
-       "food": "Mango slices, 3 (estimated)",
-       "kcal": 45,
-       "protein": 0.5,
-       "carbs": 11,
-       "fat": 0.3,
-       "fiber": 1.2,
-       "nutrients": {
-        "vitc_mg": 25,
-        "vita_mcg": 30
-       }
-      },
-      {
-       "food": "Raw honey, ~1 tsp",
-       "kcal": 21,
-       "protein": 0,
-       "carbs": 6,
-       "fat": 0,
-       "fiber": 0,
-       "nutrients": {}
-      },
-      {
-       "food": "AG1 (green drink) [label: 1 level scoop, 13 g]",
-       "kcal": 40,
-       "protein": 2,
-       "carbs": 6,
-       "fat": 1,
-       "fiber": 2,
-       "nutrients": {
-        "vita_mcg": 550,
-        "vitC_mg": 500,
-        "vite_mg": 20,
-        "b12_mcg": 400,
-        "b6_mg": 5,
-        "folate_mcg": 680,
-        "choline_mg": 25,
-        "calcium_mg": 120,
-        "iron_mg": 1,
-        "magnesium_mg": 30,
-        "zinc_mg": 20,
-        "selenium_mcg": 22,
-        "manganese_mg": 0.4,
-        "sodium_mg": 40,
-        "potassium_mg": 250,
-        "vitk_mcg": 90,
-        "sugar_g": 0.5,
-        "b1_mg": 3,
-        "b2_mg": 2,
-        "niacin_mg_ne": 16,
-        "biotin_mcg": 330,
-        "pantothenic_mg": 4,
-        "phosphorus_mg": 130,
-        "copper_mg": 0.2,
-        "chromium_mcg": 25,
-        "molybdenum_mcg": 45,
-        "coq10_mg": 60
-       }
-      }
-     ],
-     "note": "Portions estimated"
-    },
-    {
-     "time": "14:50",
-     "name": "Snack (chocolate)",
-     "items": [
-      {
-       "food": "Chocolove dark chocolate bar, 3 squares (1/2 serving, ~14 g; label)",
-       "kcal": 75.0,
-       "protein": 1.0,
-       "carbs": 6.5,
-       "fat": 6.5,
-       "fiber": 1.5,
-       "nutrients": {
-        "iron_mg": 2.4,
-        "potassium_mg": 95.0,
-        "sodium_mg": 75.0,
-        "sugar_g": 4.0,
-        "satfat_g": 4.0,
-        "calcium_mg": 5.0
-       }
-      }
-     ],
-     "note": "3 squares = 1/2 serving (per Todd)"
-    },
-    {
-     "time": "15:05",
-     "name": "Snack (beef stick)",
-     "items": [
-      {
-       "food": "Chomps Original beef stick, grass-fed (32 g; kcal/protein from label, fat/sodium estimated)",
-       "kcal": 100,
-       "protein": 10,
-       "carbs": 0,
-       "fat": 7,
-       "fiber": 0,
-       "nutrients": {
-        "sodium_mg": 350,
-        "sugar_g": 0
-       }
-      }
-     ],
-     "note": ""
-    },
-    {
-     "time": "15:15",
-     "name": "Coffee",
-     "items": [
-      {
-       "food": "Coffee (Dichotomy mug) with 1/8 cup half and half and 1 tsp sugar",
-       "kcal": 56,
-       "protein": 1,
-       "carbs": 5,
-       "fat": 3.5,
-       "fiber": 0,
-       "nutrients": {
-        "sugar_g": 4.5,
-        "sodium_mg": 15
-       }
-      }
-     ],
-     "note": ""
-    },
-    {
-     "time": "16:00",
-     "name": "Supplements",
-     "items": [
-      {
-       "food": "Sports Research D3 + K2 (1 softgel; 125 mcg/5,000 IU D3, 100 mcg K2 as MK-7)",
-       "kcal": 5,
-       "protein": 0,
-       "carbs": 0,
-       "fat": 0.5,
-       "fiber": 0,
-       "nutrients": {
-        "vitd_iu": 5000,
-        "vitk_mcg": 100
-       }
-      }
-     ],
-     "note": ""
-    },
-    {
-     "time": "18:40",
-     "name": "Dinner",
-     "items": [
-      {
-       "food": "Ribeye-style steak, ~6 oz eaten of ~8 oz cooked; ~2 oz left on plate (estimated)",
-       "kcal": 420,
-       "protein": 39,
-       "carbs": 0,
-       "fat": 28,
-       "fiber": 0,
-       "nutrients": {
-        "iron_mg": 4,
-        "sodium_mg": 150
-       }
-      },
-      {
-       "food": "Roasted baby potatoes and sweet potato, ~1 cup with oil (estimated)",
-       "kcal": 240,
-       "protein": 4,
-       "carbs": 38,
-       "fat": 8,
-       "fiber": 5,
-       "nutrients": {
-        "potassium_mg": 700
-       }
-      },
-      {
-       "food": "Asparagus, ~1 cup (estimated)",
-       "kcal": 35,
-       "protein": 4,
-       "carbs": 6,
-       "fat": 0,
-       "fiber": 3,
-       "nutrients": {}
-      },
-      {
-       "food": "Whole milk, 1 cup (estimated glass size)",
-       "kcal": 150,
-       "protein": 8,
-       "carbs": 12,
-       "fat": 8,
-       "fiber": 0,
-       "nutrients": {
-        "calcium_mg": 300
-       }
-      }
-     ],
-     "note": ""
-    }
-   ],
-   "day_type": "lifting",
-   "notes": "RAP day (reserve starts). Planned Strength B at EOS, not firm; fallback hotel version or incline walk. Upper body strength + core done: 1:34, 500 active kcal (675 total); legs sore so swapped from Strength B. 15 min sauna.",
-   "weight_lb": 191,
-   "active_kcal": 500
-  },
-  "2026-11-04": {
-   "meals": [
-    {
-     "time": "08:00",
-     "name": "Supplements (morning)",
-     "items": [
-      {
-       "food": "ProHealth Magnesium Glycinate (1 capsule; 100 mg Mg, 600 mg glycine)",
-       "kcal": 0,
-       "protein": 0,
-       "carbs": 0,
-       "fat": 0,
-       "fiber": 0,
-       "nutrients": {
-        "magnesium_mg": 100
-       }
-      }
-     ],
-     "note": ""
-    },
-    {
-     "time": "12:10",
-     "name": "Breakfast (flight)",
-     "items": [
-      {
-       "food": "Scrambled eggs, airline portion, about 2 eggs (estimated)",
-       "kcal": 190,
-       "protein": 13,
-       "carbs": 2,
-       "fat": 14,
-       "fiber": 0,
-       "nutrients": {
-        "sodium_mg": 280,
-        "cholesterol_mg": 370,
-        "choline_mg": 250
-       }
-      },
-      {
-       "food": "Sausage patty, about half eaten (gravy and biscuit left; estimated)",
-       "kcal": 110,
-       "protein": 6,
-       "carbs": 1,
-       "fat": 9,
-       "fiber": 0,
-       "nutrients": {
-        "sodium_mg": 330,
-        "satfat_g": 3
-       }
-      },
-      {
-       "food": "Fruit cup: strawberry, blueberries, orange, pineapple, cucumber (estimated)",
-       "kcal": 90,
-       "protein": 1,
-       "carbs": 22,
-       "fat": 0,
-       "fiber": 3,
-       "nutrients": {
-        "vitc_mg": 60,
-        "potassium_mg": 250,
-        "sugar_g": 16
-       }
-      },
-      {
-       "food": "Honey packet (estimated)",
-       "kcal": 20,
-       "protein": 0,
-       "carbs": 5,
-       "fat": 0,
-       "fiber": 0,
-       "nutrients": {
-        "sugar_g": 5
-       }
-      },
-      {
-       "food": "Butter, 3/4 of a pat (~8 g of ~10 g pat, estimated)",
-       "kcal": 54,
-       "protein": 0,
-       "carbs": 0,
-       "fat": 6,
-       "fiber": 0,
-       "nutrients": {
-        "satfat_g": 3.8,
-        "sodium_mg": 40
-       }
-      }
-     ],
-     "note": "Travel day, no workout. Skipped croissant, biscuit and roll. Butter packet opened, assumed not eaten."
-    },
-    {
-     "time": "12:20",
-     "name": "Snack (trail mix, coffee)",
-     "items": [
-      {
-       "food": "Power Up Antioxidant trail mix, 1 pack 43 g (label: 190 kcal, fat 10, sat 2, carbs ~25, fiber 2, sugar ~20 incl 9 added; protein estimated)",
-       "kcal": 190,
-       "protein": 4,
-       "carbs": 25,
-       "fat": 10,
-       "fiber": 2,
-       "nutrients": {
-        "sugar_g": 20,
-        "satfat_g": 2,
-        "sodium_mg": 0
-       }
-      },
-      {
-       "food": "Coffee with a little cream or creamer, paper cup (estimated)",
-       "kcal": 25,
-       "protein": 0,
-       "carbs": 1,
-       "fat": 2,
-       "fiber": 0,
-       "nutrients": {}
-      }
-     ],
-     "note": ""
-    },
-    {
-     "time": "16:00",
-     "name": "Supplements",
-     "items": [
-      {
-       "food": "Sports Research D3 + K2 (1 softgel; 125 mcg/5,000 IU D3, 100 mcg K2 as MK-7)",
-       "kcal": 5,
-       "protein": 0,
-       "carbs": 0,
-       "fat": 0.5,
-       "fiber": 0,
-       "nutrients": {
-        "vitd_iu": 5000,
-        "vitk_mcg": 100
-       }
-      }
-     ],
-     "note": ""
-    },
-    {
-     "time": "17:10",
-     "name": "Lunch (Summer House, CLT)",
-     "items": [
-      {
-       "food": "Grilled chicken, ~4.5 oz in 2 tacos (Summer House, estimated)",
-       "kcal": 210,
-       "protein": 38,
-       "carbs": 0,
-       "fat": 5,
-       "fiber": 0,
-       "nutrients": {
-        "sodium_mg": 500
-       }
-      },
-      {
-       "food": "2 small flour tortillas (estimated)",
-       "kcal": 200,
-       "protein": 5,
-       "carbs": 33,
-       "fat": 5,
-       "fiber": 2,
-       "nutrients": {
-        "sodium_mg": 400
-       }
-      },
-      {
-       "food": "Pico, lettuce, cilantro, cotija (estimated)",
-       "kcal": 60,
-       "protein": 3,
-       "carbs": 5,
-       "fat": 3,
-       "fiber": 1,
-       "nutrients": {
-        "sodium_mg": 200
-       }
-      },
-      {
-       "food": "Guacamole, ~1/4 cup (estimated)",
-       "kcal": 90,
-       "protein": 1,
-       "carbs": 5,
-       "fat": 8,
-       "fiber": 4,
-       "nutrients": {
-        "potassium_mg": 280,
-        "sodium_mg": 120
-       }
-      },
-      {
-       "food": "Salsa, small cup (estimated)",
-       "kcal": 20,
-       "protein": 1,
-       "carbs": 4,
-       "fat": 0,
-       "fiber": 1,
-       "nutrients": {
-        "sodium_mg": 250
-       }
-      }
-     ],
-     "note": ""
-    },
-    {
-     "time": "17:30",
-     "name": "Snack (flat white)",
-     "items": [
-      {
-       "food": "Starbucks tall flat white, whole milk, 2 ristretto shots (app: 170 kcal, 13 g sugar, 9 g fat; protein estimated)",
-       "kcal": 170,
-       "protein": 9,
-       "carbs": 13,
-       "fat": 9,
-       "fiber": 0,
-       "nutrients": {
-        "sugar_g": 13,
-        "satfat_g": 5,
-        "calcium_mg": 300,
-        "potassium_mg": 400
-       }
-      },
-      {
-       "food": "Sugar in the Raw, 1 packet",
-       "kcal": 15,
-       "protein": 0,
-       "carbs": 4,
-       "fat": 0,
-       "fiber": 0,
-       "nutrients": {
-        "sugar_g": 4
-       }
-      }
-     ],
-     "note": ""
-    },
-    {
-     "time": "17:45",
-     "name": "Snack (Oikos Fusion)",
-     "items": [
-      {
-       "food": "Oikos Fusion mixed berry drink, 1 bottle (label: 23 g protein, 5 g fiber, 0 g added sugar; kcal/fat/carbs estimated)",
-       "kcal": 150,
-       "protein": 23,
-       "carbs": 12,
-       "fat": 2.5,
-       "fiber": 5,
-       "nutrients": {
-        "sugar_g": 6,
-        "calcium_mg": 250,
-        "sodium_mg": 150
-       }
-      }
-     ],
-     "note": ""
-    }
-   ],
-   "notes": "",
-   "day_type": "rest"
-  }
- }
 }

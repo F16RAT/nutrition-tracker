@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-04T17:33:40-05:00",
+ "last_updated": "2026-11-04T17:50:10-05:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -2572,6 +2572,26 @@
        "fiber": 0,
        "nutrients": {
         "sugar_g": 4
+       }
+      }
+     ],
+     "note": ""
+    },
+    {
+     "time": "17:45",
+     "name": "Snack (Oikos Fusion)",
+     "items": [
+      {
+       "food": "Oikos Fusion mixed berry drink, 1 bottle (label: 23 g protein, 5 g fiber, 0 g added sugar; kcal/fat/carbs estimated)",
+       "kcal": 150,
+       "protein": 23,
+       "carbs": 12,
+       "fat": 2.5,
+       "fiber": 5,
+       "nutrients": {
+        "sugar_g": 6,
+        "calcium_mg": 250,
+        "sodium_mg": 150
        }
       }
      ],

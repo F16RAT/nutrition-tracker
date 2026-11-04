@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-04T12:22:52-07:00",
+ "last_updated": "2026-11-04T12:23:08-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -2436,6 +2436,18 @@
        "fiber": 0,
        "nutrients": {
         "sugar_g": 5
+       }
+      },
+      {
+       "food": "Butter, 3/4 of a pat (~8 g of ~10 g pat, estimated)",
+       "kcal": 54,
+       "protein": 0,
+       "carbs": 0,
+       "fat": 6,
+       "fiber": 0,
+       "nutrients": {
+        "satfat_g": 3.8,
+        "sodium_mg": 40
        }
       }
      ],

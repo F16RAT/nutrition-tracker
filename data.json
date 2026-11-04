@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-04T12:23:08-07:00",
+ "last_updated": "2026-11-04T17:13:23-05:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -2478,6 +2478,69 @@
        "fat": 2,
        "fiber": 0,
        "nutrients": {}
+      }
+     ],
+     "note": ""
+    },
+    {
+     "time": "17:10",
+     "name": "Lunch (Summer House, CLT)",
+     "items": [
+      {
+       "food": "Grilled chicken, ~4.5 oz in 2 tacos (Summer House, estimated)",
+       "kcal": 210,
+       "protein": 38,
+       "carbs": 0,
+       "fat": 5,
+       "fiber": 0,
+       "nutrients": {
+        "sodium_mg": 500
+       }
+      },
+      {
+       "food": "2 small flour tortillas (estimated)",
+       "kcal": 200,
+       "protein": 5,
+       "carbs": 33,
+       "fat": 5,
+       "fiber": 2,
+       "nutrients": {
+        "sodium_mg": 400
+       }
+      },
+      {
+       "food": "Pico, lettuce, cilantro, cotija (estimated)",
+       "kcal": 60,
+       "protein": 3,
+       "carbs": 5,
+       "fat": 3,
+       "fiber": 1,
+       "nutrients": {
+        "sodium_mg": 200
+       }
+      },
+      {
+       "food": "Guacamole, ~1/4 cup (estimated)",
+       "kcal": 90,
+       "protein": 1,
+       "carbs": 5,
+       "fat": 8,
+       "fiber": 4,
+       "nutrients": {
+        "potassium_mg": 280,
+        "sodium_mg": 120
+       }
+      },
+      {
+       "food": "Salsa, small cup (estimated)",
+       "kcal": 20,
+       "protein": 1,
+       "carbs": 4,
+       "fat": 0,
+       "fiber": 1,
+       "nutrients": {
+        "sodium_mg": 250
+       }
       }
      ],
      "note": ""

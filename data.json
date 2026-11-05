@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-05T13:14:08-05:00",
+ "last_updated": "2026-11-05T14:52:37-05:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -2830,6 +2830,27 @@
       }
      ],
      "note": ""
+    },
+    {
+     "time": "14:52",
+     "name": "Snack (Power Up trail mix)",
+     "note": "Package label; protein estimated because obscured.",
+     "items": [
+      {
+       "food": "Power Up Antioxidant Mix, 1 package (43 g)",
+       "kcal": 190,
+       "protein": 4,
+       "carbs": 25,
+       "fat": 10,
+       "fiber": 2,
+       "nutrients": {
+        "sugar_g": 20,
+        "added_sugar_g": 9,
+        "satfat_g": 2,
+        "sodium_mg": 0
+       }
+      }
+     ]
     }
    ],
    "notes": "",

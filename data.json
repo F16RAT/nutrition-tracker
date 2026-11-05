@@ -78,6 +78,12 @@
     "unit": "g",
     "target": 22,
     "limit": true
+   },
+   "alcohol_g": {
+    "label": "Alcohol (14 g = 1 drink)",
+    "unit": "g",
+    "target": 14,
+    "limit": true
    }
   }
  },

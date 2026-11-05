@@ -2689,16 +2689,16 @@
      "name": "Dinner (Cobb, hotel)",
      "items": [
       {
-       "food": "Cobb salad: romaine, tomatoes, 1/2 avocado, egg, bacon, blue cheese (estimated, no salmon visible, dressing not counted)",
-       "kcal": 480,
-       "protein": 24,
-       "carbs": 16,
-       "fat": 38,
+       "food": "Cobb salad: romaine, tomatoes, 1/2 avocado, egg, a little bacon and blue cheese, dressing (estimated; most bacon and blue cheese left)",
+       "kcal": 340,
+       "protein": 16,
+       "carbs": 15,
+       "fat": 26,
        "fiber": 9,
        "nutrients": {
-        "sodium_mg": 900,
-        "satfat_g": 12,
-        "potassium_mg": 900,
+        "sodium_mg": 550,
+        "satfat_g": 7,
+        "potassium_mg": 850,
         "vitC_mg": 25
        }
       },

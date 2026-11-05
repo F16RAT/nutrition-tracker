@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-05T14:52:37-05:00",
+ "last_updated": "2026-11-05T15:36:31-05:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -2849,6 +2849,53 @@
         "satfat_g": 2,
         "sodium_mg": 0
        }
+      }
+     ]
+    },
+    {
+     "time": "15:36",
+     "name": "Snack (cheddar, crackers and grapes)",
+     "note": "Estimated cheese portion ~1 oz; ate all except white cheese.",
+     "items": [
+      {
+       "food": "Cheddar cheese, about 1 oz (estimated)",
+       "kcal": 115,
+       "protein": 7,
+       "carbs": 0.5,
+       "fat": 9.5,
+       "fiber": 0,
+       "nutrients": {
+        "calcium_mg": 200,
+        "satfat_g": 6,
+        "sodium_mg": 180
+       }
+      },
+      {
+       "food": "Rustic Bakery olive oil & sea salt sourdough flatbread, 20 g (estimated nutrition)",
+       "kcal": 90,
+       "protein": 2,
+       "carbs": 15,
+       "fat": 2.5,
+       "fiber": 1,
+       "nutrients": {
+        "sodium_mg": 150
+       }
+      },
+      {
+       "food": "Green grapes, about 6 (estimated)",
+       "kcal": 25,
+       "protein": 0.2,
+       "carbs": 6.5,
+       "fat": 0,
+       "fiber": 0.3
+      },
+      {
+       "food": "LaCroix lime sparkling water, 1 can",
+       "kcal": 0,
+       "protein": 0,
+       "carbs": 0,
+       "fat": 0,
+       "fiber": 0
       }
      ]
     }

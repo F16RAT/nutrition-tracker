@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-04T20:51:42-05:00",
+ "last_updated": "2026-11-04T21:11:48-05:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -2683,6 +2683,49 @@
       }
      ],
      "note": ""
+    },
+    {
+     "time": "20:50",
+     "name": "Dinner (Cobb, hotel)",
+     "items": [
+      {
+       "food": "Cobb salad base: romaine, tomatoes, 1/2 avocado, chopped egg, bacon, blue cheese, dressing on the side not yet counted (estimated)",
+       "kcal": 480,
+       "protein": 24,
+       "carbs": 16,
+       "fat": 38,
+       "fiber": 9,
+       "nutrients": {
+        "sodium_mg": 900,
+        "satfat_g": 12,
+        "potassium_mg": 900,
+        "vitC_mg": 25
+       }
+      },
+      {
+       "food": "Breadstick on the salad (estimated, ate?)",
+       "kcal": 130,
+       "protein": 4,
+       "carbs": 22,
+       "fat": 3,
+       "fiber": 1,
+       "nutrients": {
+        "sodium_mg": 250
+       }
+      },
+      {
+       "food": "Guinness, about 12 oz (estimated)",
+       "kcal": 125,
+       "protein": 1,
+       "carbs": 10,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "alcohol_g": 14
+       }
+      }
+     ],
+     "note": "Salmon not visible in photo; add when confirmed. Estimated."
     }
    ],
    "notes": "",

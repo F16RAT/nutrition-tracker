@@ -2689,7 +2689,7 @@
      "name": "Dinner (Cobb, hotel)",
      "items": [
       {
-       "food": "Cobb salad base: romaine, tomatoes, 1/2 avocado, chopped egg, bacon, blue cheese, dressing on the side not yet counted (estimated)",
+       "food": "Cobb salad: romaine, tomatoes, 1/2 avocado, egg, bacon, blue cheese (estimated, no salmon visible, dressing not counted)",
        "kcal": 480,
        "protein": 24,
        "carbs": 16,
@@ -2703,7 +2703,7 @@
        }
       },
       {
-       "food": "Breadstick on the salad (estimated, ate?)",
+       "food": "Breadstick on the salad (estimated)",
        "kcal": 130,
        "protein": 4,
        "carbs": 22,

@@ -2703,14 +2703,19 @@
        }
       },
       {
-       "food": "Breadstick on the salad (estimated)",
-       "kcal": 130,
-       "protein": 4,
-       "carbs": 22,
-       "fat": 3,
-       "fiber": 1,
+       "food": "Grilled salmon strip on the Cobb, about 6 oz (estimated)",
+       "kcal": 350,
+       "protein": 38,
+       "carbs": 0,
+       "fat": 21,
+       "fiber": 0,
        "nutrients": {
-        "sodium_mg": 250
+        "omega3_g": 3.5,
+        "satfat_g": 4,
+        "sodium_mg": 120,
+        "potassium_mg": 800,
+        "vitD_mcg": 10,
+        "b12_mcg": 6
        }
       },
       {
@@ -2725,7 +2730,7 @@
        }
       }
      ],
-     "note": "Salmon not visible in photo; add when confirmed. Estimated."
+     "note": "Estimated; salmon about 6 oz per Todd."
     }
    ],
    "notes": "",

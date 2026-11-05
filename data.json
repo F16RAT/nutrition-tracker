@@ -2587,17 +2587,17 @@
           "name": "Snack (flat white)",
           "items": [
             {
-              "food": "Starbucks tall flat white, whole milk, 2 ristretto shots (app: 170 kcal, 13 g sugar, 9 g fat; protein estimated)",
-              "kcal": 170,
-              "protein": 9,
-              "carbs": 13,
-              "fat": 9,
+              "food": "Starbucks tall flat white, whole milk, drank half (full: 170 kcal, 13 g sugar, 9 g fat; protein estimated)",
+              "kcal": 85,
+              "protein": 4.5,
+              "carbs": 6.5,
+              "fat": 4.5,
               "fiber": 0,
               "nutrients": {
-                "sugar_g": 13,
-                "satfat_g": 5,
-                "calcium_mg": 300,
-                "potassium_mg": 400
+                "sugar_g": 6.5,
+                "satfat_g": 2.5,
+                "calcium_mg": 150,
+                "potassium_mg": 200
               }
             },
             {

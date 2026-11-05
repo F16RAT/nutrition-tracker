@@ -36,6 +36,9 @@ function render(){
  const avg=k=>logged.length?logged.reduce((a,x)=>a+x.t[k],0)/logged.length:0;
  h+=`<div class="card"><h2>7-day trend</h2><div class="mu">Calories (dashed = ${T.kcal})</div>${ch(t=>t.kcal,maxK,T.kcal,'var(--acc)')}<div class="mu" style="margin-top:10px">Protein g (dashed = ${T.protein})</div>${ch(t=>t.protein,maxP,T.protein,'#9b59b6')}
  <p class="mu">${logged.length} day(s) logged · avg ${r(avg('kcal'))} kcal · ${r(avg('protein'))} g protein · ${r(avg('fiber'),1)} g fiber</p>${weight()}</div>`;
+ const dk=[...Array(14)].map((_,i)=>shift(cur,i-13)).map(d=>({d,v:(totals(DATA.days[d]).n.alcohol_g||0)/14})),maxD=Math.max(3,...dk.map(x=>x.v)),wkD=dk.slice(7).reduce((a,x)=>a+x.v,0),pwD=dk.slice(0,7).reduce((a,x)=>a+x.v,0);
+ h+=`<div class="card"><h2>Alcohol (standard drinks)</h2><div class="mu">Last 14 days · dashed = 1 drink/day</div><div class="chart" style="position:relative">${dk.map(x=>`<div class="col"><span>${x.v?r(x.v,1):''}</span><i style="height:${x.v/maxD*85}%;background:${x.v>2?'var(--blu)':x.v>1?'var(--amb)':'var(--grn)'}"></i><span>${x.d.slice(8)}</span></div>`).join('')}<div style="position:absolute;left:0;right:0;bottom:calc(${1/maxD*85}% + 14px);border-top:1px dashed var(--mu)"></div></div>
+ <p class="mu">Last 7 days: <b>${r(wkD,1)}</b> drinks (my goal ≤7; health guideline max 14) · prior 7 days: ${r(pwD,1)}. One drink = 14 g alcohol (5 oz wine, 12 oz beer, 1.5 oz spirits).</p></div>`;
  document.getElementById('app').innerHTML=h;document.getElementById('next').disabled=false;
  history.replaceState(null,'',isToday?location.pathname:'?d='+cur)}
 function weight(){const pts=Object.keys(DATA.days).sort().filter(d=>DATA.days[d].weight_lb).map(d=>[d,+DATA.days[d].weight_lb]);if(!pts.length)return '<p class="mu">No weight entries yet.</p>';

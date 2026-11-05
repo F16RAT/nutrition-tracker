@@ -1,5 +1,5 @@
 // Network-first for data.json (falls back to cache offline); cache-first for app shell.
-const C='nt-v1',SHELL=['./','index.html','app.js','manifest.json','icon-180.png'];
+const C='nt-v2',SHELL=['./','index.html','app.js','manifest.json','icon-180.png'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(C).then(c=>c.addAll(SHELL)));self.skipWaiting()});
 self.addEventListener('activate',e=>e.waitUntil(self.clients.claim()));
 self.addEventListener('fetch',e=>{const u=new URL(e.request.url);

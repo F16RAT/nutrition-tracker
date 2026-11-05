@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-04T21:11:48-05:00",
+ "last_updated": "2026-11-05T12:28:59-05:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -2735,6 +2735,72 @@
    ],
    "notes": "",
    "day_type": "rest"
+  },
+  "2026-11-05": {
+   "meals": [
+    {
+     "time": "12:20",
+     "name": "Breakfast (Starbucks, flight)",
+     "items": [
+      {
+       "food": "Starbucks Potato, Cheddar & Chive Egg Bites, 2",
+       "kcal": 330,
+       "protein": 15,
+       "carbs": 18,
+       "fat": 22,
+       "fiber": 1,
+       "nutrients": {
+        "satfat_g": 12,
+        "sodium_mg": 670,
+        "calcium_mg": 250,
+        "cholesterol_mg": 185
+       }
+      },
+      {
+       "food": "Oikos Fusion strawberry (label: 23 g protein)",
+       "kcal": 130,
+       "protein": 23,
+       "carbs": 9,
+       "fat": 1.5,
+       "fiber": 5,
+       "nutrients": {
+        "sugar_g": 4,
+        "vitD_mcg": 4.5,
+        "potassium_mg": 260,
+        "b12_mcg": 2.3,
+        "calcium_mg": 250
+       }
+      },
+      {
+       "food": "Fruit cup (estimated)",
+       "kcal": 90,
+       "protein": 1,
+       "carbs": 22,
+       "fat": 0,
+       "fiber": 2,
+       "nutrients": {
+        "sugar_g": 17,
+        "vitC_mg": 40,
+        "potassium_mg": 250
+       }
+      },
+      {
+       "food": "Oh Snap! Hottie Bites pickle chips, 3.25 oz pouch (estimated)",
+       "kcal": 15,
+       "protein": 0,
+       "carbs": 3,
+       "fat": 0,
+       "fiber": 1,
+       "nutrients": {
+        "sodium_mg": 750
+       }
+      }
+     ],
+     "note": ""
+    }
+   ],
+   "notes": "",
+   "day_type": "hard"
   }
  }
 }

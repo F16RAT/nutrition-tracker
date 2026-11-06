@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-05T19:15:08-07:00",
+ "last_updated": "2026-11-05T19:15:35-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -2939,28 +2939,39 @@
     {
      "time": "19:14",
      "name": "Dinner (PHO92 chicken shrimp pho and spring rolls)",
-     "note": "Photo-based estimate assuming full large pho and both fresh rolls eaten; dipping sauce not counted pending amount. Restaurant macros unknown.",
+     "note": "Revised from leftover photo: substantial noodles and some chicken left; about 1.5 of 2 rolls eaten. Sauce estimated at 2 tbsp; all portions uncertain.",
      "items": [
       {
-       "food": "Large chicken pho with added shrimp (estimated full bowl)",
-       "kcal": 750,
-       "protein": 65,
-       "carbs": 95,
-       "fat": 12,
-       "fiber": 3,
+       "food": "Chicken pho with added shrimp, portion eaten (estimated; substantial noodles and some chicken left)",
+       "kcal": 450,
+       "protein": 48,
+       "carbs": 45,
+       "fat": 9,
+       "fiber": 2,
        "nutrients": {
-        "sodium_mg": 2300
+        "sodium_mg": 1800
        }
       },
       {
-       "food": "Fresh shrimp and pork rice-paper spring rolls, 2 large (estimated; no dipping sauce)",
-       "kcal": 340,
-       "protein": 20,
-       "carbs": 52,
-       "fat": 6,
-       "fiber": 3,
+       "food": "Fresh shrimp and pork spring rolls, about 1.5 large eaten (estimated)",
+       "kcal": 255,
+       "protein": 15,
+       "carbs": 39,
+       "fat": 4.5,
+       "fiber": 2.3,
        "nutrients": {
-        "sodium_mg": 500
+        "sodium_mg": 375
+       }
+      },
+      {
+       "food": "Spring roll dipping sauce, about 2 tbsp (estimated)",
+       "kcal": 80,
+       "protein": 2,
+       "carbs": 9,
+       "fat": 4,
+       "fiber": 0.5,
+       "nutrients": {
+        "sodium_mg": 250
        }
       }
      ]

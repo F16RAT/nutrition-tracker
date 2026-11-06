@@ -3045,6 +3045,40 @@
       }
      ],
      "note": ""
+    },
+    {
+     "time": "14:50",
+     "name": "Snack (oolong tea, snickerdoodle)",
+     "items": [
+      {
+       "food": "Dragon oolong tea, 12 oz, with ~1 tbsp honey and a splash of milk (estimate)",
+       "kcal": 80,
+       "protein": 0.5,
+       "carbs": 18,
+       "fat": 0.5,
+       "fiber": 0,
+       "nutrients": {
+        "sugar_g": 17,
+        "added_sugar_g": 16,
+        "sodium_mg": 10
+       }
+      },
+      {
+       "food": "Bakery snickerdoodle, large ~4 in (estimate)",
+       "kcal": 340,
+       "protein": 4,
+       "carbs": 48,
+       "fat": 15,
+       "fiber": 1,
+       "nutrients": {
+        "sugar_g": 26,
+        "added_sugar_g": 25,
+        "satfat_g": 8,
+        "sodium_mg": 250
+       }
+      }
+     ],
+     "note": ""
     }
    ],
    "notes": "",

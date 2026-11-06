@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-05T19:53:17-07:00",
+ "last_updated": "2026-11-06T09:06:26-06:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -3007,6 +3007,33 @@
    "notes": "Workout (reported by Fitness Coach, not independently confirmed): 46:18 strength; 240 active kcal / 326 total; avg HR 106.",
    "day_type": "hard",
    "active_kcal": 240
+  },
+  "2026-11-06": {
+   "meals": [
+    {
+     "time": "09:06",
+     "name": "Breakfast (Egg & Avocado toast)",
+     "items": [
+      {
+       "food": "Egg & Avocado Signature Toast (menu: 430 kcal, 16 g protein; carbs/fat/fiber estimated)",
+       "kcal": 430,
+       "protein": 16,
+       "carbs": 38,
+       "fat": 24,
+       "fiber": 7,
+       "nutrients": {
+        "sodium_mg": 650,
+        "satfat_g": 5,
+        "potassium_mg": 550,
+        "cholesterol_mg": 370
+       }
+      }
+     ],
+     "note": ""
+    }
+   ],
+   "notes": "",
+   "day_type": "rest"
   }
  }
 }

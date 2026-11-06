@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-06T09:06:26-06:00",
+ "last_updated": "2026-11-06T09:13:05-06:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -3026,6 +3026,28 @@
         "satfat_g": 5,
         "potassium_mg": 550,
         "cholesterol_mg": 370
+       }
+      }
+     ],
+     "note": ""
+    },
+    {
+     "time": "09:10",
+     "name": "Breakfast (Egg & Avocado toast)",
+     "items": [
+      {
+       "name": "Gladiator smoothie 22 oz + Greek yogurt + banana (estimate)",
+       "kcal": 460,
+       "protein_g": 53,
+       "carbs_g": 50,
+       "fat_g": 6,
+       "fiber_g": 4,
+       "nutrients": {
+        "sodium_mg": 300,
+        "sugar_g": 30,
+        "added_sugar_g": 0,
+        "calcium_mg": 350,
+        "potassium_mg": 700
        }
       }
      ],

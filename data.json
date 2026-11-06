@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-06T09:13:05-06:00",
+ "last_updated": "2026-11-06T15:05:22-08:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -3011,6 +3011,24 @@
   "2026-11-06": {
    "meals": [
     {
+     "time": "08:00",
+     "name": "Supplements (morning)",
+     "items": [
+      {
+       "food": "ProHealth Magnesium Glycinate (1 capsule; 100 mg Mg, 600 mg glycine)",
+       "kcal": 0,
+       "protein": 0,
+       "carbs": 0,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "magnesium_mg": 100
+       }
+      }
+     ],
+     "note": ""
+    },
+    {
      "time": "09:06",
      "name": "Breakfast (Tropical Smoothie: toast + Gladiator)",
      "items": [
@@ -3075,6 +3093,25 @@
         "added_sugar_g": 12.5,
         "satfat_g": 4,
         "sodium_mg": 125
+       }
+      }
+     ],
+     "note": ""
+    },
+    {
+     "time": "16:00",
+     "name": "Supplements",
+     "items": [
+      {
+       "food": "Sports Research D3 + K2 (1 softgel; 125 mcg/5,000 IU D3, 100 mcg K2 as MK-7)",
+       "kcal": 5,
+       "protein": 0,
+       "carbs": 0,
+       "fat": 0.5,
+       "fiber": 0,
+       "nutrients": {
+        "vitd_iu": 5000,
+        "vitk_mcg": 100
        }
       }
      ],

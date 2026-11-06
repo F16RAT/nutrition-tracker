@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-05T18:34:15-07:00",
+ "last_updated": "2026-11-05T19:15:08-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -2935,6 +2935,35 @@
       }
      ],
      "note": ""
+    },
+    {
+     "time": "19:14",
+     "name": "Dinner (PHO92 chicken shrimp pho and spring rolls)",
+     "note": "Photo-based estimate assuming full large pho and both fresh rolls eaten; dipping sauce not counted pending amount. Restaurant macros unknown.",
+     "items": [
+      {
+       "food": "Large chicken pho with added shrimp (estimated full bowl)",
+       "kcal": 750,
+       "protein": 65,
+       "carbs": 95,
+       "fat": 12,
+       "fiber": 3,
+       "nutrients": {
+        "sodium_mg": 2300
+       }
+      },
+      {
+       "food": "Fresh shrimp and pork rice-paper spring rolls, 2 large (estimated; no dipping sauce)",
+       "kcal": 340,
+       "protein": 20,
+       "carbs": 52,
+       "fat": 6,
+       "fiber": 3,
+       "nutrients": {
+        "sodium_mg": 500
+       }
+      }
+     ]
     }
    ],
    "notes": "Workout (reported by Fitness Coach, not independently confirmed): 46:18 strength; 240 active kcal / 326 total; avg HR 106.",

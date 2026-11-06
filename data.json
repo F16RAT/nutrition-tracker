@@ -3064,17 +3064,17 @@
        }
       },
       {
-       "food": "Bakery snickerdoodle, large ~4 in (estimate)",
-       "kcal": 340,
-       "protein": 4,
-       "carbs": 48,
-       "fat": 15,
-       "fiber": 1,
+       "food": "Bakery snickerdoodle, half of a large ~4 in cookie (estimate)",
+       "kcal": 170,
+       "protein": 2,
+       "carbs": 24,
+       "fat": 7.5,
+       "fiber": 0.5,
        "nutrients": {
-        "sugar_g": 26,
-        "added_sugar_g": 25,
-        "satfat_g": 8,
-        "sodium_mg": 250
+        "sugar_g": 13,
+        "added_sugar_g": 12.5,
+        "satfat_g": 4,
+        "sodium_mg": 125
        }
       }
      ],

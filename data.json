@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-05T19:16:16-07:00",
+ "last_updated": "2026-11-05T19:53:17-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -2972,6 +2972,33 @@
        "fiber": 1,
        "nutrients": {
         "sodium_mg": 500
+       }
+      }
+     ]
+    },
+    {
+     "time": "19:52",
+     "name": "Snack (Muscle Milk Pro 42 g shake)",
+     "note": "Full 414 ml bottle consumed; nutrition from label photo.",
+     "items": [
+      {
+       "food": "Muscle Milk Pro chocolate protein shake, 1 bottle (414 ml)",
+       "kcal": 250,
+       "protein": 42,
+       "carbs": 15,
+       "fat": 2.5,
+       "fiber": 2,
+       "nutrients": {
+        "satfat_g": 1.5,
+        "cholesterol_mg": 40,
+        "sodium_mg": 310,
+        "sugar_g": 4,
+        "added_sugar_g": 0,
+        "vitD_mcg": 9,
+        "calcium_mg": 1230,
+        "iron_mg": 0,
+        "potassium_mg": 530,
+        "vita_mcg": 270
        }
       }
      ]

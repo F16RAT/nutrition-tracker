@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-05T19:15:35-07:00",
+ "last_updated": "2026-11-05T19:16:16-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -2939,7 +2939,7 @@
     {
      "time": "19:14",
      "name": "Dinner (PHO92 chicken shrimp pho and spring rolls)",
-     "note": "Revised from leftover photo: substantial noodles and some chicken left; about 1.5 of 2 rolls eaten. Sauce estimated at 2 tbsp; all portions uncertain.",
+     "note": "Very large restaurant portions per Todd. Leftover photo shows substantial noodles and some chicken; about 1.5 rolls eaten. Used most dipping sauce, estimated 4 tbsp. All portions and nutrition approximate.",
      "items": [
       {
        "food": "Chicken pho with added shrimp, portion eaten (estimated; substantial noodles and some chicken left)",
@@ -2964,14 +2964,14 @@
        }
       },
       {
-       "food": "Spring roll dipping sauce, about 2 tbsp (estimated)",
-       "kcal": 80,
-       "protein": 2,
-       "carbs": 9,
-       "fat": 4,
-       "fiber": 0.5,
+       "food": "Spring roll dipping sauce, most of serving, estimated 4 tbsp",
+       "kcal": 160,
+       "protein": 4,
+       "carbs": 18,
+       "fat": 8,
+       "fiber": 1,
        "nutrients": {
-        "sodium_mg": 250
+        "sodium_mg": 500
        }
       }
      ]

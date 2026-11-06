@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-05T18:05:46-05:00",
+ "last_updated": "2026-11-05T18:34:15-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -2937,8 +2937,9 @@
      "note": ""
     }
    ],
-   "notes": "",
-   "day_type": "hard"
+   "notes": "Workout (reported by Fitness Coach, not independently confirmed): 46:18 strength; 240 active kcal / 326 total; avg HR 106.",
+   "day_type": "hard",
+   "active_kcal": 240
   }
  }
 }

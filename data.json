@@ -3012,7 +3012,7 @@
    "meals": [
     {
      "time": "09:06",
-     "name": "Breakfast (Egg & Avocado toast)",
+     "name": "Breakfast (Tropical Smoothie: toast + Gladiator)",
      "items": [
       {
        "food": "Egg & Avocado Signature Toast (menu: 430 kcal, 16 g protein; carbs/fat/fiber estimated)",
@@ -3027,21 +3027,14 @@
         "potassium_mg": 550,
         "cholesterol_mg": 370
        }
-      }
-     ],
-     "note": ""
-    },
-    {
-     "time": "09:10",
-     "name": "Breakfast (Egg & Avocado toast)",
-     "items": [
+      },
       {
-       "name": "Gladiator smoothie 22 oz + Greek yogurt + banana (estimate)",
+       "food": "Gladiator smoothie 22 oz with Greek yogurt and banana (estimate)",
        "kcal": 460,
-       "protein_g": 53,
-       "carbs_g": 50,
-       "fat_g": 6,
-       "fiber_g": 4,
+       "protein": 53,
+       "carbs": 50,
+       "fat": 6,
+       "fiber": 4,
        "nutrients": {
         "sodium_mg": 300,
         "sugar_g": 30,

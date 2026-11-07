@@ -3170,6 +3170,68 @@
    "notes": "Urban walk in Spokane (reported by Fitness Coach): 4.89 mi, 1:44, 431 active / 624 total kcal, 241 ft gain. Light/moderate day.",
    "day_type": "rest",
    "active_kcal": 431
+  },
+  "2026-11-07": {
+   "meals": [
+    {
+     "time": "07:45",
+     "name": "Breakfast (inflight: Bob's Red Mill oatmeal cup)",
+     "note": "",
+     "items": [
+      {
+       "food": "Bob's Red Mill GF oatmeal cup with chia and flax (51 g, label)",
+       "kcal": 210,
+       "protein": 7,
+       "carbs": 33,
+       "fat": 5,
+       "fiber": 7,
+       "nutrients": {
+        "sodium_mg": 160,
+        "potassium_mg": 212,
+        "calcium_mg": 32,
+        "iron_mg": 2
+       }
+      },
+      {
+       "food": "Barney almond butter snack pack (32 g)",
+       "kcal": 180,
+       "protein": 6,
+       "carbs": 6,
+       "fat": 16,
+       "fiber": 3,
+       "nutrients": {
+        "calcium_mg": 80,
+        "magnesium_mg": 80
+       }
+      },
+      {
+       "food": "Banana, medium",
+       "kcal": 105,
+       "protein": 1.3,
+       "carbs": 27,
+       "fat": 0.4,
+       "fiber": 3.1,
+       "nutrients": {
+        "potassium_mg": 422,
+        "magnesium_mg": 32
+       }
+      },
+      {
+       "food": "Green grapes, about 5",
+       "kcal": 17,
+       "protein": 0.2,
+       "carbs": 4.5,
+       "fat": 0,
+       "fiber": 0.2,
+       "nutrients": {
+        "potassium_mg": 45
+       }
+      }
+     ]
+    }
+   ],
+   "notes": "Travel day home to PHX; light recovery day (Fitness Coach: optional 30-40 min incline walk/core).",
+   "day_type": "rest"
   }
  }
 }

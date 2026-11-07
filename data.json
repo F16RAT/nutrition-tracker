@@ -3116,10 +3116,60 @@
       }
      ],
      "note": ""
+    },
+    {
+     "time": "17:20",
+     "name": "Dinner (Clinkerdagger: halibut + Bodhizafa IPA)",
+     "items": [
+      {
+       "food": "Halibut, about 7 oz cooked (estimate)",
+       "kcal": 230,
+       "protein": 45,
+       "carbs": 0,
+       "fat": 5,
+       "fiber": 0,
+       "nutrients": {
+        "sodium_mg": 350
+       }
+      },
+      {
+       "food": "Asparagus, green beans, roasted carrots (restaurant, with oil)",
+       "kcal": 160,
+       "protein": 5,
+       "carbs": 18,
+       "fat": 8,
+       "fiber": 7,
+       "nutrients": {}
+      },
+      {
+       "food": "Caramelized onions, relish, butter sauce (estimate)",
+       "kcal": 160,
+       "protein": 1,
+       "carbs": 10,
+       "fat": 13,
+       "fiber": 1,
+       "nutrients": {
+        "sodium_mg": 300
+       }
+      },
+      {
+       "food": "Bodhizafa IPA, 16 oz (6.9% ABV)",
+       "kcal": 230,
+       "protein": 2,
+       "carbs": 18,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "alcohol_g": 26
+       }
+      }
+     ],
+     "note": "Photo; vegetables instead of the starch."
     }
    ],
-   "notes": "",
-   "day_type": "rest"
+   "notes": "Urban walk in Spokane (reported by Fitness Coach): 4.89 mi, 1:44, 431 active / 624 total kcal, 241 ft gain. Light/moderate day.",
+   "day_type": "rest",
+   "active_kcal": 431
   }
  }
 }

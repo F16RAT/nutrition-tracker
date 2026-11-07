@@ -3228,6 +3228,36 @@
        }
       }
      ]
+    },
+    {
+     "time": "11:50",
+     "name": "Lunch (Spitz: OG Gyro, lamb + 1/2 sweet potato fries)",
+     "note": "Estimates; split fries with Charlotte",
+     "items": [
+      {
+       "food": "Spitz OG Gyro with lamb (pita, veggies, sauce) - estimate",
+       "kcal": 750,
+       "protein": 35,
+       "carbs": 55,
+       "fat": 42,
+       "fiber": 3,
+       "nutrients": {
+        "sodium_mg": 1500
+       }
+      },
+      {
+       "food": "Sweet potato fries, half of a side - estimate",
+       "kcal": 200,
+       "protein": 2,
+       "carbs": 26,
+       "fat": 10,
+       "fiber": 3,
+       "nutrients": {
+        "sodium_mg": 250,
+        "potassium_mg": 350
+       }
+      }
+     ]
     }
    ],
    "notes": "Travel day home to PHX; light recovery day (Fitness Coach: optional 30-40 min incline walk/core).",

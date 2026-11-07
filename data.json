@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-06T15:05:22-08:00",
+ "last_updated": "2026-11-07T16:07:55-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -3230,6 +3230,24 @@
      ]
     },
     {
+     "time": "08:00",
+     "name": "Supplements (morning)",
+     "items": [
+      {
+       "food": "ProHealth Magnesium Glycinate (1 capsule; 100 mg Mg, 600 mg glycine)",
+       "kcal": 0,
+       "protein": 0,
+       "carbs": 0,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "magnesium_mg": 100
+       }
+      }
+     ],
+     "note": ""
+    },
+    {
      "time": "11:50",
      "name": "Lunch (Spitz: OG Gyro, lamb + 1/4 sweet potato fries)",
      "note": "Estimates; ate 1/4 of fries side, no dipping sauce",
@@ -3258,6 +3276,25 @@
        }
       }
      ]
+    },
+    {
+     "time": "16:00",
+     "name": "Supplements",
+     "items": [
+      {
+       "food": "Sports Research D3 + K2 (1 softgel; 125 mcg/5,000 IU D3, 100 mcg K2 as MK-7)",
+       "kcal": 5,
+       "protein": 0,
+       "carbs": 0,
+       "fat": 0.5,
+       "fiber": 0,
+       "nutrients": {
+        "vitd_iu": 5000,
+        "vitk_mcg": 100
+       }
+      }
+     ],
+     "note": ""
     }
    ],
    "notes": "Travel day home to PHX; light recovery day (Fitness Coach: optional 30-40 min incline walk/core).",

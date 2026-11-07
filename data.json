@@ -3231,7 +3231,8 @@
     }
    ],
    "notes": "Travel day home to PHX; light recovery day (Fitness Coach: optional 30-40 min incline walk/core).",
-   "day_type": "rest"
+   "day_type": "rest",
+   "weight_lb": 190.4
   }
  }
 }

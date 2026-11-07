@@ -3231,8 +3231,8 @@
     },
     {
      "time": "11:50",
-     "name": "Lunch (Spitz: OG Gyro, lamb + 1/2 sweet potato fries)",
-     "note": "Estimates; split fries with Charlotte",
+     "name": "Lunch (Spitz: OG Gyro, lamb + 1/4 sweet potato fries)",
+     "note": "Estimates; ate 1/4 of fries side, no dipping sauce",
      "items": [
       {
        "food": "Spitz OG Gyro with lamb (pita, veggies, sauce) - estimate",
@@ -3246,15 +3246,15 @@
        }
       },
       {
-       "food": "Sweet potato fries, half of a side - estimate",
-       "kcal": 200,
-       "protein": 2,
-       "carbs": 26,
-       "fat": 10,
-       "fiber": 3,
+       "food": "Sweet potato fries, quarter of a side, no sauce - estimate",
+       "kcal": 100,
+       "protein": 1,
+       "carbs": 13,
+       "fat": 5,
+       "fiber": 1.5,
        "nutrients": {
-        "sodium_mg": 250,
-        "potassium_mg": 350
+        "sodium_mg": 125,
+        "potassium_mg": 175
        }
       }
      ]

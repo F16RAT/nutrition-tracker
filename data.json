@@ -3461,18 +3461,18 @@
     },
     {
      "time": "11:30",
-     "name": "Lunch (In-N-Out: Double-Double Protein Style + fries + unsweet tea)",
-     "note": "In-N-Out published nutrition",
+     "name": "Lunch (In-N-Out: Double-Double Protein Style w/ mustard + onions, fries, unsweet tea)",
+     "note": "In-N-Out published nutrition, adjusted for mustard instead of spread (~-80 kcal) and onions",
      "items": [
       {
-       "food": "Double-Double, Protein Style (lettuce wrap)",
-       "kcal": 520,
+       "food": "Double-Double, Protein Style, mustard instead of spread, with onions",
+       "kcal": 450,
        "protein": 33,
-       "carbs": 11,
-       "fat": 39,
-       "fiber": 3,
+       "carbs": 13,
+       "fat": 31,
+       "fiber": 3.5,
        "nutrients": {
-        "sodium_mg": 1160
+        "sodium_mg": 1150
        }
       },
       {

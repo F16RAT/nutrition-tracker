@@ -3523,6 +3523,24 @@
               "nutrients": {}
             }
           ]
+        },
+        {
+          "time": "14:40",
+          "name": "Snack",
+          "note": "From photo; about 1 oz serving",
+          "items": [
+            {
+              "food": "Tillamook Country Smoker beef jerky, 1 oz",
+              "kcal": 70,
+              "protein": 14,
+              "carbs": 0,
+              "fat": 1.5,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 500
+              }
+            }
+          ]
         }
       ],
       "notes": "",

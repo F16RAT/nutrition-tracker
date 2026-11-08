@@ -3551,6 +3551,21 @@
                 "vitamin_c_mg": 64,
                 "potassium_mg": 215
               }
+            },
+            {
+              "food": "AG1, 1 scoop (13 g)",
+              "kcal": 40,
+              "protein": 2,
+              "carbs": 6,
+              "fat": 1,
+              "fiber": 2,
+              "nutrients": {
+                "vitamin_b12_mcg": 400,
+                "vitamin_c_mg": 500,
+                "vitamin_a_mcg": 550,
+                "zinc_mg": 20,
+                "vitamin_k_mcg": 90
+              }
             }
           ]
         }

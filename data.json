@@ -3383,9 +3383,10 @@
      ]
     }
    ],
-   "notes": "Travel day home to PHX; light recovery day (Fitness Coach: optional 30-40 min incline walk/core).",
+   "notes": "Travel day home to PHX; light recovery day (Fitness Coach: optional 30-40 min incline walk/core). Recovery walk (reported by Fitness Coach): 2.74 mi, 1:07, 220 active / 345 total kcal, avg HR 87.",
    "day_type": "rest",
-   "weight_lb": 190.4
+   "weight_lb": 190.4,
+   "active_kcal": 220
   }
  }
 }

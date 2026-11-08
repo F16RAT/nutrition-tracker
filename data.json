@@ -3381,6 +3381,59 @@
        }
       }
      ]
+    },
+    {
+     "time": "19:00",
+     "name": "Dinner (home: salmon + grilled zucchini; Greek yogurt + honey)",
+     "note": "Estimates: ~4 oz salmon, 1 cup zucchini w/ 1 tsp oil, ~3/4 cup Fage 5%, ~2 tsp honey",
+     "items": [
+      {
+       "food": "Salmon, small portion (~4 oz cooked)",
+       "kcal": 235,
+       "protein": 25,
+       "carbs": 0,
+       "fat": 14,
+       "fiber": 0,
+       "nutrients": {
+        "omega3_g": 1.8,
+        "vitamin_d_iu": 450,
+        "potassium_mg": 420,
+        "sodium_mg": 200
+       }
+      },
+      {
+       "food": "Grilled zucchini (~1 cup, 1 tsp oil)",
+       "kcal": 60,
+       "protein": 1.5,
+       "carbs": 5,
+       "fat": 4.5,
+       "fiber": 2,
+       "nutrients": {
+        "potassium_mg": 450,
+        "vitamin_c_mg": 20
+       }
+      },
+      {
+       "food": "Fage 5% Greek yogurt (~3/4 cup)",
+       "kcal": 160,
+       "protein": 15,
+       "carbs": 6,
+       "fat": 8.5,
+       "fiber": 0,
+       "nutrients": {
+        "calcium_mg": 170
+       }
+      },
+      {
+       "food": "Honey (~2 tsp)",
+       "kcal": 40,
+       "protein": 0,
+       "carbs": 11,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {}
+      }
+     ]
     }
    ],
    "notes": "Travel day home to PHX; light recovery day (Fitness Coach: optional 30-40 min incline walk/core). Recovery walk (reported by Fitness Coach): 2.74 mi, 1:07, 220 active / 345 total kcal, avg HR 87.",

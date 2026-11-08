@@ -3602,6 +3602,26 @@
               "nutrients": {}
             }
           ]
+        },
+        {
+          "time": "16:05",
+          "name": "Protein shake",
+          "note": "Whey in water",
+          "items": [
+            {
+              "food": "ON Gold Standard Whey (vanilla), 1 scoop in water",
+              "kcal": 120,
+              "protein": 24,
+              "carbs": 4,
+              "fat": 1.5,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 130,
+                "calcium_mg": 130,
+                "potassium_mg": 150
+              }
+            }
+          ]
         }
       ],
       "notes": "",

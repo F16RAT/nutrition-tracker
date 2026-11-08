@@ -3568,6 +3568,40 @@
               }
             }
           ]
+        },
+        {
+          "time": "14:45",
+          "name": "Coffee",
+          "note": "Nespresso Vertuo Barista Creations Pumpkin Spice; splash assumed 2 tbsp",
+          "items": [
+            {
+              "food": "Nespresso Pumpkin Spice flavored coffee",
+              "kcal": 2,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {}
+            },
+            {
+              "food": "Half-and-half, splash (~2 tbsp)",
+              "kcal": 40,
+              "protein": 1,
+              "carbs": 1,
+              "fat": 3.5,
+              "fiber": 0,
+              "nutrients": {}
+            },
+            {
+              "food": "Sugar, 1 tsp",
+              "kcal": 16,
+              "protein": 0,
+              "carbs": 4,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {}
+            }
+          ]
         }
       ],
       "notes": "",

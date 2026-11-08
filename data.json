@@ -3458,6 +3458,44 @@
        "nutrients": {}
       }
      ]
+    },
+    {
+     "time": "11:30",
+     "name": "Lunch (In-N-Out: Double-Double Protein Style + fries + unsweet tea)",
+     "note": "In-N-Out published nutrition",
+     "items": [
+      {
+       "food": "Double-Double, Protein Style (lettuce wrap)",
+       "kcal": 520,
+       "protein": 33,
+       "carbs": 11,
+       "fat": 39,
+       "fiber": 3,
+       "nutrients": {
+        "sodium_mg": 1160
+       }
+      },
+      {
+       "food": "French fries (regular)",
+       "kcal": 370,
+       "protein": 6,
+       "carbs": 52,
+       "fat": 15,
+       "fiber": 6,
+       "nutrients": {
+        "sodium_mg": 245
+       }
+      },
+      {
+       "food": "Unsweetened iced tea",
+       "kcal": 0,
+       "protein": 0,
+       "carbs": 0,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {}
+      }
+     ]
     }
    ],
    "notes": "",

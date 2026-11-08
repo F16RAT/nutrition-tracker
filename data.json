@@ -3539,6 +3539,18 @@
               "nutrients": {
                 "sodium_mg": 500
               }
+            },
+            {
+              "food": "Kiwi, 1 medium",
+              "kcal": 42,
+              "protein": 0.8,
+              "carbs": 10,
+              "fat": 0.4,
+              "fiber": 2.1,
+              "nutrients": {
+                "vitamin_c_mg": 64,
+                "potassium_mg": 215
+              }
             }
           ]
         }

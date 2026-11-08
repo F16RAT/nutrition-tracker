@@ -3440,6 +3440,28 @@
    "day_type": "rest",
    "weight_lb": 190.4,
    "active_kcal": 220
+  },
+  "2026-11-08": {
+   "meals": [
+    {
+     "time": "09:30",
+     "name": "Supplement (Perfect Amino)",
+     "note": "Estimated; blend amounts undisclosed. Occasional use only.",
+     "items": [
+      {
+       "food": "BodyHealth Perfect Amino, 5 tablets (5 g EAA blend, estimated)",
+       "kcal": 20,
+       "protein": 5,
+       "carbs": 0,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {}
+      }
+     ]
+    }
+   ],
+   "notes": "",
+   "day_type": "rest"
   }
  }
 }

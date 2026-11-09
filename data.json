@@ -602,7 +602,7 @@
               "fiber": 0,
               "nutrients": {
                 "choline_mg": 420,
-                "vitd_iu": 120,
+                "vitD_mcg": 3.0,
                 "b12_mcg": 1.8,
                 "iron_mg": 2.7,
                 "selenium_mcg": 45,
@@ -649,7 +649,7 @@
               "nutrients": {
                 "sodium_mg": 200,
                 "potassium_mg": 100,
-                "vitc_mg": 3
+                "vitC_mg": 3
               }
             },
             {
@@ -688,7 +688,7 @@
               "fat": 0.1,
               "fiber": 1,
               "nutrients": {
-                "vitc_mg": 3,
+                "vitC_mg": 3,
                 "potassium_mg": 28
               }
             },
@@ -821,7 +821,7 @@
               "fat": 0.5,
               "fiber": 0,
               "nutrients": {
-                "vitd_iu": 5000,
+                "vitD_mcg": 125.0,
                 "vitk_mcg": 100
               }
             },
@@ -852,7 +852,7 @@
               "fiber": 0,
               "nutrients": {
                 "omega3_g": 3.5,
-                "vitd_iu": 570,
+                "vitD_mcg": 14.2,
                 "b12_mcg": 4.5,
                 "potassium_mg": 700,
                 "magnesium_mg": 45,
@@ -870,7 +870,7 @@
               "fiber": 3,
               "nutrients": {
                 "potassium_mg": 650,
-                "vitc_mg": 20,
+                "vitC_mg": 20,
                 "magnesium_mg": 30,
                 "sodium_mg": 20,
                 "satfat_g": 2
@@ -884,7 +884,7 @@
               "fat": 0.6,
               "fiber": 5,
               "nutrients": {
-                "vitc_mg": 100,
+                "vitC_mg": 100,
                 "vitk_mcg": 220,
                 "calcium_mg": 60,
                 "potassium_mg": 460,
@@ -902,7 +902,7 @@
               "nutrients": {
                 "calcium_mg": 300,
                 "potassium_mg": 370,
-                "vitd_iu": 100,
+                "vitD_mcg": 2.5,
                 "b12_mcg": 1.2,
                 "magnesium_mg": 25,
                 "sodium_mg": 105,
@@ -954,7 +954,7 @@
                 "calcium_mg": 130,
                 "sodium_mg": 55,
                 "sugar_g": 7,
-                "vitd_iu": 40
+                "vitD_mcg": 1.0
               }
             },
             {
@@ -968,7 +968,7 @@
                 "choline_mg": 290,
                 "sodium_mg": 330,
                 "iron_mg": 1.8,
-                "vitd_iu": 80,
+                "vitD_mcg": 2.0,
                 "b12_mcg": 1.2,
                 "calcium_mg": 70,
                 "potassium_mg": 250
@@ -1000,7 +1000,7 @@
               "fat": 0.5,
               "fiber": 0,
               "nutrients": {
-                "vitd_iu": 5000,
+                "vitD_mcg": 125.0,
                 "vitk_mcg": 100
               }
             },
@@ -1058,7 +1058,7 @@
                 "sodium_mg": 650,
                 "potassium_mg": 520,
                 "iron_mg": 1.8,
-                "vitc_mg": 15,
+                "vitC_mg": 15,
                 "zinc_mg": 2.5,
                 "satfat_g": 5
               }
@@ -1075,7 +1075,7 @@
                 "sodium_mg": 480,
                 "potassium_mg": 420,
                 "iron_mg": 1.5,
-                "vitc_mg": 10,
+                "vitC_mg": 10,
                 "satfat_g": 4,
                 "sugar_g": 14
               }
@@ -1090,7 +1090,7 @@
               "nutrients": {
                 "vitk_mcg": 90,
                 "folate_mcg": 100,
-                "vitc_mg": 12,
+                "vitC_mg": 12,
                 "potassium_mg": 350,
                 "sodium_mg": 100
               }
@@ -1190,7 +1190,7 @@
               "fiber": 0.5,
               "nutrients": {
                 "choline_mg": 420,
-                "vitd_iu": 130,
+                "vitD_mcg": 3.2,
                 "b12_mcg": 2.2,
                 "iron_mg": 2.8,
                 "selenium_mcg": 50,
@@ -1208,7 +1208,7 @@
               "fiber": 2.2,
               "nutrients": {
                 "potassium_mg": 440.0,
-                "vitc_mg": 9.9,
+                "vitC_mg": 9.9,
                 "sodium_mg": 192.5,
                 "satfat_g": 1.7
               }
@@ -1292,7 +1292,7 @@
               "fat": 0.5,
               "fiber": 0,
               "nutrients": {
-                "vitd_iu": 5000,
+                "vitD_mcg": 125.0,
                 "vitk_mcg": 100
               }
             },
@@ -1351,7 +1351,7 @@
               "fat": 9.9,
               "fiber": 1.8,
               "nutrients": {
-                "vitc_mg": 22.5,
+                "vitC_mg": 22.5,
                 "vitk_mcg": 54.0,
                 "sodium_mg": 207.0,
                 "sugar_g": 8.1
@@ -1367,7 +1367,7 @@
               "nutrients": {
                 "vitk_mcg": 450.0,
                 "calcium_mg": 144.0,
-                "vitc_mg": 18.0,
+                "vitC_mg": 18.0,
                 "folate_mcg": 81.0,
                 "sodium_mg": 468.0,
                 "potassium_mg": 225.0
@@ -1474,7 +1474,7 @@
                 "choline_mg": 295,
                 "b12_mcg": 1.1,
                 "sodium_mg": 140,
-                "vitd_iu": 80
+                "vitD_mcg": 2.0
               }
             },
             {
@@ -1509,7 +1509,7 @@
               "fiber": 8,
               "nutrients": {
                 "potassium_mg": 520,
-                "vitc_mg": 15,
+                "vitC_mg": 15,
                 "vitk_mcg": 12,
                 "folate_mcg": 40
               }
@@ -1583,7 +1583,7 @@
               "nutrients": {
                 "calcium_mg": 300,
                 "potassium_mg": 370,
-                "vitd_iu": 100
+                "vitD_mcg": 2.5
               }
             },
             {
@@ -1595,7 +1595,7 @@
               "fiber": 3,
               "nutrients": {
                 "potassium_mg": 200,
-                "vitc_mg": 25
+                "vitC_mg": 25
               }
             }
           ],
@@ -1637,7 +1637,7 @@
               "nutrients": {
                 "potassium_mg": 420,
                 "magnesium_mg": 32,
-                "vitc_mg": 10,
+                "vitC_mg": 10,
                 "b6_mg": 0.4
               }
             }
@@ -1656,7 +1656,7 @@
               "fat": 0.5,
               "fiber": 0,
               "nutrients": {
-                "vitd_iu": 5000,
+                "vitD_mcg": 125.0,
                 "vitk_mcg": 100
               }
             },
@@ -1774,7 +1774,7 @@
               "fat": 0.1,
               "fiber": 1,
               "nutrients": {
-                "vitc_mg": 3,
+                "vitC_mg": 3,
                 "vitk_mcg": 7
               }
             },
@@ -1829,7 +1829,7 @@
                 "choline_mg": 300,
                 "b12_mcg": 1.2,
                 "sodium_mg": 200,
-                "vitd_iu": 90
+                "vitD_mcg": 2.2
               }
             },
             {
@@ -1863,7 +1863,7 @@
               "fat": 0.2,
               "fiber": 2,
               "nutrients": {
-                "vitc_mg": 7,
+                "vitC_mg": 7,
                 "vitk_mcg": 15
               }
             },
@@ -1922,7 +1922,7 @@
                 "calcium_mg": 430,
                 "potassium_mg": 520,
                 "sodium_mg": 200,
-                "vitd_iu": 100
+                "vitD_mcg": 2.5
               }
             },
             {
@@ -1992,7 +1992,7 @@
               "fat": 0.5,
               "fiber": 0,
               "nutrients": {
-                "vitd_iu": 5000,
+                "vitD_mcg": 125.0,
                 "vitk_mcg": 100
               }
             },
@@ -2107,7 +2107,7 @@
               "nutrients": {
                 "potassium_mg": 420,
                 "magnesium_mg": 32,
-                "vitc_mg": 10,
+                "vitC_mg": 10,
                 "b6_mg": 0.4
               }
             }
@@ -2129,7 +2129,7 @@
                 "choline_mg": 440,
                 "b12_mcg": 1.5,
                 "sodium_mg": 210,
-                "vitd_iu": 130
+                "vitD_mcg": 3.2
               }
             },
             {
@@ -2187,7 +2187,7 @@
               "fat": 0.5,
               "fiber": 5,
               "nutrients": {
-                "vitc_mg": 20,
+                "vitC_mg": 20,
                 "vitk_mcg": 15,
                 "manganese_mg": 0.6
               }
@@ -2200,7 +2200,7 @@
               "fat": 0.3,
               "fiber": 1.2,
               "nutrients": {
-                "vitc_mg": 25,
+                "vitC_mg": 25,
                 "vita_mcg": 30
               }
             },
@@ -2326,7 +2326,7 @@
               "fat": 0.5,
               "fiber": 0,
               "nutrients": {
-                "vitd_iu": 5000,
+                "vitD_mcg": 125.0,
                 "vitk_mcg": 100
               }
             }
@@ -2484,7 +2484,7 @@
               "fat": 0,
               "fiber": 3,
               "nutrients": {
-                "vitc_mg": 60,
+                "vitC_mg": 60,
                 "potassium_mg": 250,
                 "sugar_g": 16
               }
@@ -2556,7 +2556,7 @@
               "fat": 0.5,
               "fiber": 0,
               "nutrients": {
-                "vitd_iu": 5000,
+                "vitD_mcg": 125.0,
                 "vitk_mcg": 100
               }
             }
@@ -2905,7 +2905,8 @@
               "protein": 0.2,
               "carbs": 6.5,
               "fat": 0,
-              "fiber": 0.3
+              "fiber": 0.3,
+              "nutrients": {}
             },
             {
               "food": "LaCroix lime sparkling water, 1 can",
@@ -2913,7 +2914,8 @@
               "protein": 0,
               "carbs": 0,
               "fat": 0,
-              "fiber": 0
+              "fiber": 0,
+              "nutrients": {}
             }
           ]
         },
@@ -2929,7 +2931,7 @@
               "fat": 0.5,
               "fiber": 0,
               "nutrients": {
-                "vitd_iu": 5000,
+                "vitD_mcg": 125.0,
                 "vitk_mcg": 100
               }
             }
@@ -3110,7 +3112,7 @@
               "fat": 0.5,
               "fiber": 0,
               "nutrients": {
-                "vitd_iu": 5000,
+                "vitD_mcg": 125.0,
                 "vitk_mcg": 100
               }
             }
@@ -3289,7 +3291,7 @@
               "fat": 0.5,
               "fiber": 0,
               "nutrients": {
-                "vitd_iu": 5000,
+                "vitD_mcg": 125.0,
                 "vitk_mcg": 100
               }
             }
@@ -3325,7 +3327,7 @@
                 "calcium_mg": 300,
                 "sodium_mg": 120,
                 "potassium_mg": 380,
-                "vitamin_d_iu": 100
+                "vitD_mcg": 2.5
               }
             },
             {
@@ -3348,7 +3350,7 @@
               "fat": 0.3,
               "fiber": 3,
               "nutrients": {
-                "vitamin_c_mg": 10
+                "vitC_mg": 10
               }
             },
             {
@@ -3372,11 +3374,11 @@
               "fat": 1,
               "fiber": 2,
               "nutrients": {
-                "vitamin_b12_mcg": 400,
-                "vitamin_c_mg": 500,
-                "vitamin_a_mcg": 550,
+                "b12_mcg": 400,
+                "vitC_mg": 500,
+                "vita_mcg": 550,
                 "zinc_mg": 20,
-                "vitamin_k2_mcg": 90,
+                "vitk_mcg": 90,
                 "coq10_mg": 60
               }
             }
@@ -3396,7 +3398,7 @@
               "fiber": 0,
               "nutrients": {
                 "omega3_g": 1.8,
-                "vitamin_d_iu": 450,
+                "vitD_mcg": 11.2,
                 "potassium_mg": 420,
                 "sodium_mg": 200
               }
@@ -3410,7 +3412,7 @@
               "fiber": 2,
               "nutrients": {
                 "potassium_mg": 450,
-                "vitamin_c_mg": 20
+                "vitC_mg": 20
               }
             },
             {
@@ -3566,7 +3568,7 @@
               "fat": 0.4,
               "fiber": 2.1,
               "nutrients": {
-                "vitamin_c_mg": 64,
+                "vitC_mg": 64,
                 "potassium_mg": 215
               }
             },
@@ -3578,11 +3580,11 @@
               "fat": 1,
               "fiber": 2,
               "nutrients": {
-                "vitamin_b12_mcg": 400,
-                "vitamin_c_mg": 500,
-                "vitamin_a_mcg": 550,
+                "b12_mcg": 400,
+                "vitC_mg": 500,
+                "vita_mcg": 550,
                 "zinc_mg": 20,
-                "vitamin_k_mcg": 90
+                "vitk_mcg": 90
               }
             }
           ]
@@ -3633,7 +3635,7 @@
               "fat": 0.5,
               "fiber": 0,
               "nutrients": {
-                "vitd_iu": 5000,
+                "vitD_mcg": 125.0,
                 "vitk_mcg": 100
               }
             }

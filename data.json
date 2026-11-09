@@ -3828,6 +3828,52 @@
             }
           ],
           "note": ""
+        },
+        {
+          "time": "16:35",
+          "name": "Snack",
+          "note": "Two handfuls leftover popcorn ~2 cups",
+          "items": [
+            {
+              "food": "Nespresso fall-flavor coffee",
+              "kcal": 2,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {}
+            },
+            {
+              "food": "Half-and-half, splash (~2 tbsp)",
+              "kcal": 40,
+              "protein": 1,
+              "carbs": 1,
+              "fat": 3.5,
+              "fiber": 0,
+              "nutrients": {}
+            },
+            {
+              "food": "Sugar, 1 tsp",
+              "kcal": 16,
+              "protein": 0,
+              "carbs": 4,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "sugar_g": 4,
+                "added_sugar_g": 4
+              }
+            },
+            {
+              "food": "Leftover popcorn, ~2 cups (coconut oil)",
+              "kcal": 75,
+              "protein": 2,
+              "carbs": 10,
+              "fat": 2.5,
+              "fiber": 2.2,
+              "nutrients": {}
+            }
+          ]
         }
       ],
       "notes": "Gym skipped (PBS bid ran long; right Achilles sore from pickleball). Legs moved to Tue Nov 10 AM.",

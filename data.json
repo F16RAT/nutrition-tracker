@@ -3742,7 +3742,27 @@
       "active_kcal": 700
     },
     "2026-11-09": {
-      "meals": [],
+      "meals": [
+        {
+          "time": "12:00",
+          "name": "First meal at OverEasy (Goodyear)",
+          "note": "No published nutrition; estimated",
+          "items": [
+            {
+              "food": "Fit Chicken: grilled chicken breast, egg whites, avocado, sliced tomato, spicy cottage cheese",
+              "kcal": 500,
+              "protein": 55,
+              "carbs": 15,
+              "fat": 22,
+              "fiber": 6,
+              "nutrients": {
+                "sodium_mg": 1100,
+                "potassium_mg": 1000
+              }
+            }
+          ]
+        }
+      ],
       "notes": "Planned: Strength A legs at EOS.",
       "day_type": "lifting"
     }

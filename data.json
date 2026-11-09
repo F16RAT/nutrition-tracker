@@ -3737,8 +3737,14 @@
           ]
         }
       ],
-      "notes": "",
-      "day_type": "rest"
+      "notes": "Evening: ~2 hr pickleball (not on watch); Fitness Coach estimate 600-800 active kcal, logged 700.",
+      "day_type": "hard",
+      "active_kcal": 700
+    },
+    "2026-11-09": {
+      "meals": [],
+      "notes": "Planned: Strength A legs at EOS.",
+      "day_type": "lifting"
     }
   }
 }

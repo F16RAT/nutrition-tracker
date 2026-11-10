@@ -3874,6 +3874,63 @@
               "nutrients": {}
             }
           ]
+        },
+        {
+          "time": "18:05",
+          "name": "Dinner - Barro's Pizza",
+          "note": "Split with Charlotte: salad, medium pepperoni pizza, 12 dry rub wings. Assumed half the salad, 3 of 8 slices, 6 wings; adjust if different.",
+          "items": [
+            {
+              "food": "Barro's house salad, half share (lettuce, tomato, olives, chickpeas, mushrooms, peppers, sunflower seeds, croutons, ~1.5 oz balsamic-style dressing)",
+              "kcal": 260,
+              "protein": 7,
+              "carbs": 22,
+              "fat": 17,
+              "fiber": 5,
+              "nutrients": {
+                "sodium_mg": 550,
+                "potassium_mg": 400,
+                "satfat_g": 2.5,
+                "sugar_g": 6,
+                "vitC_mg": 25,
+                "iron_mg": 2
+              }
+            },
+            {
+              "food": "Barro's medium pepperoni pizza, 3 slices (est.)",
+              "kcal": 690,
+              "protein": 30,
+              "carbs": 72,
+              "fat": 30,
+              "fiber": 4,
+              "nutrients": {
+                "sodium_mg": 1650,
+                "calcium_mg": 420,
+                "satfat_g": 13,
+                "sugar_g": 6,
+                "iron_mg": 5,
+                "potassium_mg": 330,
+                "zinc_mg": 3.5,
+                "b12_mcg": 1.2
+              }
+            },
+            {
+              "food": "Dry rub wings, 6 (half of 12)",
+              "kcal": 480,
+              "protein": 42,
+              "carbs": 2,
+              "fat": 34,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 1100,
+                "satfat_g": 9.5,
+                "potassium_mg": 350,
+                "zinc_mg": 3,
+                "iron_mg": 1.5,
+                "b12_mcg": 0.6
+              }
+            }
+          ]
         }
       ],
       "notes": "Gym skipped (PBS bid ran long; right Achilles sore from pickleball). Legs moved to Tue Nov 10 AM.",

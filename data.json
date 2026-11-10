@@ -3931,6 +3931,54 @@
               }
             }
           ]
+        },
+        {
+          "time": "19:00",
+          "name": "Evening snack",
+          "note": "Greek yogurt with mixed berries and honey",
+          "items": [
+            {
+              "food": "Plain nonfat Greek yogurt, 3/4 cup",
+              "kcal": 100,
+              "protein": 17,
+              "carbs": 6,
+              "fat": 0.5,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 190,
+                "potassium_mg": 240,
+                "sodium_mg": 60,
+                "sugar_g": 5,
+                "b12_mcg": 1.0,
+                "zinc_mg": 0.9
+              }
+            },
+            {
+              "food": "Mixed berries (blackberries, blueberries, raspberries), 1/2 cup",
+              "kcal": 35,
+              "protein": 0.7,
+              "carbs": 8.5,
+              "fat": 0.3,
+              "fiber": 3.5,
+              "nutrients": {
+                "vitC_mg": 15,
+                "potassium_mg": 95,
+                "sugar_g": 4.5,
+                "magnesium_mg": 10
+              }
+            },
+            {
+              "food": "Honey, ~1 tsp drizzle",
+              "kcal": 20,
+              "protein": 0,
+              "carbs": 6,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "sugar_g": 6
+              }
+            }
+          ]
         }
       ],
       "notes": "Gym skipped (PBS bid ran long; right Achilles sore from pickleball). Legs moved to Tue Nov 10 AM.",

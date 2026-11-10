@@ -4044,6 +4044,142 @@
               }
             }
           ]
+        },
+        {
+          "time": "11:35",
+          "name": "Breakfast",
+          "note": "Home, post-legs",
+          "items": [
+            {
+              "food": "Scrambled eggs: 2 whole + 1 white",
+              "kcal": 160,
+              "protein": 16.2,
+              "carbs": 1,
+              "fat": 9.5,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 180,
+                "satfat_g": 3.1,
+                "b12_mcg": 0.9,
+                "vitD_mcg": 2,
+                "iron_mg": 1.7,
+                "zinc_mg": 1.3,
+                "potassium_mg": 190,
+                "calcium_mg": 56
+              }
+            },
+            {
+              "food": "Dave's Killer Bread 21 Whole Grains, 1 slice (label)",
+              "kcal": 110,
+              "protein": 6,
+              "carbs": 22,
+              "fat": 1.5,
+              "fiber": 4,
+              "nutrients": {
+                "sodium_mg": 170,
+                "calcium_mg": 40,
+                "iron_mg": 1.1,
+                "potassium_mg": 110,
+                "sugar_g": 4,
+                "satfat_g": 0
+              }
+            },
+            {
+              "food": "Butter, ~1 tsp",
+              "kcal": 34,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 3.8,
+              "fiber": 0,
+              "nutrients": {
+                "satfat_g": 2.4,
+                "sodium_mg": 30
+              }
+            },
+            {
+              "food": "Fage Greek yogurt, ~3/4 cup (assumed 5%)",
+              "kcal": 165,
+              "protein": 15,
+              "carbs": 6,
+              "fat": 8.5,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 190,
+                "potassium_mg": 220,
+                "sodium_mg": 55,
+                "satfat_g": 5.5,
+                "sugar_g": 6,
+                "b12_mcg": 0.9
+              }
+            },
+            {
+              "food": "Honey, ~1 tsp",
+              "kcal": 20,
+              "protein": 0,
+              "carbs": 6,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "sugar_g": 6
+              }
+            },
+            {
+              "food": "KIND Healthy Grains Peanut Butter granola, ~1/3 cup (30 g, label)",
+              "kcal": 120,
+              "protein": 5,
+              "carbs": 17,
+              "fat": 4,
+              "fiber": 2,
+              "nutrients": {
+                "sodium_mg": 50,
+                "satfat_g": 0.5,
+                "sugar_g": 5
+              }
+            },
+            {
+              "food": "Mixed berries (raspberry, blueberry, blackberry), ~1/2 cup",
+              "kcal": 35,
+              "protein": 0.7,
+              "carbs": 8.5,
+              "fat": 0.3,
+              "fiber": 3.5,
+              "nutrients": {
+                "vitC_mg": 15,
+                "potassium_mg": 95,
+                "sugar_g": 4.5,
+                "magnesium_mg": 10
+              }
+            },
+            {
+              "food": "Mango, 4 slices (~100 g)",
+              "kcal": 60,
+              "protein": 0.8,
+              "carbs": 15,
+              "fat": 0.4,
+              "fiber": 1.6,
+              "nutrients": {
+                "vitC_mg": 36,
+                "potassium_mg": 168,
+                "sugar_g": 14,
+                "vita_mcg": 54
+              }
+            },
+            {
+              "food": "AG1, 1 scoop",
+              "kcal": 40,
+              "protein": 2,
+              "carbs": 6,
+              "fat": 1,
+              "fiber": 2,
+              "nutrients": {
+                "b12_mcg": 400,
+                "vitC_mg": 500,
+                "vita_mcg": 550,
+                "zinc_mg": 20,
+                "vitk_mcg": 90
+              }
+            }
+          ]
         }
       ],
       "notes": "Strength A legs at EOS, 1:21, 437 active kcal: squat 185 3x8, RDL to 165, leg press, leg curl, step-ups, core. Right Achilles tender but OK. Hard-day tier per Fitness Coach.",

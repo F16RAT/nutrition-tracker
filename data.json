@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-09T16:02:51-07:00",
+ "last_updated": "2026-11-10T16:08:37-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -3987,6 +3987,24 @@
   "2026-11-10": {
    "meals": [
     {
+     "time": "08:00",
+     "name": "Supplements (morning)",
+     "items": [
+      {
+       "food": "ProHealth Magnesium Glycinate (1 capsule; 100 mg Mg, 600 mg glycine)",
+       "kcal": 0,
+       "protein": 0,
+       "carbs": 0,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "magnesium_mg": 100
+       }
+      }
+     ],
+     "note": ""
+    },
+    {
      "time": "08:45",
      "name": "Pre-workout snack",
      "note": "Before legs at EOS",
@@ -4262,6 +4280,25 @@
        }
       }
      ]
+    },
+    {
+     "time": "16:00",
+     "name": "Supplements",
+     "items": [
+      {
+       "food": "Sports Research D3 + K2 (1 softgel; 125 mcg/5,000 IU D3, 100 mcg K2 as MK-7)",
+       "kcal": 5,
+       "protein": 0,
+       "carbs": 0,
+       "fat": 0.5,
+       "fiber": 0,
+       "nutrients": {
+        "vitD_mcg": 125,
+        "vitk_mcg": 100
+       }
+      }
+     ],
+     "note": ""
     }
    ],
    "notes": "Strength A legs at EOS, 1:21, 437 active kcal: squat 185 3x8, RDL to 165, leg press, leg curl, step-ups, core. Right Achilles tender but OK. Hard-day tier per Fitness Coach.",

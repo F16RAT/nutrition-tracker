@@ -3987,7 +3987,8 @@
     "2026-11-10": {
       "meals": [],
       "notes": "Planned: Strength A legs in the morning before reserve.",
-      "day_type": "lifting"
+      "day_type": "lifting",
+      "weight_lb": 192
     }
   }
 }

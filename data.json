@@ -4024,6 +4024,26 @@
               }
             }
           ]
+        },
+        {
+          "time": "11:10",
+          "name": "Post-workout shake",
+          "note": "Whey in water",
+          "items": [
+            {
+              "food": "Optimum Nutrition Gold Standard Whey (vanilla), 1 scoop in water",
+              "kcal": 120,
+              "protein": 24,
+              "carbs": 4,
+              "fat": 1.5,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 130,
+                "calcium_mg": 130,
+                "potassium_mg": 150
+              }
+            }
+          ]
         }
       ],
       "notes": "Strength A legs at EOS, 1:21, 437 active kcal: squat 185 3x8, RDL to 165, leg press, leg curl, step-ups, core. Right Achilles tender but OK. Hard-day tier per Fitness Coach.",

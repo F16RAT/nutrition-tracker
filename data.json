@@ -4184,7 +4184,7 @@
     {
      "time": "14:45",
      "name": "Snack",
-     "note": "Watermelon, ~1.5 cups cubed (sprinkle assumed salt, not counted)",
+     "note": "Watermelon, ~1.5 cups cubed, with a pinch of Celtic sea salt",
      "items": [
       {
        "food": "Watermelon, ~1.5 cups (230 g)",
@@ -4202,6 +4202,18 @@
         "calcium_mg": 16,
         "iron_mg": 0.6,
         "sodium_mg": 2
+       }
+      },
+      {
+       "food": "Celtic sea salt, pinch (~1/8 tsp)",
+       "kcal": 0,
+       "protein": 0,
+       "carbs": 0,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "sodium_mg": 230,
+        "magnesium_mg": 3
        }
       }
      ]

@@ -4026,9 +4026,10 @@
           ]
         }
       ],
-      "notes": "Planned: Strength A legs in the morning before reserve.",
-      "day_type": "lifting",
-      "weight_lb": 192
+      "notes": "Strength A legs at EOS, 1:21, 437 active kcal: squat 185 3x8, RDL to 165, leg press, leg curl, step-ups, core. Right Achilles tender but OK. Hard-day tier per Fitness Coach.",
+      "day_type": "hard",
+      "weight_lb": 192,
+      "active_kcal": 437
     }
   }
 }

@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-10T16:08:37-07:00",
+ "last_updated": "2026-11-11T17:08:58-06:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -4357,6 +4357,24 @@
   "2026-11-11": {
    "meals": [
     {
+     "time": "08:00",
+     "name": "Supplements (morning)",
+     "items": [
+      {
+       "food": "ProHealth Magnesium Glycinate (1 capsule; 100 mg Mg, 600 mg glycine)",
+       "kcal": 0,
+       "protein": 0,
+       "carbs": 0,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "magnesium_mg": 100
+       }
+      }
+     ],
+     "note": ""
+    },
+    {
      "time": "13:15",
      "name": "Lunch (Zaza Cuban Caf\u00e9, MCO)",
      "note": "Chicken Cuban bowl, light rice and ate only half of that; caf\u00e9 con leche 12 oz light sugar. Estimates, no published nutrition.",
@@ -4397,6 +4415,25 @@
        }
       }
      ]
+    },
+    {
+     "time": "16:00",
+     "name": "Supplements",
+     "items": [
+      {
+       "food": "Sports Research D3 + K2 (1 softgel; 125 mcg/5,000 IU D3, 100 mcg K2 as MK-7)",
+       "kcal": 5,
+       "protein": 0,
+       "carbs": 0,
+       "fat": 0.5,
+       "fiber": 0,
+       "nutrients": {
+        "vitD_mcg": 125,
+        "vitk_mcg": 100
+       }
+      }
+     ],
+     "note": ""
     },
     {
      "time": "16:50",

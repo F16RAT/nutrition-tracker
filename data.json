@@ -4299,6 +4299,54 @@
       }
      ],
      "note": ""
+    },
+    {
+     "time": "17:00",
+     "name": "Dinner (Panda Express)",
+     "note": "Double chicken + Super Greens; assumed Grilled Teriyaki + String Bean Chicken (confirm entrees)",
+     "items": [
+      {
+       "food": "Grilled Teriyaki Chicken (Panda)",
+       "kcal": 300,
+       "protein": 36,
+       "carbs": 8,
+       "fat": 13,
+       "fiber": 0,
+       "nutrients": {
+        "sodium_mg": 530,
+        "satfat_g": 3.5,
+        "sugar_g": 8
+       }
+      },
+      {
+       "food": "String Bean Chicken Breast (Panda)",
+       "kcal": 210,
+       "protein": 12,
+       "carbs": 13,
+       "fat": 12,
+       "fiber": 4,
+       "nutrients": {
+        "sodium_mg": 590,
+        "satfat_g": 2,
+        "sugar_g": 4
+       }
+      },
+      {
+       "food": "Super Greens (Panda)",
+       "kcal": 90,
+       "protein": 6,
+       "carbs": 10,
+       "fat": 3,
+       "fiber": 5,
+       "nutrients": {
+        "sodium_mg": 260,
+        "satfat_g": 0.5,
+        "sugar_g": 3,
+        "vitC_mg": 60,
+        "calcium_mg": 80
+       }
+      }
+     ]
     }
    ],
    "notes": "Strength A legs at EOS, 1:21, 437 active kcal: squat 185 3x8, RDL to 165, leg press, leg curl, step-ups, core. Right Achilles tender but OK. Hard-day tier per Fitness Coach.",

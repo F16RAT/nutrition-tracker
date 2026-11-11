@@ -4397,6 +4397,31 @@
        }
       }
      ]
+    },
+    {
+     "time": "16:50",
+     "name": "Nekter Protein Power bowl (DFW Term B)",
+     "note": "Nekter 2025 nutrition guide; $15.25; sat fat estimated",
+     "items": [
+      {
+       "name": "Nekter Protein Power bowl",
+       "kcal": 620,
+       "protein": 32,
+       "carbs": 76,
+       "fat": 22,
+       "fiber": 16,
+       "nutrients": {
+        "sugar_g": 32,
+        "sodium_mg": 117,
+        "satfat_g": 6,
+        "potassium_mg": 900,
+        "magnesium_mg": 120,
+        "calcium_mg": 150,
+        "iron_mg": 3,
+        "vitC_mg": 60
+       }
+      }
+     ]
     }
    ],
    "notes": " Travel day MCO-DFW-BUF (times ET); light/rest day; no AG1.",

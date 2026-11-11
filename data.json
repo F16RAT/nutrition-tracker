@@ -4353,6 +4353,54 @@
    "day_type": "hard",
    "weight_lb": 192,
    "active_kcal": 437
+  },
+  "2026-11-11": {
+   "meals": [
+    {
+     "time": "13:15",
+     "name": "Lunch (Zaza Cuban Caf\u00e9, MCO)",
+     "note": "Chicken Cuban bowl, light rice and ate only half of that; caf\u00e9 con leche 12 oz light sugar. Estimates, no published nutrition.",
+     "items": [
+      {
+       "food": "Zaza Chicken Cuban Bowl, light rice, ate half the rice (chicken, black beans, maduros, veg)",
+       "kcal": 500,
+       "protein": 39,
+       "carbs": 52,
+       "fat": 15,
+       "fiber": 9,
+       "nutrients": {
+        "sodium_mg": 1050,
+        "potassium_mg": 880,
+        "satfat_g": 3.5,
+        "sugar_g": 12,
+        "iron_mg": 3.3,
+        "magnesium_mg": 75,
+        "vitC_mg": 15,
+        "vita_mcg": 40
+       }
+      },
+      {
+       "food": "Caf\u00e9 con leche, 12 oz, light sugar",
+       "kcal": 170,
+       "protein": 8,
+       "carbs": 20,
+       "fat": 6,
+       "fiber": 0,
+       "nutrients": {
+        "calcium_mg": 280,
+        "potassium_mg": 380,
+        "sodium_mg": 110,
+        "sugar_g": 19,
+        "satfat_g": 3.5,
+        "b12_mcg": 1.1,
+        "vitD_mcg": 2.5
+       }
+      }
+     ]
+    }
+   ],
+   "notes": " Travel day MCO-DFW-BUF (times ET); light/rest day; no AG1.",
+   "day_type": "rest"
   }
  }
 }

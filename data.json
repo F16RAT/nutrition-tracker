@@ -4492,7 +4492,54 @@
    "active_kcal": 285
   },
   "2026-11-12": {
-   "meals": [],
+   "meals": [
+    {
+     "time": "12:45",
+     "name": "Jacks Corner Cafe (Buffalo)",
+     "note": "Cappuccino whole milk ~12 oz + 1 sugar packet; iced tea unsweetened (estimate)",
+     "items": [
+      {
+       "name": "Cappuccino (whole milk, ~12 oz)",
+       "kcal": 130,
+       "protein": 7,
+       "carbs": 10,
+       "fat": 7,
+       "fiber": 0,
+       "nutrients": {
+        "calcium_mg": 250,
+        "potassium_mg": 320,
+        "sodium_mg": 100,
+        "sugar_g": 10,
+        "satfat_g": 4.5,
+        "b12_mcg": 1.0,
+        "vitD_mcg": 2
+       }
+      },
+      {
+       "name": "Sugar, 1 packet",
+       "kcal": 15,
+       "protein": 0,
+       "carbs": 4,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "sugar_g": 4
+       }
+      },
+      {
+       "name": "Iced tea, unsweetened",
+       "kcal": 0,
+       "protein": 0,
+       "carbs": 0,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "potassium_mg": 40
+       }
+      }
+     ]
+    }
+   ],
    "day_type": "lifting",
    "notes": "Buffalo layover; hotel Strength B planned (~50-60 min, no calf raises, R Achilles stiff). No AG1 (travel)."
   }

@@ -4461,8 +4461,9 @@
      ]
     }
    ],
-   "notes": " Travel day MCO-DFW-BUF (times ET); light/rest day; no AG1.",
-   "day_type": "rest"
+   "notes": " Travel day MCO-DFW-BUF (times ET); light/rest day; no AG1. Skipped AM workout; walked DFW terminal 1:25:51, 2.90 mi, 285 active kcal (Fitness Coach).",
+   "day_type": "rest",
+   "active_kcal": 285
   }
  }
 }

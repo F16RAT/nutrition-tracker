@@ -4459,6 +4459,32 @@
        }
       }
      ]
+    },
+    {
+     "time": "19:30",
+     "name": "Santa Fe wrap (DFW grab-and-go, eaten on plane)",
+     "note": "Label lists ingredients only (no nutrition facts); estimate for whole wrap: grilled chicken, black beans, onion, pepper, chipotle aioli, flour tortilla; $14.99",
+     "items": [
+      {
+       "name": "All Natural Santa Fe Wrap",
+       "kcal": 650,
+       "protein": 40,
+       "carbs": 58,
+       "fat": 27,
+       "fiber": 7,
+       "nutrients": {
+        "sodium_mg": 1400,
+        "satfat_g": 6,
+        "potassium_mg": 650,
+        "iron_mg": 3.5,
+        "calcium_mg": 120,
+        "magnesium_mg": 70,
+        "sugar_g": 5,
+        "zinc_mg": 2,
+        "b12_mcg": 0.4
+       }
+      }
+     ]
     }
    ],
    "notes": " Travel day MCO-DFW-BUF (times ET); light/rest day; no AG1. Skipped AM workout; walked DFW terminal 1:25:51, 2.90 mi, 285 active kcal (Fitness Coach).",

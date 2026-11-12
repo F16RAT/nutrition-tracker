@@ -4663,6 +4663,39 @@
        }
       }
      ]
+    },
+    {
+     "time": "18:15",
+     "name": "Buffalo Golf & Social",
+     "note": "2 Dayburner IPAs",
+     "items": [
+      {
+       "name": "Big Ditch Dayburner IPA, 12 oz can (est.)",
+       "kcal": 170,
+       "protein": 2,
+       "carbs": 14,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "alcohol_g": 15,
+        "sodium_mg": 15,
+        "potassium_mg": 100
+       }
+      },
+      {
+       "name": "Big Ditch Dayburner IPA, 12 oz can (est.)",
+       "kcal": 170,
+       "protein": 2,
+       "carbs": 14,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "alcohol_g": 15,
+        "sodium_mg": 15,
+        "potassium_mg": 100
+       }
+      }
+     ]
     }
    ],
    "day_type": "lifting",

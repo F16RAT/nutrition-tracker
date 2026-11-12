@@ -4538,6 +4538,69 @@
        }
       }
      ]
+    },
+    {
+     "time": "12:55",
+     "name": "Jacks Corner Cafe breakfast (Buffalo)",
+     "note": "Classic Jack w/ fruit instead of hash browns: 3 fried eggs, 2 bacon, sourdough toast (4 halves ~2 large slices), fruit cup (estimate)",
+     "items": [
+      {
+       "name": "Fried eggs x3",
+       "kcal": 270,
+       "protein": 19,
+       "carbs": 1,
+       "fat": 21,
+       "fiber": 0,
+       "nutrients": {
+        "sodium_mg": 300,
+        "satfat_g": 6,
+        "b12_mcg": 1.4,
+        "vitD_mcg": 3,
+        "iron_mg": 2.6,
+        "zinc_mg": 2,
+        "vita_mcg": 240,
+        "calcium_mg": 80
+       }
+      },
+      {
+       "name": "Bacon, 2 thick slices",
+       "kcal": 110,
+       "protein": 8,
+       "carbs": 0,
+       "fat": 8,
+       "fiber": 0,
+       "nutrients": {
+        "sodium_mg": 400,
+        "satfat_g": 3
+       }
+      },
+      {
+       "name": "Sourdough toast (~2 large slices)",
+       "kcal": 320,
+       "protein": 12,
+       "carbs": 62,
+       "fat": 3,
+       "fiber": 3,
+       "nutrients": {
+        "sodium_mg": 620,
+        "iron_mg": 3.5,
+        "sugar_g": 2
+       }
+      },
+      {
+       "name": "Fresh fruit cup (melon, berries, grapes)",
+       "kcal": 70,
+       "protein": 1,
+       "carbs": 18,
+       "fat": 0,
+       "fiber": 2,
+       "nutrients": {
+        "vitC_mg": 45,
+        "potassium_mg": 300,
+        "sugar_g": 15
+       }
+      }
+     ]
     }
    ],
    "day_type": "lifting",

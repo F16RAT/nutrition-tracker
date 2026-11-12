@@ -4601,6 +4601,31 @@
        }
       }
      ]
+    },
+    {
+     "time": "17:15",
+     "name": "Fresh Catch Poke (Buffalo)",
+     "note": "Flaming tuna bowl, no spicy mayo, half rice per usual (estimate)",
+     "items": [
+      {
+       "name": "Flaming tuna poke bowl, half rice, no spicy mayo",
+       "kcal": 480,
+       "protein": 38,
+       "carbs": 55,
+       "fat": 10,
+       "fiber": 4,
+       "nutrients": {
+        "sodium_mg": 1100,
+        "omega3_g": 0.5,
+        "b12_mcg": 3,
+        "vitD_mcg": 2,
+        "potassium_mg": 600,
+        "iron_mg": 2,
+        "sugar_g": 8,
+        "satfat_g": 1.5
+       }
+      }
+     ]
     }
    ],
    "day_type": "lifting",

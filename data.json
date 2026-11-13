@@ -4801,6 +4801,29 @@
        }
       }
      ]
+    },
+    {
+     "time": "10:05",
+     "name": "Panera DFW Terminal A",
+     "note": "",
+     "items": [
+      {
+       "name": "Panera steel-cut oatmeal with strawberries & pecans (est.)",
+       "kcal": 360,
+       "protein": 8,
+       "carbs": 52,
+       "fat": 15,
+       "fiber": 7,
+       "nutrients": {
+        "sodium_mg": 160,
+        "satfat_g": 2,
+        "sugar_g": 18,
+        "iron_mg": 2.5,
+        "magnesium_mg": 80,
+        "potassium_mg": 350
+       }
+      }
+     ]
     }
    ],
    "notes": "",

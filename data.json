@@ -4752,6 +4752,59 @@
    "day_type": "lifting",
    "notes": "Buffalo layover; hotel Strength B planned (~50-60 min, no calf raises, R Achilles stiff). No AG1 (travel). Done: hotel Strength B 1:15:05, 386 active kcal, avg HR 104 (Fitness Coach).",
    "active_kcal": 386
+  },
+  "2026-11-13": {
+   "meals": [
+    {
+     "time": "09:37",
+     "name": "Starbucks DFW Terminal A",
+     "note": "travel day, no AG1",
+     "items": [
+      {
+       "name": "Starbucks Bacon & Gruy\u00e8re egg bites (2)",
+       "kcal": 300,
+       "protein": 19,
+       "carbs": 9,
+       "fat": 20,
+       "fiber": 0,
+       "nutrients": {
+        "sodium_mg": 680,
+        "satfat_g": 12,
+        "sugar_g": 2,
+        "calcium_mg": 300
+       }
+      },
+      {
+       "name": "Flat white, grande, whole milk (est.)",
+       "kcal": 170,
+       "protein": 9,
+       "carbs": 15,
+       "fat": 9,
+       "fiber": 0,
+       "nutrients": {
+        "sodium_mg": 125,
+        "satfat_g": 5,
+        "sugar_g": 14,
+        "calcium_mg": 300,
+        "potassium_mg": 400
+       }
+      },
+      {
+       "name": "Sugar In The Raw, 1 packet",
+       "kcal": 20,
+       "protein": 0,
+       "carbs": 5,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "sugar_g": 5
+       }
+      }
+     ]
+    }
+   ],
+   "notes": "",
+   "day_type": "rest"
   }
  }
 }

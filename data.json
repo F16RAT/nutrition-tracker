@@ -4696,6 +4696,36 @@
        }
       }
      ]
+    },
+    {
+     "time": "19:00",
+     "name": "Evening protein",
+     "note": "from Downtown Food Mart",
+     "items": [
+      {
+       "name": "Ensure Max Protein French Vanilla, 11 fl oz",
+       "kcal": 150,
+       "protein": 30,
+       "carbs": 6,
+       "fat": 2,
+       "fiber": 4,
+       "nutrients": {
+        "sodium_mg": 230,
+        "satfat_g": 0.5,
+        "sugar_g": 1,
+        "vitD_mcg": 11,
+        "calcium_mg": 650,
+        "iron_mg": 2.7,
+        "potassium_mg": 390,
+        "magnesium_mg": 105,
+        "zinc_mg": 5,
+        "vitC_mg": 45,
+        "b12_mcg": 0.6,
+        "vita_mcg": 270,
+        "vitk_mcg": 24
+       }
+      }
+     ]
     }
    ],
    "day_type": "lifting",

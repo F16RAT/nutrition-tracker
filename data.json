@@ -4726,6 +4726,27 @@
        }
       }
      ]
+    },
+    {
+     "time": "19:20",
+     "name": "Hotel snack",
+     "note": "",
+     "items": [
+      {
+       "name": "Chobani Greek yogurt, blueberry on the bottom, 5.3 oz",
+       "kcal": 110,
+       "protein": 12,
+       "carbs": 15,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "sodium_mg": 50,
+        "sugar_g": 12,
+        "calcium_mg": 130,
+        "potassium_mg": 180
+       }
+      }
+     ]
     }
    ],
    "day_type": "lifting",

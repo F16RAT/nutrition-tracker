@@ -4828,24 +4828,24 @@
     {
      "time": "13:20",
      "name": "Lunch at home",
-     "note": "Tuna salad sandwich on wheat with spinach, Fritos scoops (photo estimate)",
+     "note": "Chicken salad sandwich on wheat with spinach, Fritos scoops (photo estimate)",
      "items": [
       {
-       "name": "Tuna salad sandwich, whole wheat, spinach (est. 5 oz tuna w/ mayo)",
-       "kcal": 480,
-       "protein": 34,
+       "name": "Chicken salad sandwich, whole wheat, spinach (est. 4 oz chicken w/ mayo)",
+       "kcal": 500,
+       "protein": 32,
        "carbs": 30,
-       "fat": 24,
+       "fat": 27,
        "fiber": 5,
        "nutrients": {
-        "sodium_mg": 800,
-        "omega3_g": 0.6,
-        "iron_mg": 3,
-        "b12_mcg": 2.5,
-        "satfat_g": 4,
+        "sodium_mg": 750,
+        "iron_mg": 2.5,
+        "b12_mcg": 0.4,
+        "satfat_g": 4.5,
         "sugar_g": 5,
         "vitk_mcg": 120,
-        "potassium_mg": 450
+        "potassium_mg": 450,
+        "zinc_mg": 2
        }
       },
       {

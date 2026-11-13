@@ -4860,6 +4860,21 @@
         "satfat_g": 1.5,
         "potassium_mg": 40
        }
+      },
+      {
+       "name": "AG1, 1 scoop (13 g)",
+       "kcal": 40,
+       "protein": 2,
+       "carbs": 6,
+       "fat": 1,
+       "fiber": 2,
+       "nutrients": {
+        "b12_mcg": 400,
+        "vitC_mg": 500,
+        "vita_mcg": 550,
+        "zinc_mg": 20,
+        "vitk_mcg": 90
+       }
       }
      ]
     }

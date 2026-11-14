@@ -5027,7 +5027,35 @@
    "weight_lb": 191.2
   },
   "2026-11-14": {
-   "meals": [],
+   "meals": [
+    {
+     "time": "09:05",
+     "name": "Breakfast: Olive & Ivy PHX",
+     "note": "Egg sandwich, no mayo, no potatoes (estimate)",
+     "items": [
+      {
+       "name": "Egg sandwich: egg, bacon, American cheese, avocado, brioche, no mayo",
+       "kcal": 540,
+       "protein": 26,
+       "carbs": 36,
+       "fat": 31,
+       "fiber": 4,
+       "nutrients": {
+        "sodium_mg": 1050,
+        "satfat_g": 11,
+        "calcium_mg": 200,
+        "iron_mg": 3,
+        "potassium_mg": 400,
+        "b12_mcg": 1,
+        "vitD_mcg": 1.5,
+        "sugar_g": 6,
+        "vita_mcg": 150,
+        "vitk_mcg": 12
+       }
+      }
+     ]
+    }
+   ],
    "day_type": "rest"
   }
  }

@@ -5093,7 +5093,7 @@
     {
      "time": "15:30",
      "name": "Lunch (travel)",
-     "note": "Chobani protein drink + chicken Caesar wrap (label: ~1,213 kcal/package, 284 kcal/100 g; whole package assumed)",
+     "note": "Chobani protein drink + chicken Caesar wrap (label: ~1,213 kcal/package, 284 kcal/100 g; ate half)",
      "items": [
       {
        "name": "Chobani Greek yogurt drink, strawberries & cream, 10 oz",
@@ -5114,19 +5114,19 @@
        }
       },
       {
-       "name": "Wrap de pollo C\u00e9sar, whole package (~427 g)",
-       "kcal": 1213,
-       "protein": 64,
-       "carbs": 77,
-       "fat": 77,
-       "fiber": 4,
+       "name": "Wrap de pollo C\u00e9sar, half package (~213 g)",
+       "kcal": 606.5,
+       "protein": 32.0,
+       "carbs": 38.5,
+       "fat": 38.5,
+       "fiber": 2.0,
        "nutrients": {
-        "sodium_mg": 1500,
-        "satfat_g": 13,
-        "calcium_mg": 300,
-        "iron_mg": 4,
-        "potassium_mg": 700,
-        "sugar_g": 4
+        "sodium_mg": 750.0,
+        "satfat_g": 6.5,
+        "calcium_mg": 150.0,
+        "iron_mg": 2.0,
+        "potassium_mg": 350.0,
+        "sugar_g": 2.0
        }
       }
      ]

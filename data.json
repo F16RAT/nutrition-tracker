@@ -5056,6 +5056,41 @@
      ]
     },
     {
+     "time": "12:30",
+     "name": "Snack",
+     "note": "4 pieces jerky + 12 almonds (estimate)",
+     "items": [
+      {
+       "name": "Beef jerky, 4 pieces (~1 oz)",
+       "kcal": 80,
+       "protein": 12,
+       "carbs": 5,
+       "fat": 1,
+       "fiber": 0,
+       "nutrients": {
+        "sodium_mg": 500,
+        "iron_mg": 1.5,
+        "zinc_mg": 2,
+        "sugar_g": 4
+       }
+      },
+      {
+       "name": "Almonds, 12",
+       "kcal": 85,
+       "protein": 3,
+       "carbs": 3,
+       "fat": 7,
+       "fiber": 1.8,
+       "nutrients": {
+        "magnesium_mg": 40,
+        "calcium_mg": 38,
+        "potassium_mg": 100,
+        "satfat_g": 0.5
+       }
+      }
+     ]
+    },
+    {
      "time": "15:30",
      "name": "Lunch (travel)",
      "note": "Chobani protein drink + chicken Caesar wrap (label: ~1,213 kcal/package, 284 kcal/100 g; whole package assumed)",

@@ -4914,6 +4914,41 @@
       }
      ],
      "note": ""
+    },
+    {
+     "time": "17:00",
+     "name": "Afternoon snack",
+     "note": "Few pieces jerky + handful almonds (estimate)",
+     "items": [
+      {
+       "name": "Beef jerky, ~1 oz",
+       "kcal": 80,
+       "protein": 12,
+       "carbs": 5,
+       "fat": 1,
+       "fiber": 0,
+       "nutrients": {
+        "sodium_mg": 500,
+        "iron_mg": 1.5,
+        "zinc_mg": 2,
+        "sugar_g": 4
+       }
+      },
+      {
+       "name": "Almonds, ~1 oz handful",
+       "kcal": 165,
+       "protein": 6,
+       "carbs": 6,
+       "fat": 14,
+       "fiber": 3.5,
+       "nutrients": {
+        "magnesium_mg": 77,
+        "calcium_mg": 75,
+        "potassium_mg": 200,
+        "satfat_g": 1
+       }
+      }
+     ]
     }
    ],
    "notes": "",

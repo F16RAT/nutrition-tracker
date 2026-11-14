@@ -4949,6 +4949,31 @@
        }
       }
      ]
+    },
+    {
+     "time": "18:15",
+     "name": "Dinner: PT Noodle",
+     "note": "Brisket pho (estimate: half noodles, partial broth assumed)",
+     "items": [
+      {
+       "name": "Brisket pho, ~half noodles, partial broth",
+       "kcal": 480,
+       "protein": 32,
+       "carbs": 50,
+       "fat": 15,
+       "fiber": 3,
+       "nutrients": {
+        "sodium_mg": 1600,
+        "iron_mg": 4,
+        "zinc_mg": 6,
+        "b12_mcg": 2.5,
+        "satfat_g": 6,
+        "potassium_mg": 600,
+        "vitC_mg": 10,
+        "vitk_mcg": 40
+       }
+      }
+     ]
     }
    ],
    "notes": "",

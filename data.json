@@ -4974,6 +4974,52 @@
        }
       }
      ]
+    },
+    {
+     "time": "19:15",
+     "name": "Evening snack",
+     "note": "Greek yogurt with berries and honey (estimate: 3/4 cup plain nonfat, 1/2 cup berries, 1 tsp honey)",
+     "items": [
+      {
+       "name": "Plain nonfat Greek yogurt, 3/4 cup",
+       "kcal": 100,
+       "protein": 17,
+       "carbs": 6,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "calcium_mg": 200,
+        "potassium_mg": 240,
+        "b12_mcg": 0.9,
+        "sodium_mg": 60,
+        "sugar_g": 5
+       }
+      },
+      {
+       "name": "Mixed berries, 1/2 cup",
+       "kcal": 40,
+       "protein": 0.5,
+       "carbs": 10,
+       "fat": 0.3,
+       "fiber": 3,
+       "nutrients": {
+        "vitC_mg": 25,
+        "potassium_mg": 100,
+        "sugar_g": 6
+       }
+      },
+      {
+       "name": "Honey, 1 tsp",
+       "kcal": 21,
+       "protein": 0,
+       "carbs": 6,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "sugar_g": 6
+       }
+      }
+     ]
     }
    ],
    "notes": "",

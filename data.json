@@ -5167,6 +5167,48 @@
       }
      ],
      "note": ""
+    },
+    {
+     "time": "21:35",
+     "name": "Dinner: Aces",
+     "note": "Roasted salmon piccata, sauce on side (light use), garlic spinach + 1 beer (estimates)",
+     "items": [
+      {
+       "name": "Roasted salmon piccata (~6 oz), lemon butter sauce on side, garlic spinach",
+       "kcal": 500,
+       "protein": 40,
+       "carbs": 8,
+       "fat": 33,
+       "fiber": 3,
+       "nutrients": {
+        "omega3_g": 2.5,
+        "vitD_mcg": 12,
+        "b12_mcg": 4.5,
+        "potassium_mg": 1100,
+        "sodium_mg": 700,
+        "satfat_g": 9,
+        "iron_mg": 3.5,
+        "magnesium_mg": 120,
+        "calcium_mg": 150,
+        "vita_mcg": 450,
+        "vitk_mcg": 400,
+        "vitC_mg": 15
+       }
+      },
+      {
+       "name": "Beer, 12 oz (est.)",
+       "kcal": 160,
+       "protein": 1.5,
+       "carbs": 13,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "alcohol_g": 14,
+        "sodium_mg": 15,
+        "potassium_mg": 100
+       }
+      }
+     ]
     }
    ],
    "day_type": "rest"

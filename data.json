@@ -5212,6 +5212,37 @@
     }
    ],
    "day_type": "rest"
+  },
+  "2026-11-15": {
+   "meals": [
+    {
+     "time": "15:15",
+     "name": "Lunch - Poukei (MOA)",
+     "note": "Rainbow poke bowl, no spicy mayo, half rice (estimate). Broke intermittent fast.",
+     "items": [
+      {
+       "name": "Rainbow bowl: tuna, salmon, masago, seaweed salad, edamame, corn, crispy onion, eel sauce, half rice",
+       "kcal": 560,
+       "protein": 38,
+       "carbs": 66,
+       "fat": 14,
+       "fiber": 6,
+       "nutrients": {
+        "sodium_mg": 1300,
+        "omega3_g": 1.2,
+        "sugar_g": 14,
+        "satfat_g": 2.5,
+        "potassium_mg": 700,
+        "iron_mg": 2.5,
+        "b12_mcg": 4,
+        "vitD_mcg": 5
+       }
+      }
+     ]
+    }
+   ],
+   "notes": "",
+   "day_type": "rest"
   }
  }
 }

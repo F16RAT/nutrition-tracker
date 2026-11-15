@@ -5239,6 +5239,28 @@
        }
       }
      ]
+    },
+    {
+     "time": "15:45",
+     "name": "Snack - Amorino (MOA)",
+     "note": "Affogato, stracciatella gelato ~100 g assumed (Amorino nutrition sheet) + espresso shot",
+     "items": [
+      {
+       "name": "Affogato: stracciatella gelato ~100 g + espresso",
+       "kcal": 211,
+       "protein": 4.4,
+       "carbs": 28.3,
+       "fat": 8.7,
+       "fiber": 1.65,
+       "nutrients": {
+        "sugar_g": 22.9,
+        "satfat_g": 5.5,
+        "calcium_mg": 130,
+        "potassium_mg": 250,
+        "sodium_mg": 60
+       }
+      }
+     ]
     }
    ],
    "notes": "",

@@ -5336,6 +5336,26 @@
        }
       }
      ]
+    },
+    {
+     "time": "19:40",
+     "name": "Second glass of wine",
+     "note": "",
+     "items": [
+      {
+       "name": "Joel Gott Cabernet Sauvignon, 5 oz",
+       "kcal": 125,
+       "protein": 0,
+       "carbs": 4,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "alcohol_g": 14,
+        "potassium_mg": 190,
+        "sugar_g": 1
+       }
+      }
+     ]
     }
    ],
    "notes": "",

@@ -5441,19 +5441,19 @@
         {
           "time": "14:10",
           "name": "Starbucks peppermint mocha (MSP)",
-          "note": "Assumed grande with whole milk, half the sweetener, and whipped cream; size not confirmed",
+          "note": "Grande, whole milk, half the sweetener, no whip (confirmed)",
           "items": [
             {
-              "name": "Peppermint mocha, grande, whole milk, half sweetener",
-              "kcal": 370,
-              "protein": 13,
-              "carbs": 42,
-              "fat": 17,
+              "name": "Peppermint mocha, grande, whole milk, half sweetener, no whip",
+              "kcal": 290,
+              "protein": 12,
+              "carbs": 38,
+              "fat": 10,
               "fiber": 2,
               "nutrients": {
-                "sodium_mg": 170,
-                "satfat_g": 10,
-                "sugar_g": 36,
+                "sodium_mg": 160,
+                "satfat_g": 6,
+                "sugar_g": 31,
                 "calcium_mg": 400,
                 "potassium_mg": 500
               }

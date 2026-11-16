@@ -5391,7 +5391,7 @@
         {
           "time": "13:25",
           "name": "Lunch - The Cook & The Ox (MSP)",
-          "note": "Estimated: Asian-marinated skirt steak (~8 oz cooked) with grilled asparagus instead of fries",
+          "note": "Estimated: Asian-marinated skirt steak (~8 oz cooked) with grilled asparagus instead of fries; ate about half the fries that came with it",
           "items": [
             {
               "name": "Asian-marinated skirt steak (~8 oz cooked)",
@@ -5420,6 +5420,42 @@
                 "sugar_g": 2,
                 "potassium_mg": 250,
                 "vita_mcg": 45
+              }
+            },
+            {
+              "name": "House-seasoned fries (about half a side)",
+              "kcal": 200,
+              "protein": 3,
+              "carbs": 25,
+              "fat": 10,
+              "fiber": 2,
+              "nutrients": {
+                "sodium_mg": 350,
+                "satfat_g": 1.5,
+                "sugar_g": 0,
+                "potassium_mg": 400
+              }
+            }
+          ]
+        },
+        {
+          "time": "14:10",
+          "name": "Starbucks peppermint mocha (MSP)",
+          "note": "Assumed grande with whole milk, half the sweetener, and whipped cream; size not confirmed",
+          "items": [
+            {
+              "name": "Peppermint mocha, grande, whole milk, half sweetener",
+              "kcal": 370,
+              "protein": 13,
+              "carbs": 42,
+              "fat": 17,
+              "fiber": 2,
+              "nutrients": {
+                "sodium_mg": 170,
+                "satfat_g": 10,
+                "sugar_g": 36,
+                "calcium_mg": 400,
+                "potassium_mg": 500
               }
             }
           ]

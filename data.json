@@ -5363,7 +5363,32 @@
    "active_kcal": 526
   },
   "2026-11-16": {
-   "meals": [],
+   "meals": [
+    {
+     "time": "11:08",
+     "name": "Post-workout shake",
+     "note": "From label photo",
+     "items": [
+      {
+       "name": "Fairlife Core Power Chocolate 42 g, 14 oz bottle",
+       "kcal": 230,
+       "protein": 42,
+       "carbs": 9,
+       "fat": 3.5,
+       "fiber": 2,
+       "nutrients": {
+        "satfat_g": 2,
+        "sodium_mg": 260,
+        "sugar_g": 7,
+        "vitD_mcg": 10,
+        "calcium_mg": 900,
+        "potassium_mg": 700,
+        "vita_mcg": 240
+       }
+      }
+     ]
+    }
+   ],
    "notes": "Upper-body strength at MSP hotel gym (54 min). Flight delayed to 14:00 CT; travel day, no AG1 until home.",
    "day_type": "lifting",
    "active_kcal": 317

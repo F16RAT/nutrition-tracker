@@ -5298,6 +5298,44 @@
       }
      ],
      "note": ""
+    },
+    {
+     "time": "19:05",
+     "name": "Dinner at FireLake (Radisson Blu MOA)",
+     "note": "Estimated; November special",
+     "items": [
+      {
+       "name": "Duck breast with sweet potato pierogi, charred broccolini, pickled fennel, spicy pecans, burnt honey & soy reduction",
+       "kcal": 820,
+       "protein": 42,
+       "carbs": 60,
+       "fat": 42,
+       "fiber": 5,
+       "nutrients": {
+        "sodium_mg": 1300,
+        "iron_mg": 5,
+        "potassium_mg": 800,
+        "satfat_g": 12,
+        "sugar_g": 18,
+        "vitC_mg": 60,
+        "b12_mcg": 0.8,
+        "zinc_mg": 2.5
+       }
+      },
+      {
+       "name": "Joel Gott Cabernet Sauvignon, 5 oz",
+       "kcal": 125,
+       "protein": 0,
+       "carbs": 4,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "alcohol_g": 14,
+        "potassium_mg": 190,
+        "sugar_g": 1
+       }
+      }
+     ]
     }
    ],
    "notes": "",

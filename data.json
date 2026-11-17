@@ -5665,7 +5665,7 @@
         {
           "time": "15:58",
           "name": "Greek yogurt bowl",
-          "note": "Fage 5%, 1 cup; half scoop ON whey vanilla; berries; 1 tsp honey; no nuts. Plus ~1/3 cup KIND PB granola (label photo).",
+          "note": "Fage 5%, 1 cup; half scoop ON whey vanilla; berries; 1 tsp honey; no nuts. Plus ~1/3 cup KIND PB granola (label photo). Final bowl photo: ~3/4 cup mixed berries + 1/2 banana.",
           "items": [
             {
               "name": "Fage Total 5% Greek yogurt, 1 cup (227 g)",
@@ -5694,15 +5694,15 @@
               }
             },
             {
-              "name": "Mixed berries, 1/2 cup",
-              "kcal": 40,
-              "protein": 0.5,
-              "carbs": 10,
-              "fat": 0.3,
-              "fiber": 3,
+              "name": "Mixed berries (blackberries, raspberries, blueberries), ~3/4 cup",
+              "kcal": 55,
+              "protein": 1,
+              "carbs": 13,
+              "fat": 0.5,
+              "fiber": 5,
               "nutrients": {
-                "sugar_g": 6,
-                "vitamin_c_mg": 30
+                "sugar_g": 7,
+                "vitamin_c_mg": 25
               }
             },
             {
@@ -5730,6 +5730,18 @@
                 "calcium_mg": 22,
                 "iron_mg": 1,
                 "potassium_mg": 88
+              }
+            },
+            {
+              "name": "Banana, ~1/2 medium, sliced",
+              "kcal": 55,
+              "protein": 0.7,
+              "carbs": 14,
+              "fat": 0.2,
+              "fiber": 1.6,
+              "nutrients": {
+                "sugar_g": 7,
+                "potassium_mg": 210
               }
             }
           ]

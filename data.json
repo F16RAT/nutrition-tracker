@@ -5578,7 +5578,61 @@
       "active_kcal": 317
     },
     "2026-11-17": {
-      "meals": [],
+      "meals": [
+        {
+          "time": "11:45",
+          "name": "Breakfast at Haymaker Verrado",
+          "note": "Estimate; Haymaker publishes no nutrition data. Relayed via AAL Contract Bot. Toast assumed buttered, no jelly.",
+          "items": [
+            {
+              "name": "Veggie omelette, 3 whole eggs, spinach, bell pepper, mushroom, tomato, feta",
+              "kcal": 390,
+              "protein": 25,
+              "carbs": 8,
+              "fat": 29,
+              "fiber": 2,
+              "nutrients": {
+                "sodium_mg": 650,
+                "sugar_g": 4
+              }
+            },
+            {
+              "name": "Turkey sausage, side (~3 oz)",
+              "kcal": 150,
+              "protein": 15,
+              "carbs": 2,
+              "fat": 9,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 500
+              }
+            },
+            {
+              "name": "Sourdough toast, 2 slices, buttered",
+              "kcal": 290,
+              "protein": 9,
+              "carbs": 44,
+              "fat": 9,
+              "fiber": 2,
+              "nutrients": {
+                "sodium_mg": 450,
+                "sugar_g": 2
+              }
+            },
+            {
+              "name": "Fresh fruit cup (in place of potatoes)",
+              "kcal": 80,
+              "protein": 1,
+              "carbs": 20,
+              "fat": 0,
+              "fiber": 2,
+              "nutrients": {
+                "sugar_g": 16
+              }
+            }
+          ]
+        }
+      ],
       "notes": "Day off at home. Strength A (legs) at EOS planned, 60-70 min, late morning/midday (Fitness Coach). AG1 resumes.",
       "day_type": "hard",
       "weight_lb": 189

@@ -5518,6 +5518,43 @@
               }
             }
           ]
+        },
+        {
+          "time": "19:50",
+          "name": "Dinner at home - beef patties and broccoli",
+          "note": "Estimated from photo: two ground beef patties (~3 oz cooked each, assumed 85/15) and roasted broccoli; foil-wrapped item not yet identified",
+          "items": [
+            {
+              "name": "Ground beef patties x2 (~6 oz cooked, 85/15)",
+              "kcal": 420,
+              "protein": 42,
+              "carbs": 0,
+              "fat": 28,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 300,
+                "satfat_g": 11,
+                "sugar_g": 0,
+                "potassium_mg": 540
+              }
+            },
+            {
+              "name": "Roasted broccoli (~1.5 cups)",
+              "kcal": 100,
+              "protein": 4,
+              "carbs": 9,
+              "fat": 6,
+              "fiber": 4,
+              "nutrients": {
+                "sodium_mg": 150,
+                "satfat_g": 1,
+                "sugar_g": 2,
+                "potassium_mg": 430,
+                "calcium_mg": 60,
+                "vita_mcg": 45
+              }
+            }
+          ]
         }
       ],
       "notes": "Upper-body strength at MSP hotel gym (54 min). Flight delayed to 14:00 CT; travel day, no AG1 until home.",

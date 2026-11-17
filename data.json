@@ -5665,7 +5665,7 @@
         {
           "time": "15:58",
           "name": "Greek yogurt bowl",
-          "note": "Fage 5%, 1 cup; half scoop ON whey vanilla; berries; 1 tsp honey; no nuts.",
+          "note": "Fage 5%, 1 cup; half scoop ON whey vanilla; berries; 1 tsp honey; no nuts. Plus ~1/3 cup KIND PB granola (label photo).",
           "items": [
             {
               "name": "Fage Total 5% Greek yogurt, 1 cup (227 g)",
@@ -5714,6 +5714,22 @@
               "fiber": 0,
               "nutrients": {
                 "sugar_g": 6
+              }
+            },
+            {
+              "name": "KIND Healthy Grains Peanut Butter granola, ~1/3 cup (30 g)",
+              "kcal": 120,
+              "protein": 5,
+              "carbs": 17,
+              "fat": 4,
+              "fiber": 2,
+              "nutrients": {
+                "sugar_g": 5,
+                "added_sugar_g": 5,
+                "sodium_mg": 50,
+                "calcium_mg": 22,
+                "iron_mg": 1,
+                "potassium_mg": 88
               }
             }
           ]

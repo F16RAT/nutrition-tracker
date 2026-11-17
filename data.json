@@ -5522,7 +5522,7 @@
         {
           "time": "19:50",
           "name": "Dinner at home - beef patties and broccoli",
-          "note": "Estimated from photo: two ground beef patties (~3 oz cooked each, assumed 85/15) and roasted broccoli; foil-wrapped item not yet identified",
+          "note": "Estimated from photo: two ground beef patties (~3 oz cooked each, assumed 85/15) and roasted broccoli; plus a medium baked sweet potato with 1 tbsp butter, salt and pepper (assumed)",
           "items": [
             {
               "name": "Ground beef patties x2 (~6 oz cooked, 85/15)",
@@ -5552,6 +5552,35 @@
                 "potassium_mg": 430,
                 "calcium_mg": 60,
                 "vita_mcg": 45
+              }
+            },
+            {
+              "name": "Baked sweet potato, medium (~150 g)",
+              "kcal": 135,
+              "protein": 3,
+              "carbs": 31,
+              "fat": 0,
+              "fiber": 5,
+              "nutrients": {
+                "sodium_mg": 250,
+                "satfat_g": 0,
+                "sugar_g": 10,
+                "potassium_mg": 700,
+                "vita_mcg": 1400,
+                "calcium_mg": 60
+              }
+            },
+            {
+              "name": "Butter, 1 tbsp",
+              "kcal": 100,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 11,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 90,
+                "satfat_g": 7,
+                "vita_mcg": 95
               }
             }
           ]

@@ -5496,6 +5496,28 @@
             }
           ],
           "note": ""
+        },
+        {
+          "time": "19:45",
+          "name": "Flight snack - warm mixed nuts",
+          "note": "AA first-class ramekin, estimated about 1.5 oz (mostly cashews and almonds)",
+          "items": [
+            {
+              "name": "Warm mixed nuts, ~1.5 oz",
+              "kcal": 260,
+              "protein": 7,
+              "carbs": 11,
+              "fat": 22,
+              "fiber": 3,
+              "nutrients": {
+                "sodium_mg": 200,
+                "satfat_g": 3.5,
+                "sugar_g": 2,
+                "potassium_mg": 280,
+                "magnesium_mg": 100
+              }
+            }
+          ]
         }
       ],
       "notes": "Upper-body strength at MSP hotel gym (54 min). Flight delayed to 14:00 CT; travel day, no AG1 until home.",

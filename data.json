@@ -5631,6 +5631,36 @@
               }
             }
           ]
+        },
+        {
+          "time": "15:20",
+          "name": "Starbucks cortado",
+          "note": "Estimate: espresso with ~3 oz steamed milk (assumed 2%), 1 raw sugar packet.",
+          "items": [
+            {
+              "name": "Cortado (espresso + ~3 oz steamed milk)",
+              "kcal": 50,
+              "protein": 3,
+              "carbs": 4,
+              "fat": 2,
+              "fiber": 0,
+              "nutrients": {
+                "caffeine_mg": 170,
+                "calcium_mg": 110
+              }
+            },
+            {
+              "name": "Raw sugar, 1 packet (4 g)",
+              "kcal": 15,
+              "protein": 0,
+              "carbs": 4,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "sugar_g": 4
+              }
+            }
+          ]
         }
       ],
       "notes": "Day off at home. Strength A (legs) at EOS planned, 60-70 min, late morning/midday (Fitness Coach). AG1 resumes.",

@@ -5571,6 +5571,60 @@
               }
             }
           ]
+        },
+        {
+          "time": "21:00",
+          "name": "Evening: 3 gin and tonics + popcorn",
+          "note": "Reported next day(s). Popcorn amount/method estimated.",
+          "items": [
+            {
+              "name": "Gin and tonic: Hendrick's 1.5 jiggers (~2.25 oz) + Fever-Tree Elderflower 150 ml + lime",
+              "kcal": 180,
+              "protein": 0,
+              "carbs": 7,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "alcohol_g": 22,
+                "sugar_g": 7
+              }
+            },
+            {
+              "name": "Gin and tonic: Hendrick's 1.5 jiggers (~2.25 oz) + Fever-Tree Elderflower 150 ml + lime",
+              "kcal": 180,
+              "protein": 0,
+              "carbs": 7,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "alcohol_g": 22,
+                "sugar_g": 7
+              }
+            },
+            {
+              "name": "Gin and tonic: Hendrick's 1.5 jiggers (~2.25 oz) + Fever-Tree Elderflower 150 ml + lime",
+              "kcal": 180,
+              "protein": 0,
+              "carbs": 7,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "alcohol_g": 22,
+                "sugar_g": 7
+              }
+            },
+            {
+              "name": "Popcorn, ~3 cups popped (assumed made in coconut oil/butter)",
+              "kcal": 165,
+              "protein": 3,
+              "carbs": 19,
+              "fat": 9,
+              "fiber": 3.5,
+              "nutrients": {
+                "sodium_mg": 200
+              }
+            }
+          ]
         }
       ],
       "notes": "Upper-body strength at MSP hotel gym (54 min). Flight delayed to 14:00 CT; travel day, no AG1 until home.",
@@ -5877,6 +5931,48 @@
                 "potassium_mg": 450,
                 "sodium_mg": 130,
                 "sugar_g": 15
+              }
+            }
+          ]
+        },
+        {
+          "time": "20:00",
+          "name": "Evening: 2 gin and tonics + popcorn",
+          "note": "Reported next day(s). Popcorn amount/method estimated.",
+          "items": [
+            {
+              "name": "Gin and tonic: Hendrick's 1.5 jiggers (~2.25 oz) + Fever-Tree Elderflower 150 ml + lime",
+              "kcal": 180,
+              "protein": 0,
+              "carbs": 7,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "alcohol_g": 22,
+                "sugar_g": 7
+              }
+            },
+            {
+              "name": "Gin and tonic: Hendrick's 1.5 jiggers (~2.25 oz) + Fever-Tree Elderflower 150 ml + lime",
+              "kcal": 180,
+              "protein": 0,
+              "carbs": 7,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "alcohol_g": 22,
+                "sugar_g": 7
+              }
+            },
+            {
+              "name": "Popcorn, ~3 cups popped (assumed made in coconut oil/butter)",
+              "kcal": 165,
+              "protein": 3,
+              "carbs": 19,
+              "fat": 9,
+              "fiber": 3.5,
+              "nutrients": {
+                "sodium_mg": 200
               }
             }
           ]

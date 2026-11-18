@@ -6069,6 +6069,28 @@
               }
             }
           ]
+        },
+        {
+          "time": "12:30",
+          "name": "AG1",
+          "note": "1 scoop with water",
+          "items": [
+            {
+              "name": "AG1 (1 scoop, 13 g)",
+              "kcal": 40,
+              "protein": 2,
+              "carbs": 6,
+              "fat": 1,
+              "fiber": 2,
+              "nutrients": {
+                "vitamin_b12_mcg": 400,
+                "vitamin_c_mg": 500,
+                "vitamin_a_mcg": 550,
+                "zinc_mg": 20,
+                "vitamin_k2_mcg": 90
+              }
+            }
+          ]
         }
       ]
     },

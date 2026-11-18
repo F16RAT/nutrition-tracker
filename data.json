@@ -5888,7 +5888,93 @@
     },
     "2026-11-18": {
       "day_type": "hard",
-      "notes": "Strength A (legs) morning before reserve starts, 60-70 min (Fitness Coach). Reserve begins."
+      "notes": "Strength A (legs) morning before reserve starts, 60-70 min (Fitness Coach). Reserve begins.",
+      "meals": [
+        {
+          "time": "10:05",
+          "name": "Pre-gym Greek yogurt bowl",
+          "note": "Same as Nov 17 afternoon bowl: Fage 5% 1 cup, 1/2 scoop whey, ~3/4 cup mixed berries, 1/2 banana, 1 tsp honey, ~1/3 cup KIND PB granola.",
+          "items": [
+            {
+              "name": "Fage Total 5% Greek yogurt, 1 cup (227 g)",
+              "kcal": 220,
+              "protein": 20,
+              "carbs": 8,
+              "fat": 11,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 230,
+                "sodium_mg": 75,
+                "sugar_g": 8
+              }
+            },
+            {
+              "name": "ON Gold Standard whey vanilla, 1/2 scoop",
+              "kcal": 60,
+              "protein": 12,
+              "carbs": 2,
+              "fat": 0.75,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 65,
+                "calcium_mg": 65,
+                "potassium_mg": 75
+              }
+            },
+            {
+              "name": "Mixed berries (blackberries, raspberries, blueberries), ~3/4 cup",
+              "kcal": 55,
+              "protein": 1,
+              "carbs": 13,
+              "fat": 0.5,
+              "fiber": 5,
+              "nutrients": {
+                "sugar_g": 7,
+                "vitamin_c_mg": 25
+              }
+            },
+            {
+              "name": "Honey, 1 tsp",
+              "kcal": 21,
+              "protein": 0,
+              "carbs": 6,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "sugar_g": 6
+              }
+            },
+            {
+              "name": "KIND Healthy Grains Peanut Butter granola, ~1/3 cup (30 g)",
+              "kcal": 120,
+              "protein": 5,
+              "carbs": 17,
+              "fat": 4,
+              "fiber": 2,
+              "nutrients": {
+                "sugar_g": 5,
+                "added_sugar_g": 5,
+                "sodium_mg": 50,
+                "calcium_mg": 22,
+                "iron_mg": 1,
+                "potassium_mg": 88
+              }
+            },
+            {
+              "name": "Banana, ~1/2 medium, sliced",
+              "kcal": 55,
+              "protein": 0.7,
+              "carbs": 14,
+              "fat": 0.2,
+              "fiber": 1.6,
+              "nutrients": {
+                "sugar_g": 7,
+                "potassium_mg": 210
+              }
+            }
+          ]
+        }
+      ]
     }
   }
 }

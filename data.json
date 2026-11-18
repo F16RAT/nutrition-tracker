@@ -5575,7 +5575,7 @@
         {
           "time": "21:00",
           "name": "Evening: 3 gin and tonics + popcorn",
-          "note": "Reported next day(s). Popcorn amount/method estimated.",
+          "note": "Reported later. Popcorn amount/method estimated.",
           "items": [
             {
               "name": "Gin and tonic: Hendrick's 1.5 jiggers (~2.25 oz) + Fever-Tree Elderflower 150 ml + lime",
@@ -5938,29 +5938,29 @@
         {
           "time": "20:00",
           "name": "Evening: 2 gin and tonics + popcorn",
-          "note": "Reported next day(s). Popcorn amount/method estimated.",
+          "note": "Reported later. Popcorn amount/method estimated.",
           "items": [
             {
-              "name": "Gin and tonic: Hendrick's 1.5 jiggers (~2.25 oz) + Fever-Tree Elderflower 150 ml + lime",
-              "kcal": 180,
+              "name": "Gin and tonic: Hendrick's 1 jigger (1.5 oz) + Fever-Tree Elderflower 150 ml + lime",
+              "kcal": 130,
               "protein": 0,
               "carbs": 7,
               "fat": 0,
               "fiber": 0,
               "nutrients": {
-                "alcohol_g": 22,
+                "alcohol_g": 15,
                 "sugar_g": 7
               }
             },
             {
-              "name": "Gin and tonic: Hendrick's 1.5 jiggers (~2.25 oz) + Fever-Tree Elderflower 150 ml + lime",
-              "kcal": 180,
+              "name": "Gin and tonic: Hendrick's 1 jigger (1.5 oz) + Fever-Tree Elderflower 150 ml + lime",
+              "kcal": 130,
               "protein": 0,
               "carbs": 7,
               "fat": 0,
               "fiber": 0,
               "nutrients": {
-                "alcohol_g": 22,
+                "alcohol_g": 15,
                 "sugar_g": 7
               }
             },

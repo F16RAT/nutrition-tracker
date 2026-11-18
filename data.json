@@ -5786,7 +5786,7 @@
         {
           "time": "18:15",
           "name": "Dinner at home: stuffed pepper, cucumber salad, whole milk",
-          "note": "Photo estimate: 1 stuffed pepper (ground beef assumed 85/15, rice, tomatoes, cheddar); cucumber-tomato-red onion salad with peanuts and light oil dressing; ~10 oz whole milk.",
+          "note": "Photo estimate: 1 stuffed pepper (ground beef assumed 85/15, rice, tomatoes, cheddar); cucumber-tomato-red onion salad with peanuts and light oil dressing; ~10 oz whole milk. Todd ate only 1/3 of the salad.",
           "items": [
             {
               "name": "Stuffed pepper: ground beef ~3 oz cooked (85/15)",
@@ -5835,34 +5835,34 @@
               }
             },
             {
-              "name": "Cucumber, tomato, red onion salad",
-              "kcal": 35,
-              "protein": 1.5,
-              "carbs": 7,
-              "fat": 0.3,
-              "fiber": 2,
+              "name": "Cucumber, tomato, red onion salad (ate 1/3 of bowl)",
+              "kcal": 11.7,
+              "protein": 0.5,
+              "carbs": 2.3,
+              "fat": 0.1,
+              "fiber": 0.7,
               "nutrients": {
-                "potassium_mg": 300
+                "potassium_mg": 100.0
               }
             },
             {
-              "name": "Peanuts in salad, ~2 tbsp (0.6 oz)",
-              "kcal": 100,
-              "protein": 4,
-              "carbs": 3,
-              "fat": 8.5,
-              "fiber": 1.5,
+              "name": "Peanuts in salad, ~2 tbsp (0.6 oz) (ate 1/3 of bowl)",
+              "kcal": 33.3,
+              "protein": 1.3,
+              "carbs": 1.0,
+              "fat": 2.8,
+              "fiber": 0.5,
               "nutrients": {}
             },
             {
-              "name": "Salad dressing, ~1.5 tsp oil plus vinegar",
-              "kcal": 60,
-              "protein": 0,
-              "carbs": 0.5,
-              "fat": 7,
-              "fiber": 0,
+              "name": "Salad dressing, ~1.5 tsp oil plus vinegar (ate 1/3 of bowl)",
+              "kcal": 20.0,
+              "protein": 0.0,
+              "carbs": 0.2,
+              "fat": 2.3,
+              "fiber": 0.0,
               "nutrients": {
-                "sodium_mg": 100
+                "sodium_mg": 33.3
               }
             },
             {

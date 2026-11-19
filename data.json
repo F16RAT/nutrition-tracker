@@ -6597,18 +6597,18 @@
       "meals": [
         {
           "time": "13:30",
-          "name": "Spitz Doner Salad (beef & lamb, single)",
+          "name": "Spitz Doner Salad (beef & lamb, double)",
           "note": "No fried pita/lavash chips, half balsamic; estimate",
           "items": [
             {
-              "name": "Spitz Doner Salad, beef & lamb, tzatziki, feta, half balsamic, no fried pita",
-              "kcal": 600,
-              "protein_g": 38,
-              "carbs_g": 25,
-              "fat_g": 38,
+              "name": "Spitz Doner Salad, double beef & lamb, tzatziki, feta, half balsamic, no fried pita",
+              "kcal": 780,
+              "protein_g": 58,
+              "carbs_g": 26,
+              "fat_g": 50,
               "fiber_g": 7,
               "nutrients": {
-                "sodium_mg": 1400
+                "sodium_mg": 1900
               }
             }
           ]

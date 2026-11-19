@@ -6198,6 +6198,88 @@
               }
             }
           ]
+        },
+        {
+          "time": "18:15",
+          "name": "Dinner: Chipotle bowl (chicken + smoked brisket)",
+          "note": "Half rice, black beans, fajita veggies, salsas, lettuce; no cheese/sour cream/chips",
+          "items": [
+            {
+              "name": "Chicken (1 scoop)",
+              "kcal": 180,
+              "protein": 32,
+              "carbs": 0,
+              "fat": 7,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 310
+              }
+            },
+            {
+              "name": "Smoked brisket (1 scoop)",
+              "kcal": 230,
+              "protein": 21,
+              "carbs": 4,
+              "fat": 15,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 560
+              }
+            },
+            {
+              "name": "White rice (half scoop)",
+              "kcal": 105,
+              "protein": 2,
+              "carbs": 20,
+              "fat": 2,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 175
+              }
+            },
+            {
+              "name": "Black beans",
+              "kcal": 130,
+              "protein": 8,
+              "carbs": 22,
+              "fat": 1.5,
+              "fiber": 7,
+              "nutrients": {
+                "sodium_mg": 210
+              }
+            },
+            {
+              "name": "Fajita veggies",
+              "kcal": 20,
+              "protein": 1,
+              "carbs": 5,
+              "fat": 0,
+              "fiber": 1,
+              "nutrients": {
+                "sodium_mg": 150
+              }
+            },
+            {
+              "name": "Fresh tomato salsa + green salsa",
+              "kcal": 40,
+              "protein": 1,
+              "carbs": 7,
+              "fat": 0,
+              "fiber": 2,
+              "nutrients": {
+                "sodium_mg": 800
+              }
+            },
+            {
+              "name": "Lettuce",
+              "kcal": 5,
+              "protein": 0,
+              "carbs": 1,
+              "fat": 0,
+              "fiber": 1,
+              "nutrients": {}
+            }
+          ]
         }
       ],
       "active_kcal": 442

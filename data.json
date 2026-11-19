@@ -6178,6 +6178,26 @@
             }
           ],
           "note": ""
+        },
+        {
+          "time": "17:20",
+          "name": "Post-workout whey shake",
+          "note": "1 scoop ON Gold Standard vanilla; liquid unconfirmed",
+          "items": [
+            {
+              "name": "ON Gold Standard whey, 1 scoop",
+              "kcal": 120,
+              "protein": 24,
+              "carbs": 4,
+              "fat": 1.5,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 130,
+                "calcium_mg": 130,
+                "potassium_mg": 150
+              }
+            }
+          ]
         }
       ],
       "active_kcal": 442

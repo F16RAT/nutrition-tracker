@@ -6333,7 +6333,22 @@
     },
     "2026-11-19": {
       "day_type": "lifting",
-      "notes": "Incline/StairMaster 30-40 min + core, morning or midday (Fitness Coach). RAP starts 1800."
+      "notes": "Easy 30-40 min incline/StairMaster + core by early afternoon, nap, redeye AA1543 PHX 2359 to CLT (report 2259). Target 2,300 kcal / 160-170 g protein (long awake day). (Fitness Coach)"
+    },
+    "2026-11-20": {
+      "meals": [],
+      "notes": "CLT layover (SEQ 11503), sleep first, optional short walk/mobility; AA1451 CLT 2034 ET to PHX 2320. Rest target 2,100 kcal / 150-160 g protein. Skip AG1.",
+      "day_type": "rest"
+    },
+    "2026-11-21": {
+      "meals": [],
+      "notes": "Strength B at EOS ~60-70 min (moved from Nov 20). Target 2,300 kcal / 160-170 g protein. Right Achilles tender.",
+      "day_type": "lifting"
+    },
+    "2026-11-22": {
+      "meals": [],
+      "notes": "Rest day. 2,100 kcal / 150-160 g protein.",
+      "day_type": "rest"
     }
   }
 }

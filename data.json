@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T16:03:44-07:00",
+  "last_updated": "2026-11-18T19:32:31-07:00",
   "targets": {
     "kcal": 2200,
     "kcal_by_day_type": {
@@ -84,6 +84,116 @@
         "unit": "g",
         "target": 14,
         "limit": true
+      },
+      "vita_mcg": {
+        "label": "Vitamin A",
+        "unit": "mcg",
+        "target": 900
+      },
+      "vite_mg": {
+        "label": "Vitamin E",
+        "unit": "mg",
+        "target": 15
+      },
+      "vitk_mcg": {
+        "label": "Vitamin K",
+        "unit": "mcg",
+        "target": 120
+      },
+      "b1_mg": {
+        "label": "Thiamin (B1)",
+        "unit": "mg",
+        "target": 1.2
+      },
+      "b2_mg": {
+        "label": "Riboflavin (B2)",
+        "unit": "mg",
+        "target": 1.3
+      },
+      "niacin_mg_ne": {
+        "label": "Niacin",
+        "unit": "mg",
+        "target": 16
+      },
+      "b6_mg": {
+        "label": "Vitamin B6",
+        "unit": "mg",
+        "target": 1.7
+      },
+      "folate_mcg": {
+        "label": "Folate",
+        "unit": "mcg",
+        "target": 400
+      },
+      "biotin_mcg": {
+        "label": "Biotin",
+        "unit": "mcg",
+        "target": 30
+      },
+      "pantothenic_mg": {
+        "label": "Pantothenic acid",
+        "unit": "mg",
+        "target": 5
+      },
+      "choline_mg": {
+        "label": "Choline",
+        "unit": "mg",
+        "target": 550
+      },
+      "phosphorus_mg": {
+        "label": "Phosphorus",
+        "unit": "mg",
+        "target": 700
+      },
+      "selenium_mcg": {
+        "label": "Selenium",
+        "unit": "mcg",
+        "target": 55
+      },
+      "copper_mg": {
+        "label": "Copper",
+        "unit": "mg",
+        "target": 0.9
+      },
+      "manganese_mg": {
+        "label": "Manganese",
+        "unit": "mg",
+        "target": 2.3
+      },
+      "chromium_mcg": {
+        "label": "Chromium",
+        "unit": "mcg",
+        "target": 30
+      },
+      "molybdenum_mcg": {
+        "label": "Molybdenum",
+        "unit": "mcg",
+        "target": 45
+      },
+      "coq10_mg": {
+        "label": "CoQ10",
+        "unit": "mg",
+        "target": 100
+      },
+      "benfotiamine_mg": {
+        "label": "Benfotiamine",
+        "unit": "mg",
+        "target": 25
+      },
+      "myo_inositol_mg": {
+        "label": "Myo-inositol",
+        "unit": "mg",
+        "target": 100
+      },
+      "boron_mcg": {
+        "label": "Boron",
+        "unit": "mcg",
+        "target": 500
+      },
+      "ala_mg": {
+        "label": "Alpha-lipoic acid",
+        "unit": "mg",
+        "target": 100
       }
     }
   },
@@ -338,7 +448,11 @@
                 "copper_mg": 0.2,
                 "chromium_mcg": 25,
                 "molybdenum_mcg": 45,
-                "coq10_mg": 60
+                "coq10_mg": 60,
+                "benfotiamine_mg": 25,
+                "myo_inositol_mg": 100,
+                "boron_mcg": 500,
+                "ala_mg": 100
               }
             }
           ]
@@ -737,7 +851,11 @@
                 "copper_mg": 0.2,
                 "chromium_mcg": 25,
                 "molybdenum_mcg": 45,
-                "coq10_mg": 60
+                "coq10_mg": 60,
+                "benfotiamine_mg": 25,
+                "myo_inositol_mg": 100,
+                "boron_mcg": 500,
+                "ala_mg": 100
               }
             }
           ],
@@ -1548,7 +1666,11 @@
                 "copper_mg": 0.2,
                 "chromium_mcg": 25,
                 "molybdenum_mcg": 45,
-                "coq10_mg": 60
+                "coq10_mg": 60,
+                "benfotiamine_mg": 25,
+                "myo_inositol_mg": 100,
+                "boron_mcg": 500,
+                "ala_mg": 100
               }
             }
           ],
@@ -1901,7 +2023,11 @@
                 "copper_mg": 0.2,
                 "chromium_mcg": 25,
                 "molybdenum_mcg": 45,
-                "coq10_mg": 60
+                "coq10_mg": 60,
+                "benfotiamine_mg": 25,
+                "myo_inositol_mg": 100,
+                "boron_mcg": 500,
+                "ala_mg": 100
               }
             }
           ],
@@ -2247,7 +2373,11 @@
                 "copper_mg": 0.2,
                 "chromium_mcg": 25,
                 "molybdenum_mcg": 45,
-                "coq10_mg": 60
+                "coq10_mg": 60,
+                "benfotiamine_mg": 25,
+                "myo_inositol_mg": 100,
+                "boron_mcg": 500,
+                "ala_mg": 100
               }
             }
           ],
@@ -3374,12 +3504,37 @@
               "fat": 1,
               "fiber": 2,
               "nutrients": {
-                "b12_mcg": 400,
-                "vitC_mg": 500,
                 "vita_mcg": 550,
+                "vitC_mg": 500,
+                "vite_mg": 20,
+                "b12_mcg": 400,
+                "b6_mg": 5,
+                "folate_mcg": 680,
+                "choline_mg": 25,
+                "calcium_mg": 120,
+                "iron_mg": 1,
+                "magnesium_mg": 30,
                 "zinc_mg": 20,
+                "selenium_mcg": 22,
+                "manganese_mg": 0.4,
+                "sodium_mg": 40,
+                "potassium_mg": 250,
                 "vitk_mcg": 90,
-                "coq10_mg": 60
+                "sugar_g": 0.5,
+                "b1_mg": 3,
+                "b2_mg": 2,
+                "niacin_mg_ne": 16,
+                "biotin_mcg": 330,
+                "pantothenic_mg": 4,
+                "phosphorus_mg": 130,
+                "copper_mg": 0.2,
+                "chromium_mcg": 25,
+                "molybdenum_mcg": 45,
+                "coq10_mg": 60,
+                "benfotiamine_mg": 25,
+                "myo_inositol_mg": 100,
+                "boron_mcg": 500,
+                "ala_mg": 100
               }
             }
           ]
@@ -3580,11 +3735,37 @@
               "fat": 1,
               "fiber": 2,
               "nutrients": {
-                "b12_mcg": 400,
-                "vitC_mg": 500,
                 "vita_mcg": 550,
+                "vitC_mg": 500,
+                "vite_mg": 20,
+                "b12_mcg": 400,
+                "b6_mg": 5,
+                "folate_mcg": 680,
+                "choline_mg": 25,
+                "calcium_mg": 120,
+                "iron_mg": 1,
+                "magnesium_mg": 30,
                 "zinc_mg": 20,
-                "vitk_mcg": 90
+                "selenium_mcg": 22,
+                "manganese_mg": 0.4,
+                "sodium_mg": 40,
+                "potassium_mg": 250,
+                "vitk_mcg": 90,
+                "sugar_g": 0.5,
+                "b1_mg": 3,
+                "b2_mg": 2,
+                "niacin_mg_ne": 16,
+                "biotin_mcg": 330,
+                "pantothenic_mg": 4,
+                "phosphorus_mg": 130,
+                "copper_mg": 0.2,
+                "chromium_mcg": 25,
+                "molybdenum_mcg": 45,
+                "coq10_mg": 60,
+                "benfotiamine_mg": 25,
+                "myo_inositol_mg": 100,
+                "boron_mcg": 500,
+                "ala_mg": 100
               }
             }
           ]
@@ -4190,11 +4371,37 @@
               "fat": 1,
               "fiber": 2,
               "nutrients": {
-                "b12_mcg": 400,
-                "vitC_mg": 500,
                 "vita_mcg": 550,
+                "vitC_mg": 500,
+                "vite_mg": 20,
+                "b12_mcg": 400,
+                "b6_mg": 5,
+                "folate_mcg": 680,
+                "choline_mg": 25,
+                "calcium_mg": 120,
+                "iron_mg": 1,
+                "magnesium_mg": 30,
                 "zinc_mg": 20,
-                "vitk_mcg": 90
+                "selenium_mcg": 22,
+                "manganese_mg": 0.4,
+                "sodium_mg": 40,
+                "potassium_mg": 250,
+                "vitk_mcg": 90,
+                "sugar_g": 0.5,
+                "b1_mg": 3,
+                "b2_mg": 2,
+                "niacin_mg_ne": 16,
+                "biotin_mcg": 330,
+                "pantothenic_mg": 4,
+                "phosphorus_mg": 130,
+                "copper_mg": 0.2,
+                "chromium_mcg": 25,
+                "molybdenum_mcg": 45,
+                "coq10_mg": 60,
+                "benfotiamine_mg": 25,
+                "myo_inositol_mg": 100,
+                "boron_mcg": 500,
+                "ala_mg": 100
               }
             }
           ]
@@ -4887,11 +5094,37 @@
               "fat": 1,
               "fiber": 2,
               "nutrients": {
-                "b12_mcg": 400,
-                "vitC_mg": 500,
                 "vita_mcg": 550,
+                "vitC_mg": 500,
+                "vite_mg": 20,
+                "b12_mcg": 400,
+                "b6_mg": 5,
+                "folate_mcg": 680,
+                "choline_mg": 25,
+                "calcium_mg": 120,
+                "iron_mg": 1,
+                "magnesium_mg": 30,
                 "zinc_mg": 20,
-                "vitk_mcg": 90
+                "selenium_mcg": 22,
+                "manganese_mg": 0.4,
+                "sodium_mg": 40,
+                "potassium_mg": 250,
+                "vitk_mcg": 90,
+                "sugar_g": 0.5,
+                "b1_mg": 3,
+                "b2_mg": 2,
+                "niacin_mg_ne": 16,
+                "biotin_mcg": 330,
+                "pantothenic_mg": 4,
+                "phosphorus_mg": 130,
+                "copper_mg": 0.2,
+                "chromium_mcg": 25,
+                "molybdenum_mcg": 45,
+                "coq10_mg": 60,
+                "benfotiamine_mg": 25,
+                "myo_inositol_mg": 100,
+                "boron_mcg": 500,
+                "ala_mg": 100
               }
             }
           ]
@@ -6101,11 +6334,37 @@
               "fat": 1,
               "fiber": 2,
               "nutrients": {
-                "vitamin_b12_mcg": 400,
-                "vitamin_c_mg": 500,
-                "vitamin_a_mcg": 550,
+                "vita_mcg": 550,
+                "vitC_mg": 500,
+                "vite_mg": 20,
+                "b12_mcg": 400,
+                "b6_mg": 5,
+                "folate_mcg": 680,
+                "choline_mg": 25,
+                "calcium_mg": 120,
+                "iron_mg": 1,
+                "magnesium_mg": 30,
                 "zinc_mg": 20,
-                "vitamin_k2_mcg": 90
+                "selenium_mcg": 22,
+                "manganese_mg": 0.4,
+                "sodium_mg": 40,
+                "potassium_mg": 250,
+                "vitk_mcg": 90,
+                "sugar_g": 0.5,
+                "b1_mg": 3,
+                "b2_mg": 2,
+                "niacin_mg_ne": 16,
+                "biotin_mcg": 330,
+                "pantothenic_mg": 4,
+                "phosphorus_mg": 130,
+                "copper_mg": 0.2,
+                "chromium_mcg": 25,
+                "molybdenum_mcg": 45,
+                "coq10_mg": 60,
+                "benfotiamine_mg": 25,
+                "myo_inositol_mg": 100,
+                "boron_mcg": 500,
+                "ala_mg": 100
               }
             }
           ]

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T19:32:31-07:00",
+  "last_updated": "2026-11-19T16:02:40-07:00",
   "targets": {
     "kcal": 2200,
     "kcal_by_day_type": {
@@ -6596,6 +6596,24 @@
       "weight_lb": 188.4,
       "meals": [
         {
+          "time": "08:00",
+          "name": "Supplements (morning)",
+          "items": [
+            {
+              "food": "ProHealth Magnesium Glycinate (1 capsule; 100 mg Mg, 600 mg glycine)",
+              "kcal": 0,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "magnesium_mg": 100
+              }
+            }
+          ],
+          "note": ""
+        },
+        {
           "time": "13:30",
           "name": "Spitz Doner Salad (beef & lamb, double)",
           "note": "No fried pita/lavash chips, half balsamic; estimate",
@@ -6612,6 +6630,25 @@
               }
             }
           ]
+        },
+        {
+          "time": "16:00",
+          "name": "Supplements",
+          "items": [
+            {
+              "food": "Sports Research D3 + K2 (1 softgel; 125 mcg/5,000 IU D3, 100 mcg K2 as MK-7)",
+              "kcal": 5,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0.5,
+              "fiber": 0,
+              "nutrients": {
+                "vitD_mcg": 125,
+                "vitk_mcg": 100
+              }
+            }
+          ],
+          "note": ""
         }
       ]
     },

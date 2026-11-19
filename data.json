@@ -6280,6 +6280,42 @@
               "nutrients": {}
             }
           ]
+        },
+        {
+          "time": "19:15",
+          "name": "Dessert (planned): Greek yogurt + berries",
+          "note": "Planned; confirm when eaten. 3/4 cup Fage 5%, 1/2 cup berries, 1/2 tsp honey",
+          "items": [
+            {
+              "name": "Fage 5% Greek yogurt, 3/4 cup",
+              "kcal": 165,
+              "protein": 15,
+              "carbs": 6,
+              "fat": 8,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 150
+              }
+            },
+            {
+              "name": "Mixed berries, 1/2 cup",
+              "kcal": 35,
+              "protein": 0.5,
+              "carbs": 8,
+              "fat": 0,
+              "fiber": 2.5,
+              "nutrients": {}
+            },
+            {
+              "name": "Honey, 1/2 tsp",
+              "kcal": 10,
+              "protein": 0,
+              "carbs": 3,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {}
+            }
+          ]
         }
       ],
       "active_kcal": 442

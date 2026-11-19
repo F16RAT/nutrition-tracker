@@ -6284,7 +6284,7 @@
         {
           "time": "19:10",
           "name": "Dessert: Greek yogurt, berries, banana",
-          "note": "From photo; ~3/4 cup Fage 5%, ~1/2 cup mixed berries, ~1/2 banana; honey not visible",
+          "note": "From photo; ~3/4 cup Fage 5%, ~1/2 cup mixed berries, ~1/2 banana; 1 tsp honey (Todd)",
           "items": [
             {
               "name": "Fage 5% Greek yogurt, 3/4 cup",
@@ -6316,6 +6316,15 @@
               "nutrients": {
                 "potassium_mg": 210
               }
+            },
+            {
+              "name": "Honey, 1 tsp",
+              "kcal": 20,
+              "protein": 0,
+              "carbs": 6,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {}
             }
           ]
         }

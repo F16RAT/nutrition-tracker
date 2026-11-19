@@ -6593,7 +6593,27 @@
     "2026-11-19": {
       "day_type": "lifting",
       "notes": "Easy 30-40 min incline/StairMaster + core by early afternoon, nap, redeye AA1543 PHX 2359 to CLT (report 2259). Target 2,300 kcal / 160-170 g protein (long awake day). (Fitness Coach)",
-      "weight_lb": 188.4
+      "weight_lb": 188.4,
+      "meals": [
+        {
+          "time": "13:30",
+          "name": "Spitz Doner Salad (beef & lamb, single)",
+          "note": "No fried pita/lavash chips, half balsamic; estimate",
+          "items": [
+            {
+              "name": "Spitz Doner Salad, beef & lamb, tzatziki, feta, half balsamic, no fried pita",
+              "kcal": 600,
+              "protein_g": 38,
+              "carbs_g": 25,
+              "fat_g": 38,
+              "fiber_g": 7,
+              "nutrients": {
+                "sodium_mg": 1400
+              }
+            }
+          ]
+        }
+      ]
     },
     "2026-11-20": {
       "meals": [],

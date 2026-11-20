@@ -6826,7 +6826,38 @@
       "active_kcal": 188
     },
     "2026-11-20": {
-      "meals": [],
+      "meals": [
+        {
+          "time": "13:30",
+          "name": "Starbucks (CLT layover)",
+          "note": "First meal after redeye, ~3:30 PM ET.",
+          "items": [
+            {
+              "name": "Starbucks Bacon & Gruy\u00e8re Egg Bites x2 orders (4 bites)",
+              "kcal": 600,
+              "protein_g": 38,
+              "carbs_g": 18,
+              "fat_g": 40,
+              "fiber_g": 0,
+              "nutrients": {
+                "sodium_mg": 1360
+              }
+            },
+            {
+              "name": "Plain nonfat Greek yogurt cups x2 (~5.3 oz each)",
+              "kcal": 170,
+              "protein_g": 30,
+              "carbs_g": 12,
+              "fat_g": 0,
+              "fiber_g": 0,
+              "nutrients": {
+                "calcium_mg": 300,
+                "sugar_g": 8
+              }
+            }
+          ]
+        }
+      ],
       "notes": "CLT layover (SEQ 11503), sleep first, optional short walk/mobility; AA1451 CLT 2034 ET to PHX 2320. Rest target 2,100 kcal / 150-160 g protein. Skip AG1.",
       "day_type": "rest"
     },

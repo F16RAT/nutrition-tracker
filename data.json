@@ -6844,15 +6844,17 @@
               }
             },
             {
-              "name": "Plain nonfat Greek yogurt cups x2 (~5.3 oz each)",
-              "kcal": 170,
-              "protein_g": 30,
-              "carbs_g": 12,
-              "fat_g": 0,
+              "name": "Starbucks Flat White x2 (assumed grande, whole milk), 1 sugar packet each",
+              "kcal": 370,
+              "protein_g": 18,
+              "carbs_g": 38,
+              "fat_g": 18,
               "fiber_g": 0,
               "nutrients": {
-                "calcium_mg": 300,
-                "sugar_g": 8
+                "sugar_g": 36,
+                "calcium_mg": 600,
+                "sodium_mg": 260,
+                "caffeine_mg": 260
               }
             }
           ]

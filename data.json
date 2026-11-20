@@ -6776,6 +6776,51 @@
               }
             }
           ]
+        },
+        {
+          "time": "23:45",
+          "name": "Redeye snack",
+          "note": "On AA1543 PHX-CLT. Jerky estimated as ~5 pieces \u2248 1.5 oz Tillamook Original; almonds a handful \u2248 1 oz.",
+          "items": [
+            {
+              "name": "Pickles with a Punch kosher dill pouch (68 g drained)",
+              "kcal": 10,
+              "protein_g": 0,
+              "carbs_g": 2,
+              "fat_g": 0,
+              "fiber_g": 0,
+              "nutrients": {
+                "sodium_mg": 330,
+                "potassium_mg": 100,
+                "calcium_mg": 20,
+                "sugar_g": 0
+              }
+            },
+            {
+              "name": "Tillamook beef jerky, ~5 pieces (~1.5 oz)",
+              "kcal": 120,
+              "protein_g": 20,
+              "carbs_g": 9,
+              "fat_g": 1.5,
+              "fiber_g": 0,
+              "nutrients": {
+                "sodium_mg": 870,
+                "sugar_g": 7
+              }
+            },
+            {
+              "name": "Almonds, handful (~1 oz)",
+              "kcal": 165,
+              "protein_g": 6,
+              "carbs_g": 6,
+              "fat_g": 14,
+              "fiber_g": 3.5,
+              "nutrients": {
+                "magnesium_mg": 77,
+                "vite_mg": 7.3
+              }
+            }
+          ]
         }
       ],
       "active_kcal": 188

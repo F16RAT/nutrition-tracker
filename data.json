@@ -6721,20 +6721,20 @@
         {
           "time": "18:10",
           "name": "Meatballs over mashed potatoes, broccoli salad, tomatoes",
-          "note": "Photo estimate: 8 meatballs with onion gravy, ~3/4 cup mashed potatoes, ~1 cup broccoli salad/slaw, 3 tomato slices",
+          "note": "Photo estimate adjusted: 5 meatballs eaten (3 left) with onion gravy, ~3/4 cup mashed potatoes, ~1 cup broccoli salad/slaw, 3 tomato slices",
           "items": [
             {
-              "name": "Meatballs (8 medium, beef/pork est.)",
-              "kcal": 380,
-              "protein_g": 34,
-              "carbs_g": 10,
-              "fat_g": 22,
-              "fiber_g": 1,
+              "name": "Meatballs (5 medium, beef/pork est.)",
+              "kcal": 238,
+              "protein_g": 21,
+              "carbs_g": 6,
+              "fat_g": 14,
+              "fiber_g": 0.6,
               "nutrients": {
-                "sodium_mg": 720,
-                "iron_mg": 3.5,
-                "zinc_mg": 5.0,
-                "b12_mcg": 2.5
+                "sodium_mg": 450,
+                "iron_mg": 2.2,
+                "zinc_mg": 3.1,
+                "b12_mcg": 1.6
               }
             },
             {

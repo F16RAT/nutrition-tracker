@@ -6592,7 +6592,7 @@
     },
     "2026-11-19": {
       "day_type": "rest",
-      "notes": "Easy 30-40 min incline/StairMaster + core by early afternoon, nap, redeye AA1543 PHX 2359 to CLT (report 2259). Target 2,300 kcal / 160-170 g protein (long awake day). (Fitness Coach). No workout today ahead of redeye; switched to rest day.",
+      "notes": "Rest day (no gym) ahead of redeye AA1543 PHX 2359 to CLT (report 2259 MST). Evening outdoor walk: 43:04, 2.27 mi, 188 active / 268 total kcal, avg HR 98 bpm. Target 2,100 kcal / 150-160 g protein.",
       "weight_lb": 188.4,
       "meals": [
         {
@@ -6777,7 +6777,8 @@
             }
           ]
         }
-      ]
+      ],
+      "active_kcal": 188
     },
     "2026-11-20": {
       "meals": [],

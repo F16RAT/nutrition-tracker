@@ -6649,6 +6649,65 @@
             }
           ],
           "note": ""
+        },
+        {
+          "time": "18:10",
+          "name": "Meatballs over mashed potatoes, broccoli salad, tomatoes",
+          "note": "Photo estimate: 8 meatballs with onion gravy, ~3/4 cup mashed potatoes, ~1 cup broccoli salad/slaw, 3 tomato slices",
+          "items": [
+            {
+              "name": "Meatballs (8 medium, beef/pork est.)",
+              "kcal": 380,
+              "protein_g": 34,
+              "carbs_g": 10,
+              "fat_g": 22,
+              "fiber_g": 1,
+              "nutrients": {
+                "sodium_mg": 720,
+                "iron_mg": 3.5,
+                "zinc_mg": 5.0,
+                "b12_mcg": 2.5
+              }
+            },
+            {
+              "name": "Mashed potatoes (~3/4 cup) with onion gravy (~3 tbsp)",
+              "kcal": 225,
+              "protein_g": 4,
+              "carbs_g": 32,
+              "fat_g": 9,
+              "fiber_g": 2,
+              "nutrients": {
+                "sodium_mg": 450,
+                "potassium_mg": 450
+              }
+            },
+            {
+              "name": "Broccoli salad/slaw (~1 cup)",
+              "kcal": 75,
+              "protein_g": 3,
+              "carbs_g": 8,
+              "fat_g": 4,
+              "fiber_g": 3,
+              "nutrients": {
+                "vitC_mg": 65,
+                "vitk_mcg": 90,
+                "folate_mcg": 55,
+                "sodium_mg": 120
+              }
+            },
+            {
+              "name": "Sliced tomato (3 thick slices, black pepper)",
+              "kcal": 16,
+              "protein_g": 1,
+              "carbs_g": 4,
+              "fat_g": 0,
+              "fiber_g": 1,
+              "nutrients": {
+                "vitC_mg": 12,
+                "potassium_mg": 210
+              }
+            }
+          ]
         }
       ]
     },

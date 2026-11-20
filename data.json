@@ -6651,6 +6651,74 @@
           "note": ""
         },
         {
+          "time": "16:25",
+          "name": "Greek yogurt bowl with whey, berries, almonds, honey",
+          "note": "3/4 cup Fage 5%, 1 scoop ON whey, 1/2 cup berries, ~10 almonds, 1 tsp honey",
+          "items": [
+            {
+              "name": "Fage Total 5% Greek yogurt (3/4 cup)",
+              "kcal": 165,
+              "protein_g": 15,
+              "carbs_g": 5,
+              "fat_g": 9,
+              "fiber_g": 0,
+              "nutrients": {
+                "calcium_mg": 180,
+                "sodium_mg": 60,
+                "b12_mcg": 0.8
+              }
+            },
+            {
+              "name": "ON Gold Standard Whey (1 scoop)",
+              "kcal": 120,
+              "protein_g": 24,
+              "carbs_g": 3,
+              "fat_g": 1.5,
+              "fiber_g": 0,
+              "nutrients": {
+                "calcium_mg": 130,
+                "sodium_mg": 130
+              }
+            },
+            {
+              "name": "Mixed berries (1/2 cup)",
+              "kcal": 35,
+              "protein_g": 0.5,
+              "carbs_g": 8,
+              "fat_g": 0.2,
+              "fiber_g": 3,
+              "nutrients": {
+                "vitC_mg": 15,
+                "potassium_mg": 80
+              }
+            },
+            {
+              "name": "Almonds (~10 almonds, ~12 g)",
+              "kcal": 70,
+              "protein_g": 2.5,
+              "carbs_g": 2.5,
+              "fat_g": 6,
+              "fiber_g": 1.5,
+              "nutrients": {
+                "vite_mg": 3,
+                "magnesium_mg": 32,
+                "calcium_mg": 32
+              }
+            },
+            {
+              "name": "Honey (1 tsp)",
+              "kcal": 20,
+              "protein_g": 0,
+              "carbs_g": 6,
+              "fat_g": 0,
+              "fiber_g": 0,
+              "nutrients": {
+                "sugar_g": 6
+              }
+            }
+          ]
+        },
+        {
           "time": "18:10",
           "name": "Meatballs over mashed potatoes, broccoli salad, tomatoes",
           "note": "Photo estimate: 8 meatballs with onion gravy, ~3/4 cup mashed potatoes, ~1 cup broccoli salad/slaw, 3 tomato slices",

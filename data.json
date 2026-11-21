@@ -6947,6 +6947,59 @@
               }
             }
           ]
+        },
+        {
+          "time": "20:15",
+          "name": "Inflight snack (AA1451)",
+          "note": "From labels where readable. Ghirardelli Minis not logged yet (asked whether eaten).",
+          "items": [
+            {
+              "name": "Oikos Blended Greek Yogurt, Strawberry (150 g)",
+              "kcal": 100,
+              "protein_g": 13,
+              "carbs_g": 13,
+              "fat_g": 0,
+              "fiber_g": 0,
+              "nutrients": {
+                "sugar_g": 12,
+                "sodium_mg": 55
+              }
+            },
+            {
+              "name": "Pearls Olives to Go, pitted black (34 g)",
+              "kcal": 35,
+              "protein_g": 0,
+              "carbs_g": 2,
+              "fat_g": 3.5,
+              "fiber_g": 1,
+              "nutrients": {
+                "sodium_mg": 200
+              }
+            },
+            {
+              "name": "Fiorucci Panino, prosciutto + mozzarella (1.5 oz)",
+              "kcal": 130,
+              "protein_g": 9,
+              "carbs_g": 1,
+              "fat_g": 10,
+              "fiber_g": 0,
+              "nutrients": {
+                "sodium_mg": 500
+              }
+            },
+            {
+              "name": "Americano (grande) with half & half (~2 oz) and 1 sugar",
+              "kcal": 95,
+              "protein_g": 2,
+              "carbs_g": 6,
+              "fat_g": 7,
+              "fiber_g": 0,
+              "nutrients": {
+                "sugar_g": 6,
+                "caffeine_mg": 225
+              }
+            }
+          ]
         }
       ],
       "notes": "CLT layover (SEQ 11503), sleep first, optional short walk/mobility; AA1451 CLT 2034 ET to PHX 2320. Rest target 2,100 kcal / 150-160 g protein. Skip AG1.",

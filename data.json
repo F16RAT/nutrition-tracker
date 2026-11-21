@@ -6899,7 +6899,7 @@
         {
           "time": "19:45",
           "name": "Brookwood Farms BBQ (CLT Atrium)",
-          "note": "Chicken and pork plate, corn, green beans, hushpuppy; sauce cup (assume ~half used). Estimates from photo.",
+          "note": "Chicken and pork plate, corn, green beans. Skipped BBQ sauce and fried pickle. Estimates from photo.",
           "items": [
             {
               "name": "Pulled smoked chicken (~4 oz)",
@@ -6924,17 +6924,6 @@
               }
             },
             {
-              "name": "Hushpuppy (1 large, fried)",
-              "kcal": 150,
-              "protein_g": 2,
-              "carbs_g": 18,
-              "fat_g": 8,
-              "fiber_g": 1,
-              "nutrients": {
-                "sodium_mg": 250
-              }
-            },
-            {
               "name": "Corn (~3/4 cup, buttered)",
               "kcal": 130,
               "protein_g": 4,
@@ -6955,18 +6944,6 @@
               "fiber_g": 4,
               "nutrients": {
                 "sodium_mg": 500
-              }
-            },
-            {
-              "name": "BBQ sauce (~1 oz)",
-              "kcal": 40,
-              "protein_g": 0,
-              "carbs_g": 9,
-              "fat_g": 0,
-              "fiber_g": 0,
-              "nutrients": {
-                "sodium_mg": 300,
-                "sugar_g": 8
               }
             }
           ]

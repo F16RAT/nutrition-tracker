@@ -6951,7 +6951,7 @@
         {
           "time": "20:15",
           "name": "Inflight snack (AA1451)",
-          "note": "From labels where readable. Ghirardelli Minis not logged yet (asked whether eaten).",
+          "note": "From labels where readable; Ghirardelli Minis x2 estimated.",
           "items": [
             {
               "name": "Oikos Blended Greek Yogurt, Strawberry (150 g)",
@@ -6997,6 +6997,17 @@
               "nutrients": {
                 "sugar_g": 6,
                 "caffeine_mg": 225
+              }
+            },
+            {
+              "name": "Ghirardelli Minis Dark Chocolate Sea Salt Caramel x2",
+              "kcal": 110,
+              "protein_g": 1,
+              "carbs_g": 13,
+              "fat_g": 6,
+              "fiber_g": 1,
+              "nutrients": {
+                "sugar_g": 11
               }
             }
           ]

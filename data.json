@@ -7161,6 +7161,46 @@
               }
             }
           ]
+        },
+        {
+          "time": "12:20",
+          "name": "Croissant + sourdough toast",
+          "note": "Reported in text; assumed 1 medium butter croissant, 1 slice sourdough, ~1 tbsp butter.",
+          "items": [
+            {
+              "food": "Butter croissant, medium (~57 g)",
+              "kcal": 230,
+              "protein": 4.5,
+              "carbs": 26,
+              "fat": 12,
+              "fiber": 1.5,
+              "nutrients": {
+                "sodium_mg": 250
+              }
+            },
+            {
+              "food": "Sourdough toast (1 slice, ~50 g)",
+              "kcal": 130,
+              "protein": 5,
+              "carbs": 25,
+              "fat": 1,
+              "fiber": 1,
+              "nutrients": {
+                "sodium_mg": 280
+              }
+            },
+            {
+              "food": "Butter (~1 tbsp)",
+              "kcal": 100,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 11.5,
+              "fiber": 0,
+              "nutrients": {
+                "sat_fat_g": 7.3
+              }
+            }
+          ]
         }
       ],
       "day_type": "rest",

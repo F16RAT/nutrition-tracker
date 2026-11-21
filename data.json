@@ -7011,15 +7011,38 @@
               }
             }
           ]
+        },
+        {
+          "time": "23:55",
+          "name": "Late snack at home",
+          "note": "Usual homemade popcorn (popper, coconut oil) + 5 oz white wine. Eaten ~00:25 Nov 21, logged on Nov 20 per Todd.",
+          "items": [
+            {
+              "name": "Homemade popcorn (2 tbsp kernels, 1 tsp coconut oil)",
+              "kcal": 150,
+              "protein_g": 3,
+              "carbs_g": 18,
+              "fat_g": 6,
+              "fiber_g": 3.5,
+              "nutrients": {}
+            },
+            {
+              "name": "White wine (5 oz)",
+              "kcal": 120,
+              "protein_g": 0,
+              "carbs_g": 4,
+              "fat_g": 0,
+              "fiber_g": 0,
+              "nutrients": {
+                "alcohol_g": 14,
+                "sugar_g": 1.5
+              }
+            }
+          ]
         }
       ],
       "notes": "CLT layover (SEQ 11503), sleep first, optional short walk/mobility; AA1451 CLT 2034 ET to PHX 2320. Rest target 2,100 kcal / 150-160 g protein. Skip AG1.",
       "day_type": "rest"
-    },
-    "2026-11-21": {
-      "meals": [],
-      "notes": "Strength B at EOS ~60-70 min (moved from Nov 20). Target 2,300 kcal / 160-170 g protein. Right Achilles tender.",
-      "day_type": "lifting"
     },
     "2026-11-22": {
       "meals": [],

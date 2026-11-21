@@ -7201,6 +7201,61 @@
               }
             }
           ]
+        },
+        {
+          "time": "13:45",
+          "name": "Lunch (pancakes, sausage, fruit)",
+          "note": "From photo; assumed 2 pancakes = ~1/2 cup Krusteaz mix (label 210 kcal) plus prep, ~1 tbsp organic maple syrup, 1 pork sausage patty (~2 oz cooked), ~1 cup watermelon + 1 blackberry.",
+          "items": [
+            {
+              "food": "Krusteaz pancakes x2 (~1/2 cup mix + prep)",
+              "kcal": 270,
+              "protein": 7,
+              "carbs": 48,
+              "fat": 5,
+              "fiber": 0.8,
+              "nutrients": {
+                "sodium_mg": 700,
+                "calcium_mg": 120,
+                "iron_mg": 2,
+                "sugar_g": 11
+              }
+            },
+            {
+              "food": "Organic maple syrup (~1 tbsp)",
+              "kcal": 55,
+              "protein": 0,
+              "carbs": 13,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "sugar_g": 13
+              }
+            },
+            {
+              "food": "Pork sausage patty (~2 oz cooked)",
+              "kcal": 170,
+              "protein": 9,
+              "carbs": 0.5,
+              "fat": 14.5,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 380
+              }
+            },
+            {
+              "food": "Watermelon (~1 cup) + 1 blackberry",
+              "kcal": 48,
+              "protein": 1,
+              "carbs": 12,
+              "fat": 0.2,
+              "fiber": 0.8,
+              "nutrients": {
+                "vitC_mg": 13,
+                "potassium_mg": 175
+              }
+            }
+          ]
         }
       ],
       "day_type": "rest",

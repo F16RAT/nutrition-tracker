@@ -7050,7 +7050,78 @@
       "day_type": "rest"
     },
     "2026-11-21": {
-      "meals": [],
+      "meals": [
+        {
+          "time": "11:50",
+          "name": "Breakfast (protein smoothie)",
+          "note": "From photo; assumed 1 scoop whey, 1 cup a2 milk, ~1/2 cup Fage 5%, 1/2 cup berries, 1 banana. AG1 pending confirmation.",
+          "items": [
+            {
+              "food": "ON Gold Standard Whey, vanilla (1 scoop, 31 g)",
+              "kcal": 120,
+              "protein": 24,
+              "carbs": 4,
+              "fat": 1.5,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 130,
+                "calcium_mg": 130,
+                "potassium_mg": 150
+              }
+            },
+            {
+              "food": "a2 whole milk (1 cup)",
+              "kcal": 150,
+              "protein": 8,
+              "carbs": 12,
+              "fat": 8,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 300,
+                "sodium_mg": 120,
+                "potassium_mg": 380,
+                "vitD_mcg": 2.5
+              }
+            },
+            {
+              "food": "Banana, medium",
+              "kcal": 105,
+              "protein": 1.3,
+              "carbs": 27,
+              "fat": 0.4,
+              "fiber": 3.1,
+              "nutrients": {
+                "potassium_mg": 422,
+                "magnesium_mg": 32
+              }
+            },
+            {
+              "food": "Wyman's frozen triple berry (1/2 cup)",
+              "kcal": 35,
+              "protein": 0.5,
+              "carbs": 8,
+              "fat": 0.3,
+              "fiber": 3,
+              "nutrients": {
+                "vitC_mg": 10
+              }
+            },
+            {
+              "food": "Fage Total 5% Greek yogurt (~1/2 cup)",
+              "kcal": 110,
+              "protein": 11,
+              "carbs": 4,
+              "fat": 5.5,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 125,
+                "sodium_mg": 40,
+                "potassium_mg": 160
+              }
+            }
+          ]
+        }
+      ],
       "day_type": "rest",
       "notes": "Home after SEQ 11503. Fitness Coach: easy conditioning (30-40 min StairMaster/incline walk + core), may skip; treat as rest unless active kcal sent. Target 2,100 kcal / 150-160 g protein."
     }

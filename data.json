@@ -7256,6 +7256,28 @@
               }
             }
           ]
+        },
+        {
+          "time": "14:15",
+          "name": "Snack (hard-boiled eggs)",
+          "note": "2 large hard-boiled eggs, whole.",
+          "items": [
+            {
+              "food": "Hard-boiled eggs, large x2",
+              "kcal": 156,
+              "protein": 12.6,
+              "carbs": 1.1,
+              "fat": 10.6,
+              "fiber": 0,
+              "nutrients": {
+                "choline_mg": 294,
+                "cholesterol_mg": 372,
+                "selenium_mcg": 31,
+                "vitD_mcg": 2.2,
+                "b12_mcg": 1.1
+              }
+            }
+          ]
         }
       ],
       "day_type": "rest",

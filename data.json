@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-21T16:08:06-07:00",
+ "last_updated": "2026-11-22T16:07:20-07:00",
  "targets": {
   "kcal": 2200,
   "kcal_by_day_type": {
@@ -7047,6 +7047,24 @@
   "2026-11-22": {
    "meals": [
     {
+     "time": "08:00",
+     "name": "Supplements (morning)",
+     "items": [
+      {
+       "food": "ProHealth Magnesium Glycinate (1 capsule; 100 mg Mg, 600 mg glycine)",
+       "kcal": 0,
+       "protein": 0,
+       "carbs": 0,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "magnesium_mg": 100
+       }
+      }
+     ],
+     "note": ""
+    },
+    {
      "time": "08:56",
      "name": "Breakfast (biscuits and sausage gravy)",
      "note": "From photo via Fitness Coach; assumed 1 large biscuit split, ~1 cup sausage gravy.",
@@ -7227,6 +7245,25 @@
        }
       }
      ]
+    },
+    {
+     "time": "16:00",
+     "name": "Supplements",
+     "items": [
+      {
+       "food": "Sports Research D3 + K2 (1 softgel; 125 mcg/5,000 IU D3, 100 mcg K2 as MK-7)",
+       "kcal": 5,
+       "protein": 0,
+       "carbs": 0,
+       "fat": 0.5,
+       "fiber": 0,
+       "nutrients": {
+        "vitD_mcg": 125,
+        "vitk_mcg": 100
+       }
+      }
+     ],
+     "note": ""
     }
    ],
    "notes": "Firm rest day (church); optional 15-20 min stretch. Target 2,100 kcal / 150-160 g protein.",

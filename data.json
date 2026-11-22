@@ -7046,7 +7046,7 @@
     },
     "2026-11-22": {
       "meals": [],
-      "notes": "Rest day. 2,100 kcal / 150-160 g protein.",
+      "notes": "Firm rest day (church); optional 15-20 min stretch. Target 2,100 kcal / 150-160 g protein.",
       "day_type": "rest"
     },
     "2026-11-21": {
@@ -7382,6 +7382,11 @@
       "day_type": "rest",
       "notes": "Home after SEQ 11503. Fitness Coach: easy conditioning (30-40 min StairMaster/incline walk + core), may skip; treat as rest unless active kcal sent. Target 2,100 kcal / 150-160 g protein. Done at EOS: StairMaster + flexibility 34 min, 291 active kcal (watch); core 2 rounds unrecorded.",
       "active_kcal": 291
+    },
+    "2026-11-23": {
+      "meals": [],
+      "day_type": "hard",
+      "notes": "Strength A legs at EOS, 75-90 min, firm (golden day). Target 2,450 kcal / 165-170 g protein. Weigh-in morning."
     }
   }
 }

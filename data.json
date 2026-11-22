@@ -7182,6 +7182,22 @@
        }
       }
      ]
+    },
+    {
+     "time": "14:05",
+     "name": "Snack",
+     "note": "From photo; energy drink pending",
+     "items": [
+      {
+       "food": "Chomps Original grass-fed beef stick (1.15 oz)",
+       "kcal": 100,
+       "protein": 10,
+       "carbs": 0,
+       "fat": 6,
+       "fiber": 0,
+       "nutrients": {}
+      }
+     ]
     }
    ],
    "notes": "Firm rest day (church); optional 15-20 min stretch. Target 2,100 kcal / 150-160 g protein.",

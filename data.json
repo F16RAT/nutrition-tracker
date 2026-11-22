@@ -7047,7 +7047,8 @@
     "2026-11-22": {
       "meals": [],
       "notes": "Firm rest day (church); optional 15-20 min stretch. Target 2,100 kcal / 150-160 g protein.",
-      "day_type": "rest"
+      "day_type": "rest",
+      "weight_lb": 189.5
     },
     "2026-11-21": {
       "meals": [

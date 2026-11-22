@@ -7186,7 +7186,7 @@
     {
      "time": "14:05",
      "name": "Snack",
-     "note": "From photo; energy drink pending",
+     "note": "From photo",
      "items": [
       {
        "food": "Chomps Original grass-fed beef stick (1.15 oz)",
@@ -7194,6 +7194,15 @@
        "protein": 10,
        "carbs": 0,
        "fat": 6,
+       "fiber": 0,
+       "nutrients": {}
+      },
+      {
+       "food": "Arizona Cotton Candy energy drink, zero sugar (can)",
+       "kcal": 10,
+       "protein": 0,
+       "carbs": 2,
+       "fat": 0,
        "fiber": 0,
        "nutrients": {}
       }

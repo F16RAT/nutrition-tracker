@@ -7045,7 +7045,38 @@
       "day_type": "rest"
     },
     "2026-11-22": {
-      "meals": [],
+      "meals": [
+        {
+          "time": "08:56",
+          "name": "Breakfast (biscuits and sausage gravy)",
+          "note": "From photo via Fitness Coach; assumed 1 large biscuit split, ~1 cup sausage gravy.",
+          "items": [
+            {
+              "food": "Biscuit, large (~3 in)",
+              "kcal": 250,
+              "protein": 5,
+              "carbs": 30,
+              "fat": 12,
+              "fiber": 1,
+              "nutrients": {
+                "sodium_mg": 550
+              }
+            },
+            {
+              "food": "Sausage gravy (~1 cup)",
+              "kcal": 400,
+              "protein": 14,
+              "carbs": 20,
+              "fat": 30,
+              "fiber": 0.5,
+              "nutrients": {
+                "sodium_mg": 1100,
+                "calcium_mg": 150
+              }
+            }
+          ]
+        }
+      ],
       "notes": "Firm rest day (church); optional 15-20 min stretch. Target 2,100 kcal / 150-160 g protein.",
       "day_type": "rest",
       "weight_lb": 189.5

@@ -7207,6 +7207,26 @@
        "nutrients": {}
       }
      ]
+    },
+    {
+     "time": "14:25",
+     "name": "Snack (whey shake)",
+     "note": "1 scoop with water",
+     "items": [
+      {
+       "food": "ON Gold Standard Whey, vanilla (1 scoop, 31 g)",
+       "kcal": 120,
+       "protein": 24,
+       "carbs": 4,
+       "fat": 1.5,
+       "fiber": 0,
+       "nutrients": {
+        "sodium_mg": 130,
+        "calcium_mg": 130,
+        "potassium_mg": 150
+       }
+      }
+     ]
     }
    ],
    "notes": "Firm rest day (church); optional 15-20 min stretch. Target 2,100 kcal / 150-160 g protein.",

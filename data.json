@@ -7334,6 +7334,49 @@
               }
             }
           ]
+        },
+        {
+          "time": "17:00",
+          "name": "Dinner (white chicken chili)",
+          "note": "From photo; assumed ~1.25 cup creamy white chicken chili, ~20 oyster crackers, 1 small cornbread muffin with ~1 tsp butter.",
+          "items": [
+            {
+              "food": "White chicken chili, creamy (~1.25 cup)",
+              "kcal": 380,
+              "protein": 28,
+              "carbs": 22,
+              "fat": 19,
+              "fiber": 5,
+              "nutrients": {
+                "sodium_mg": 900,
+                "calcium_mg": 150,
+                "potassium_mg": 550
+              }
+            },
+            {
+              "food": "Oyster crackers (~20)",
+              "kcal": 60,
+              "protein": 1,
+              "carbs": 10,
+              "fat": 1.5,
+              "fiber": 0.3,
+              "nutrients": {
+                "sodium_mg": 150
+              }
+            },
+            {
+              "food": "Small cornbread muffin + ~1 tsp butter",
+              "kcal": 170,
+              "protein": 3,
+              "carbs": 22,
+              "fat": 8,
+              "fiber": 1,
+              "nutrients": {
+                "sodium_mg": 280,
+                "sugar_g": 7
+              }
+            }
+          ]
         }
       ],
       "day_type": "rest",

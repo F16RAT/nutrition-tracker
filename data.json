@@ -7073,6 +7073,20 @@
                 "sodium_mg": 1100,
                 "calcium_mg": 150
               }
+            },
+            {
+              "food": "a2 2% milk (~6 oz, half glass)",
+              "kcal": 90,
+              "protein": 6,
+              "carbs": 9,
+              "fat": 3.4,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 225,
+                "potassium_mg": 285,
+                "vitD_mcg": 2,
+                "sodium_mg": 90
+              }
             }
           ]
         }

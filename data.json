@@ -7341,6 +7341,33 @@
        "nutrients": {}
       }
      ]
+    },
+    {
+     "time": "21:30",
+     "name": "Evening snack",
+     "note": "Popcorn (popper, coconut oil) and Guinness; assumed 12 oz Draught",
+     "items": [
+      {
+       "food": "Popcorn, air popper with coconut oil",
+       "kcal": 150,
+       "protein": 3,
+       "carbs": 19,
+       "fat": 7,
+       "fiber": 3.5,
+       "nutrients": {}
+      },
+      {
+       "food": "Guinness Draught (12 oz)",
+       "kcal": 125,
+       "protein": 1,
+       "carbs": 10,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {
+        "alcohol_g": 11
+       }
+      }
+     ]
     }
    ],
    "notes": "Firm rest day (church); optional 15-20 min stretch. Target 2,100 kcal / 150-160 g protein.",

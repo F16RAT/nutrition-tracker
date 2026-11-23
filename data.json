@@ -7709,7 +7709,51 @@
    "active_kcal": 291
   },
   "2026-11-23": {
-   "meals": [],
+   "meals": [
+    {
+     "time": "10:50",
+     "name": "Breakfast",
+     "note": "From photo; banana on side not counted yet",
+     "items": [
+      {
+       "food": "Eggs x2, over-medium (cooked in butter)",
+       "kcal": 180,
+       "protein": 12.6,
+       "carbs": 1,
+       "fat": 13,
+       "fiber": 0,
+       "nutrients": {}
+      },
+      {
+       "food": "Bacon, 2 strips",
+       "kcal": 90,
+       "protein": 6,
+       "carbs": 0,
+       "fat": 7,
+       "fiber": 0,
+       "nutrients": {}
+      },
+      {
+       "food": "Sourdough toast, 1 large slice",
+       "kcal": 130,
+       "protein": 5,
+       "carbs": 25,
+       "fat": 1,
+       "fiber": 1,
+       "nutrients": {}
+      },
+      {
+       "food": "Mango, ~1 cup slices",
+       "kcal": 100,
+       "protein": 1.4,
+       "carbs": 25,
+       "fat": 0.6,
+       "fiber": 2.6,
+       "nutrients": {}
+      }
+     ]
+    }
+   ],
    "day_type": "hard",
    "notes": "Strength A legs at EOS, 75-90 min, firm (golden day). Target 2,450 kcal / 165-170 g protein. Weigh-in morning. Confirmed by Fitness Coach 7:42 AM: squat 195 3x8, RDL 175 3x8, leg press 270 3x12, leg ext/curl superset 3x12-15, core."
   },

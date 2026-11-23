@@ -7280,6 +7280,67 @@
        "nutrients": {}
       }
      ]
+    },
+    {
+     "time": "18:10",
+     "name": "Dinner",
+     "note": "From photo; portions estimated",
+     "items": [
+      {
+       "food": "Flour tortillas x2 (~6 in)",
+       "kcal": 190,
+       "protein": 5,
+       "carbs": 32,
+       "fat": 5,
+       "fiber": 2,
+       "nutrients": {}
+      },
+      {
+       "food": "Grilled chicken, ~3 oz, with peppers/onions",
+       "kcal": 160,
+       "protein": 24,
+       "carbs": 3,
+       "fat": 6,
+       "fiber": 0.5,
+       "nutrients": {}
+      },
+      {
+       "food": "Cotija/feta crumbles, ~2 tbsp",
+       "kcal": 60,
+       "protein": 4,
+       "carbs": 1,
+       "fat": 5,
+       "fiber": 0,
+       "nutrients": {}
+      },
+      {
+       "food": "Shrimp, ~4 oz cooked (6 large), with onions and green salsa",
+       "kcal": 140,
+       "protein": 24,
+       "carbs": 5,
+       "fat": 3,
+       "fiber": 1,
+       "nutrients": {}
+      },
+      {
+       "food": "Black bean, corn, chickpea and cucumber salad, ~3/4 cup",
+       "kcal": 160,
+       "protein": 7,
+       "carbs": 26,
+       "fat": 4,
+       "fiber": 7,
+       "nutrients": {}
+      },
+      {
+       "food": "Waterloo sparkling water, raspberry nectarine",
+       "kcal": 0,
+       "protein": 0,
+       "carbs": 0,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {}
+      }
+     ]
     }
    ],
    "notes": "Firm rest day (church); optional 15-20 min stretch. Target 2,100 kcal / 150-160 g protein.",

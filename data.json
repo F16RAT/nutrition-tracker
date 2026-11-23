@@ -7264,6 +7264,22 @@
       }
      ],
      "note": ""
+    },
+    {
+     "time": "17:20",
+     "name": "Snack",
+     "note": "Handful of almonds (~1 oz est.)",
+     "items": [
+      {
+       "food": "Almonds, handful (~1 oz, ~23 nuts)",
+       "kcal": 165,
+       "protein": 6,
+       "carbs": 6,
+       "fat": 14,
+       "fiber": 3.5,
+       "nutrients": {}
+      }
+     ]
     }
    ],
    "notes": "Firm rest day (church); optional 15-20 min stretch. Target 2,100 kcal / 150-160 g protein.",

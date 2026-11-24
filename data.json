@@ -7921,6 +7921,58 @@
       }
      ],
      "note": ""
+    },
+    {
+     "time": "17:15",
+     "name": "Dinner",
+     "note": "From photo; portions estimated",
+     "items": [
+      {
+       "food": "Crunchy corn taco shells x3",
+       "kcal": 180,
+       "protein": 3,
+       "carbs": 21,
+       "fat": 9,
+       "fiber": 2,
+       "nutrients": {}
+      },
+      {
+       "food": "Seasoned ground beef, ~4.5 oz cooked",
+       "kcal": 290,
+       "protein": 32,
+       "carbs": 2,
+       "fat": 17,
+       "fiber": 0,
+       "nutrients": {}
+      },
+      {
+       "food": "Shredded cheddar cheese, ~3 tbsp",
+       "kcal": 90,
+       "protein": 5.5,
+       "carbs": 1,
+       "fat": 7.5,
+       "fiber": 0,
+       "nutrients": {}
+      },
+      {
+       "food": "Lettuce and pico de gallo, ~3/4 cup",
+       "kcal": 25,
+       "protein": 1,
+       "carbs": 5,
+       "fat": 0,
+       "fiber": 1.5,
+       "nutrients": {}
+      },
+      {
+       "food": "Round tortilla chips, ~1 oz (~10-12 chips)",
+       "kcal": 140,
+       "protein": 2,
+       "carbs": 19,
+       "fat": 7,
+       "fiber": 1.5,
+       "nutrients": {}
+      }
+     ]
     }
    ],
    "day_type": "hard",

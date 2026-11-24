@@ -8214,8 +8214,9 @@
           ]
         }
       ],
-      "notes": "Fitness Coach update 7:44 AM: Camelback Mountain, ~10-11 AM start, 2-2.5 hr, ~2.5-3 mi, ~1,400 ft steep/technical, no heavy pack. Trimmed target ~2,300-2,350 kcal, 165-170 g protein. Bring 2+ L water.",
-      "day_type": "hard"
+      "notes": "Fitness Coach update 7:44 AM: Camelback Mountain, ~10-11 AM start, 2-2.5 hr, ~2.5-3 mi, ~1,400 ft steep/technical, no heavy pack. Trimmed target ~2,300-2,350 kcal, 165-170 g protein. Bring 2+ L water. | Camelback done: 3:02:41, 4.07 mi, 638 active kcal, 977 total, avg HR 110 (max 145), per Fitness Coach. Wed off/mobility, Thu Strength B.",
+      "day_type": "hard",
+      "active_kcal": 638
     }
   }
 }

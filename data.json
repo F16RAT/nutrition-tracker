@@ -8155,6 +8155,48 @@
               }
             }
           ]
+        },
+        {
+          "time": "14:50",
+          "name": "Lunch (Farm & Craft)",
+          "note": "Photo: steak melt wrap, side salad, iced tea, water",
+          "items": [
+            {
+              "food": "Farm & Craft steak melt wrap (flour tortilla, steak, cheese, roasted red peppers, greens, sauce), est.",
+              "kcal": 720,
+              "protein": 40,
+              "carbs": 55,
+              "fat": 36,
+              "fiber": 3,
+              "nutrients": {
+                "sodium_mg": 1400,
+                "sat_fat_g": 13,
+                "iron_mg": 4
+              }
+            },
+            {
+              "food": "Side mixed greens with carrots and dressing (est.)",
+              "kcal": 110,
+              "protein": 1.5,
+              "carbs": 6,
+              "fat": 9,
+              "fiber": 2,
+              "nutrients": {
+                "sodium_mg": 180,
+                "vitamin_k_mcg": 90,
+                "vitamin_a_mcg": 250
+              }
+            },
+            {
+              "food": "Iced tea (assumed unsweetened)",
+              "kcal": 0,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {}
+            }
+          ]
         }
       ],
       "notes": "Fitness Coach update 7:44 AM: Camelback Mountain, ~10-11 AM start, 2-2.5 hr, ~2.5-3 mi, ~1,400 ft steep/technical, no heavy pack. Trimmed target ~2,300-2,350 kcal, 165-170 g protein. Bring 2+ L water.",

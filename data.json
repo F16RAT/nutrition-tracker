@@ -8195,6 +8195,21 @@
               "fat": 0,
               "fiber": 0,
               "nutrients": {}
+            },
+            {
+              "food": "Hummus with chickpea-olive-sun-dried tomato topping and pita, ~1/3 of shared plate (est.)",
+              "kcal": 310,
+              "protein": 9,
+              "carbs": 32,
+              "fat": 16,
+              "fiber": 6,
+              "nutrients": {
+                "sodium_mg": 520,
+                "sat_fat_g": 2.2,
+                "iron_mg": 2,
+                "folate_mcg": 60,
+                "magnesium_mg": 35
+              }
             }
           ]
         }

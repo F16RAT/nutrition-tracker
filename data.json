@@ -7977,7 +7977,7 @@
     {
      "time": "19:30",
      "name": "Movie snacks (Harkins)",
-     "note": "1/3 of extra large popcorn, butter topping not confirmed",
+     "note": "1/3 of extra large popcorn with butter topping",
      "items": [
       {
        "food": "M&M's milk chocolate, theater box (~3.1 oz)",
@@ -8004,6 +8004,15 @@
        "carbs": 45,
        "fat": 22,
        "fiber": 8,
+       "nutrients": {}
+      },
+      {
+       "food": "Butter-flavored topping, ~1/3 share (~2 tbsp)",
+       "kcal": 200,
+       "protein": 0,
+       "carbs": 0,
+       "fat": 22,
+       "fiber": 0,
        "nutrients": {}
       }
      ]

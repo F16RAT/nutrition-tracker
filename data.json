@@ -8162,29 +8162,29 @@
           "note": "Photo: steak melt wrap, side salad, iced tea, water",
           "items": [
             {
-              "food": "Farm & Craft steak melt wrap (flour tortilla, steak, cheese, roasted red peppers, greens, sauce), est.",
-              "kcal": 720,
-              "protein": 40,
-              "carbs": 55,
-              "fat": 36,
-              "fiber": 3,
+              "food": "Farm & Craft steak melt wrap (flour tortilla, steak, cheese, roasted red peppers, greens, sauce), est. (ate ~70%)",
+              "kcal": 504.0,
+              "protein": 28.0,
+              "carbs": 38.5,
+              "fat": 25.2,
+              "fiber": 2.1,
               "nutrients": {
-                "sodium_mg": 1400,
-                "sat_fat_g": 13,
-                "iron_mg": 4
+                "sodium_mg": 980.0,
+                "sat_fat_g": 9.1,
+                "iron_mg": 2.8
               }
             },
             {
-              "food": "Side mixed greens with carrots and dressing (est.)",
-              "kcal": 110,
-              "protein": 1.5,
-              "carbs": 6,
-              "fat": 9,
-              "fiber": 2,
+              "food": "Side mixed greens with carrots and dressing (est.) (ate ~60%)",
+              "kcal": 66.0,
+              "protein": 0.9,
+              "carbs": 3.6,
+              "fat": 5.4,
+              "fiber": 1.2,
               "nutrients": {
-                "sodium_mg": 180,
-                "vitamin_k_mcg": 90,
-                "vitamin_a_mcg": 250
+                "sodium_mg": 108.0,
+                "vitamin_k_mcg": 54.0,
+                "vitamin_a_mcg": 150.0
               }
             },
             {

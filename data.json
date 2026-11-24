@@ -7973,6 +7973,31 @@
        "nutrients": {}
       }
      ]
+    },
+    {
+     "time": "19:30",
+     "name": "Movie snacks (Harkins)",
+     "note": "Popcorn size pending",
+     "items": [
+      {
+       "food": "M&M's milk chocolate, theater box (~3.1 oz)",
+       "kcal": 430,
+       "protein": 4,
+       "carbs": 62,
+       "fat": 18,
+       "fiber": 2.5,
+       "nutrients": {}
+      },
+      {
+       "food": "Unsweetened iced tea",
+       "kcal": 0,
+       "protein": 0,
+       "carbs": 0,
+       "fat": 0,
+       "fiber": 0,
+       "nutrients": {}
+      }
+     ]
     }
    ],
    "day_type": "hard",

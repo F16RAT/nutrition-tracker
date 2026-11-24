@@ -8197,18 +8197,31 @@
               "nutrients": {}
             },
             {
-              "food": "Hummus with chickpea-olive-sun-dried tomato topping and pita, ~1/3 of shared plate (est.)",
-              "kcal": 310,
-              "protein": 9,
-              "carbs": 32,
-              "fat": 16,
-              "fiber": 6,
+              "food": "Hummus with chickpea-olive-sun-dried tomato topping and pita, ~1/4 of shared plate (est.)",
+              "kcal": 232.5,
+              "protein": 6.8,
+              "carbs": 24.0,
+              "fat": 12.0,
+              "fiber": 4.5,
               "nutrients": {
-                "sodium_mg": 520,
-                "sat_fat_g": 2.2,
-                "iron_mg": 2,
-                "folate_mcg": 60,
-                "magnesium_mg": 35
+                "sodium_mg": 390.0,
+                "sat_fat_g": 1.7,
+                "iron_mg": 1.5,
+                "folate_mcg": 45.0,
+                "magnesium_mg": 26.2
+              }
+            },
+            {
+              "food": "Steak picked from leftover wrap (~1.25 oz, est.)",
+              "kcal": 85,
+              "protein": 9,
+              "carbs": 0,
+              "fat": 5,
+              "fiber": 0,
+              "nutrients": {
+                "iron_mg": 0.9,
+                "sodium_mg": 120,
+                "sat_fat_g": 2
               }
             }
           ]

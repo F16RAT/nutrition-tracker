@@ -8305,6 +8305,38 @@
               }
             }
           ]
+        },
+        {
+          "time": "19:25",
+          "name": "Dinner",
+          "note": "Photo: large pepperoni pizza slice + 4 seasoned wings (likely fried)",
+          "items": [
+            {
+              "food": "Pepperoni pizza, large slice (~1/6 of 16 in, est.)",
+              "kcal": 400,
+              "protein": 17,
+              "carbs": 42,
+              "fat": 18,
+              "fiber": 2.5,
+              "nutrients": {
+                "sodium_mg": 950,
+                "sat_fat_g": 7.5,
+                "calcium_mg": 250
+              }
+            },
+            {
+              "food": "Seasoned chicken wings x4 (likely fried, est.)",
+              "kcal": 360,
+              "protein": 28,
+              "carbs": 4,
+              "fat": 26,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 700,
+                "sat_fat_g": 7
+              }
+            }
+          ]
         }
       ],
       "notes": "Fitness Coach update 7:44 AM: Camelback Mountain, ~10-11 AM start, 2-2.5 hr, ~2.5-3 mi, ~1,400 ft steep/technical, no heavy pack. Trimmed target ~2,300-2,350 kcal, 165-170 g protein. Bring 2+ L water. | Camelback done: 3:02:41, 4.07 mi, 638 active kcal, 977 total, avg HR 110 (max 145), per Fitness Coach. Wed off/mobility, Thu Strength B. | Pickleball 1:14:08, 472 active kcal, avg HR 117 (max 159), ended ~6:52 PM. Day total ~1,110 active kcal.",

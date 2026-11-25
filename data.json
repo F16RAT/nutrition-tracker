@@ -8492,6 +8492,37 @@
               }
             }
           ]
+        },
+        {
+          "time": "14:59",
+          "name": "Snack (Starbucks)",
+          "note": "Cortado with one sugar; assumed 2% milk",
+          "items": [
+            {
+              "food": "Starbucks cortado, 2% milk (est.)",
+              "kcal": 110,
+              "protein": 6,
+              "carbs": 9,
+              "fat": 5,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 200,
+                "caffeine_mg": 150,
+                "sat_fat_g": 3
+              }
+            },
+            {
+              "food": "Sugar, 1 packet (4 g)",
+              "kcal": 15,
+              "protein": 0,
+              "carbs": 4,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "sugar_g": 4
+              }
+            }
+          ]
         }
       ],
       "day_type": "rest",

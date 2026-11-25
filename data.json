@@ -8337,6 +8337,47 @@
               }
             }
           ]
+        },
+        {
+          "time": "21:55",
+          "name": "Snack",
+          "note": "Photo: Greek yogurt, blueberries, honey",
+          "items": [
+            {
+              "food": "Fage 5% Greek yogurt (~3/4 cup, est.)",
+              "kcal": 165,
+              "protein": 15,
+              "carbs": 6,
+              "fat": 9,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 180,
+                "sat_fat_g": 6
+              }
+            },
+            {
+              "food": "Blueberries (~1/3 cup)",
+              "kcal": 28,
+              "protein": 0.4,
+              "carbs": 7,
+              "fat": 0.2,
+              "fiber": 1.2,
+              "nutrients": {
+                "vitamin_c_mg": 5
+              }
+            },
+            {
+              "food": "Honey (~2 tsp)",
+              "kcal": 43,
+              "protein": 0,
+              "carbs": 11.5,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "sugar_g": 11.5
+              }
+            }
+          ]
         }
       ],
       "notes": "Fitness Coach update 7:44 AM: Camelback Mountain, ~10-11 AM start, 2-2.5 hr, ~2.5-3 mi, ~1,400 ft steep/technical, no heavy pack. Trimmed target ~2,300-2,350 kcal, 165-170 g protein. Bring 2+ L water. | Camelback done: 3:02:41, 4.07 mi, 638 active kcal, 977 total, avg HR 110 (max 145), per Fitness Coach. Wed off/mobility, Thu Strength B. | Pickleball 1:14:08, 472 active kcal, avg HR 117 (max 159), ended ~6:52 PM. Day total ~1,110 active kcal.",

@@ -8579,6 +8579,60 @@
               }
             }
           ]
+        },
+        {
+          "time": "16:30",
+          "name": "Snack",
+          "note": "Photo: Greek yogurt, blueberries, walnuts, almonds, pepitas, honey",
+          "items": [
+            {
+              "food": "Fage 5% Greek yogurt (~3/4 cup, est.)",
+              "kcal": 165,
+              "protein": 15,
+              "carbs": 6,
+              "fat": 9,
+              "fiber": 0,
+              "nutrients": {
+                "calcium_mg": 180,
+                "sat_fat_g": 6
+              }
+            },
+            {
+              "food": "Blueberries (~1/3 cup)",
+              "kcal": 28,
+              "protein": 0.4,
+              "carbs": 7,
+              "fat": 0.2,
+              "fiber": 1.2,
+              "nutrients": {
+                "vitamin_c_mg": 5
+              }
+            },
+            {
+              "food": "Walnuts, almonds, pepitas (~1/2 oz mixed)",
+              "kcal": 90,
+              "protein": 2.5,
+              "carbs": 2,
+              "fat": 8,
+              "fiber": 1.2,
+              "nutrients": {
+                "magnesium_mg": 35,
+                "potassium_mg": 80,
+                "omega3_ala_g": 0.6
+              }
+            },
+            {
+              "food": "Honey (~2 tsp)",
+              "kcal": 43,
+              "protein": 0,
+              "carbs": 11.5,
+              "fat": 0,
+              "fiber": 0,
+              "nutrients": {
+                "sugar_g": 11.5
+              }
+            }
+          ]
         }
       ],
       "day_type": "rest",

@@ -8385,7 +8385,28 @@
       "active_kcal": 1110
     },
     "2026-11-25": {
-      "meals": [],
+      "meals": [
+        {
+          "time": "11:45",
+          "name": "Breakfast",
+          "note": "Photo: monkey bread, ate ~1/6",
+          "items": [
+            {
+              "food": "Monkey bread, ~1/6 of loaf (est.)",
+              "kcal": 400,
+              "protein": 5,
+              "carbs": 55,
+              "fat": 18,
+              "fiber": 1,
+              "nutrients": {
+                "sugar_g": 28,
+                "sat_fat_g": 8,
+                "sodium_mg": 520
+              }
+            }
+          ]
+        }
+      ],
       "day_type": "rest",
       "notes": "Firm rest/mobility day (golden day off), per Fitness Coach: 20 min mobility, optional 20-30 min walk. Target ~2,100 kcal, 150-160 g protein. Thu Nov 26 Strength B AM (~75 min)."
     }

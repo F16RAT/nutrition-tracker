@@ -8405,6 +8405,26 @@
               }
             }
           ]
+        },
+        {
+          "time": "11:50",
+          "name": "Whey shake",
+          "note": "With water",
+          "items": [
+            {
+              "food": "ON Gold Standard Whey, vanilla (1 scoop, 31 g)",
+              "kcal": 120,
+              "protein": 24,
+              "carbs": 4,
+              "fat": 1.5,
+              "fiber": 0,
+              "nutrients": {
+                "sodium_mg": 130,
+                "calcium_mg": 130,
+                "potassium_mg": 150
+              }
+            }
+          ]
         }
       ],
       "day_type": "rest",

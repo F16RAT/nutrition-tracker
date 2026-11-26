@@ -8694,6 +8694,42 @@
               "nutrients": {}
             }
           ]
+        },
+        {
+          "time": "22:50",
+          "name": "Evening snack",
+          "note": "Popper popcorn with coconut oil; two scotches (1.5 oz each)",
+          "items": [
+            {
+              "food": "Popcorn, popper with coconut oil",
+              "kcal": 150,
+              "protein": 3,
+              "carbs": 18,
+              "fat": 8,
+              "fiber": 3.5,
+              "nutrients": {}
+            },
+            {
+              "food": "Scotch, 1.5 oz",
+              "kcal": 97,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0,
+              "fiber": 0,
+              "alcohol_g": 14,
+              "nutrients": {}
+            },
+            {
+              "food": "Scotch, 1.5 oz",
+              "kcal": 97,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0,
+              "fiber": 0,
+              "alcohol_g": 14,
+              "nutrients": {}
+            }
+          ]
         }
       ],
       "day_type": "rest",
